@@ -10,7 +10,7 @@ tools:
   zap: false
   wappalyzer: true
   http: true
-  testssl: true
+  testssl: false
   lighthouse: true
   thirdparties: true
   nuclei: true
