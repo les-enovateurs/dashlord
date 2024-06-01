@@ -5,7 +5,7 @@ footer: Powered by SocialGouv
 marianne: false
 tools:
   "404": true
-  screenshot: true
+  screenshot: false
   nmap: true
   zap: false
   wappalyzer: true
@@ -13,7 +13,7 @@ tools:
   testssl: false
   lighthouse: true
   thirdparties: true
-  nuclei: true
+  nuclei: false
   updownio: false
   dependabot: false
   codescan: false
@@ -30,8 +30,8 @@ updownioRecipients:
   - email:789987
 urls:
 #  - url: http://www.humanitesouveraine.crd.co
-  - url: https://decidonsnousmemes.fr/
-#  - url: https://votezmarion.fr
+#  - url: https://decidonsnousmemes.fr/
+  - url: https://votezmarion.fr
 #  - url: https://lunionpopulaire.fr
 #  - url: https://vivementle9juin.fr
 #  - url: https://ecologie2024.eu
