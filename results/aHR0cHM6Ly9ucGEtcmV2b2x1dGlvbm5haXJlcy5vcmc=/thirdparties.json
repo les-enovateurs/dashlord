@@ -42,6 +42,14 @@
     },
     {
       "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
       "details": {
         "id": "google fonts",
@@ -66,6 +74,14 @@
     },
     {
       "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
       "details": {
         "id": "google fonts",
@@ -77,13 +93,13 @@
   "headers": {
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
-    "content-length": "34289",
+    "content-length": "34590",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sat, 01 Jun 2024 19:19:09 GMT",
+    "date": "Sun, 02 Jun 2024 01:29:02 GMT",
     "keep-alive": "timeout=5, max=100",
-    "link": "<https://npa-revolutionnaires.org/wp-json/>; rel=\"https://api.w.org/\"\n<https://npa-revolutionnaires.org/wp-json/wp/v2/pages/7449>; rel=\"alternate\"; type=\"application/json\"\n<https://npa-revolutionnaires.org/>; rel=shortlink",
     "server": "Apache/2.4.59 (Debian)",
     "vary": "Accept-Encoding",
+    "x-cache-handler": "cache-enabler-engine",
     "x-content-type-options": "nosniff",
     "x-xss-protection": "1; mode=block"
   },
@@ -171,7 +187,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.115.95",
+      "ip": "142.250.189.202",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -225,8 +241,14 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.122.94",
+      "ip": "142.251.46.227",
       "geoip": {
+        "city": {
+          "geoname_id": 5133273,
+          "names": {
+            "en": "Queens"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -256,10 +278,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 50,
+          "latitude": 40.66,
+          "longitude": -73.839,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11414"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -274,7 +300,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
