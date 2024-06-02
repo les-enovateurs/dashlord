@@ -18,7 +18,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/siidu/0x4AAAAAAADnPIDROrmt1Wwj/light/normal",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/m9cmt/0x4AAAAAAADnPIDROrmt1Wwj/light/normal",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -28,10 +28,10 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "hvkkYMBdPV.Vs7KSeEBUysoma350Oxz3Lr7OvgCdlwg-1717270015-1.0.1.1-2IVaVBT3.PKP0t7l8pyDKK.hZGSpUEaGlg.ZwUQD31VQ37XhoE_IV3FQNqu6YAMgCm0Lqj5akKVCxibo8uzy8Q",
+      "value": "8aGbyner2GKnC6qYkUqC0weoMfLR1Jv0tSOPusPQi9w-1717292218-1.0.1.1-T_Q_OlwUFRJjnPfHo5OKsqF6Il7A2G5DP9QxZcK7F1YsSkan.XMDSE2rRt9c2BSeHqfqASF4yIcRZtfZIidwsw",
       "domain": ".www.glucksmann2024.eu",
       "path": "/",
-      "expires": 1717271815.359247,
+      "expires": 1717294018.376928,
       "size": 156,
       "httpOnly": true,
       "secure": true,
@@ -46,22 +46,22 @@
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "cf-chl-out": "xwzw38BNqyviaQfJ+4fPVGQqxWoos9jI84SPpCfCbq2yET3oRc+xhxzIjWbtcjH2cp4PMieROUl2kicAdSQMiPRCpShyCQpZ9uFfiTSAv2vAe7jCbQxbFNG6Kljr9wfNFdVqO/4ilLrQqLIxq2Lvew==$LR6gZVFkshH0Sz+hS+dNGw==",
+    "cf-chl-out": "edtfCKK2uaEoYMjmOQ4ajoacuMrS7q0eFnGZu44H0QVlDFiO7tvU0R2zxPuzL/WjqYm39x2HVq6REXAmcSsQmud4pQMPhTZQ7/ia8kcn/eNSXUQp8NiG/N45RnGjWp9RQuRG/FoxSDxfzQa89SzgBw==$kRUsS+5WXVXBTLzHB+vs7Q==",
     "cf-mitigated": "challenge",
-    "cf-ray": "88d1991beec3884b-IAD",
+    "cf-ray": "88d3b72ca9867d2f-LAX",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sat, 01 Jun 2024 19:26:55 GMT",
+    "date": "Sun, 02 Jun 2024 01:36:58 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
     "referrer-policy": "same-origin",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=hvkkYMBdPV.Vs7KSeEBUysoma350Oxz3Lr7OvgCdlwg-1717270015-1.0.1.1-2IVaVBT3.PKP0t7l8pyDKK.hZGSpUEaGlg.ZwUQD31VQ37XhoE_IV3FQNqu6YAMgCm0Lqj5akKVCxibo8uzy8Q; path=/; expires=Sat, 01-Jun-24 19:56:55 GMT; domain=.www.glucksmann2024.eu; HttpOnly; Secure; SameSite=None",
+    "set-cookie": "__cf_bm=8aGbyner2GKnC6qYkUqC0weoMfLR1Jv0tSOPusPQi9w-1717292218-1.0.1.1-T_Q_OlwUFRJjnPfHo5OKsqF6Il7A2G5DP9QxZcK7F1YsSkan.XMDSE2rRt9c2BSeHqfqASF4yIcRZtfZIidwsw; path=/; expires=Sun, 02-Jun-24 02:06:58 GMT; domain=.www.glucksmann2024.eu; HttpOnly; Secure; SameSite=None",
     "vary": "Accept-Encoding",
     "x-content-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
