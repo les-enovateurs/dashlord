@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://www.deffontaines2024.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=88d1ae514e6d2c48"
+      "url": "https://www.deffontaines2024.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=88d3cbedb9b73b8f"
     },
     {
       "type": "cloudflare",
@@ -34,11 +34,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://www.deffontaines2024.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/1375272776:1717269110:d3rrXwvR76ZlQXLdgOayqE6t-O0V9j2jytzAuY3roe8/88d1ae514e6d2c48/ae84c7becbb8bdf"
+      "url": "https://www.deffontaines2024.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/579434843:1717290565:y72sCYI1WCoopIatZ9MJ0CLBjmNSrQ7CtRIhXvmZUTA/88d3cbedb9b73b8f/c3c29333f996935"
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/8jhdl/0x4AAAAAAADnPIDROrmt1Wwj/light/normal",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/znio6/0x4AAAAAAADnPIDROrmt1Wwj/light/normal",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -48,10 +48,10 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "SthDrGMCMWhWWo6Y_7hZNj46XD8yDLxRa6429fczCms-1717270884-1.0.1.1-quKw2VvOysNP4UmysTycL2wRcnSol9fizBw5yoQ5vrEW.g9Q9MIz2fUGosvfcjxc9oSaHQRK6Up18g7i6kK1dQ",
+      "value": "wjyn_klWlBgP7xhvM1vhiKODzWhzSJXQfbGU3e5cepQ-1717293068-1.0.1.1-yHthcUuF.GjRNuhaUSPDaUVawOTic0JhPHgQhEwSzhS4C4Gpv3bONFizEzg7dg_H8V.vGRPFvPOYrz714P69sA",
       "domain": ".www.deffontaines2024.fr",
       "path": "/",
-      "expires": 1717272684.051353,
+      "expires": 1717294868.46033,
       "size": 156,
       "httpOnly": true,
       "secure": true,
@@ -66,22 +66,22 @@
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "cf-chl-out": "2J19hyclyE3YhBtfJ+ELveP1Ajp1FEjv7gqmH8kypBmrDFNoXfZdHKuxht/7cFMXU6gGzOmzMmdrrwlWqR24WCUIfYw1xcMUNG5joy4DqN19/DwQzjM+DxtEYWRPUs0wrqP+kOJtHtADYogbWFiEYA==$TYEMzb+MmhJCbjuD6OppnA==",
+    "cf-chl-out": "fpX8UXXr0HWXiQIC284SdulKcngGGRtr0O2CjUHXPqqdhMd3mjEag39eLJkttAQ/yMfNKD+t75UPPs70OFtWwxt6t7Es3+t/iioQsqUKuwSRahI1Lj9bdfc30GW0QDe71rW/qEbTfDwEL9cY6FEe0g==$6GpuHTFzkP6KkhzIxq2SGQ==",
     "cf-mitigated": "challenge",
-    "cf-ray": "88d1ae514e6d2c48-ORD",
+    "cf-ray": "88d3cbedb9b73b8f-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sat, 01 Jun 2024 19:41:24 GMT",
+    "date": "Sun, 02 Jun 2024 01:51:08 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
     "referrer-policy": "same-origin",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=SthDrGMCMWhWWo6Y_7hZNj46XD8yDLxRa6429fczCms-1717270884-1.0.1.1-quKw2VvOysNP4UmysTycL2wRcnSol9fizBw5yoQ5vrEW.g9Q9MIz2fUGosvfcjxc9oSaHQRK6Up18g7i6kK1dQ; path=/; expires=Sat, 01-Jun-24 20:11:24 GMT; domain=.www.deffontaines2024.fr; HttpOnly; Secure; SameSite=None",
+    "set-cookie": "__cf_bm=wjyn_klWlBgP7xhvM1vhiKODzWhzSJXQfbGU3e5cepQ-1717293068-1.0.1.1-yHthcUuF.GjRNuhaUSPDaUVawOTic0JhPHgQhEwSzhS4C4Gpv3bONFizEzg7dg_H8V.vGRPFvPOYrz714P69sA; path=/; expires=Sun, 02-Jun-24 02:21:08 GMT; domain=.www.deffontaines2024.fr; HttpOnly; Secure; SameSite=None",
     "vary": "Accept-Encoding",
     "x-content-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
@@ -165,7 +165,7 @@
     },
     {
       "hostname": "static.cloudflareinsights.com",
-      "ip": "104.16.79.73",
+      "ip": "104.16.80.73",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
