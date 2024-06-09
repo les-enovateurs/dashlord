@@ -234,6 +234,14 @@
     },
     {
       "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwE.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
       "details": {
         "id": "google fonts",
@@ -242,7 +250,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
+      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -250,7 +258,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwE.woff2",
+      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -266,7 +274,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
+      "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -274,7 +282,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
+      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -290,18 +298,10 @@
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=0d0848e2145a8d759e3497e9351a2ca4",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=d3fc15117603c65fadef92293b4fd050",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
@@ -315,7 +315,7 @@
       "value": "en",
       "domain": "www.pace-europe.eu",
       "path": "/",
-      "expires": 1748826351.367425,
+      "expires": 1749431301.478526,
       "size": 23,
       "httpOnly": false,
       "secure": false,
@@ -327,12 +327,12 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-length": "12315",
+    "content-length": "12372",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 02 Jun 2024 01:05:51 GMT",
+    "date": "Sun, 09 Jun 2024 01:08:21 GMT",
     "link": "<https://www.pace-europe.eu/en/wp-json/>; rel=\"https://api.w.org/\", <https://www.pace-europe.eu/en/wp-json/wp/v2/pages/1254>; rel=\"alternate\"; type=\"application/json\", <https://www.pace-europe.eu/en/>; rel=shortlink",
     "server": "Apache",
-    "set-cookie": "qtrans_front_language=en; expires=Mon, 02-Jun-2025 01:05:51 GMT; Max-Age=31536000; path=/",
+    "set-cookie": "qtrans_front_language=en; expires=Mon, 09-Jun-2025 01:08:21 GMT; Max-Age=31536000; path=/",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/7.0"
   },
@@ -451,7 +451,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.106",
+      "ip": "172.253.62.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -505,19 +505,18 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.249.8",
+      "ip": "157.240.3.29",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5809844,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "Seattle",
+            "en": "Seattle",
+            "es": "Seattle",
+            "fr": "Seattle",
+            "ja": "シアトル",
+            "pt-BR": "Seattle",
+            "ru": "Сиэтл"
           }
         },
         "continent": {
@@ -550,13 +549,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 47.6034,
+          "longitude": -122.3414,
+          "metro_code": 819,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60602"
+          "code": "98160"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -574,17 +573,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5815135,
+            "iso_code": "WA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Washington",
+              "en": "Washington",
+              "es": "Washington",
+              "fr": "Washington",
+              "ja": "ワシントン州",
+              "pt-BR": "Washington",
+              "ru": "Вашингтон",
+              "zh-CN": "华盛顿州"
             }
           }
         ]
@@ -592,7 +591,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.217.4.195",
+      "ip": "172.253.63.94",
       "geoip": {
         "continent": {
           "code": "NA",
