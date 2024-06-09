@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Istok+Web%3A1&ver=6.5.3",
+      "url": "https://fonts.googleapis.com/css?family=Istok+Web%3A1&ver=6.5.4",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -10,7 +10,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Montserrat%3A1&ver=6.5.3",
+      "url": "https://fonts.googleapis.com/css?family=Montserrat%3A1&ver=6.5.4",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -18,7 +18,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Patua+One%3A1&ver=6.5.3",
+      "url": "https://fonts.googleapis.com/css?family=Patua+One%3A1&ver=6.5.4",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -26,7 +26,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Roboto%3A1&ver=6.5.3",
+      "url": "https://fonts.googleapis.com/css?family=Roboto%3A1&ver=6.5.4",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -34,7 +34,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.3",
+      "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.4",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -82,7 +82,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/9pvHvq7kSOTqqZusUzJ6ewaF/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -106,7 +106,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=DH3nyJMamEclyfe-nztbfV8S&size=invisible&cb=3lns0jumdbvm",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=9pvHvq7kSOTqqZusUzJ6ewaF&size=invisible&cb=e9g5ux2skd68",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -114,7 +114,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/styles__ltr.css",
+      "url": "https://www.gstatic.com/recaptcha/releases/9pvHvq7kSOTqqZusUzJ6ewaF/styles__ltr.css",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -122,7 +122,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/9pvHvq7kSOTqqZusUzJ6ewaF/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -130,7 +130,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/_SCkxxqdo6IitgoOo-OxNmiLhhkn12M3ougf1vTQFL8.js",
+      "url": "https://www.google.com/js/bg/bh4zGd7lNqYs0shhzHGtzOXCIByuDMfAdRtykcHA9Mk.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -162,7 +162,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=DH3nyJMamEclyfe-nztbfV8S",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=9pvHvq7kSOTqqZusUzJ6ewaF",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -183,6 +183,22 @@
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/reload?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/clr?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
     }
   ],
   "cookies": [
@@ -191,7 +207,7 @@
       "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1717291628,
+      "expires": 1717896571,
       "size": 70,
       "httpOnly": false,
       "secure": false,
@@ -202,7 +218,7 @@
     },
     {
       "name": "sbjs_current_add",
-      "value": "fd%3D2024-06-02%2000%3A57%3A08%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-06-09%2000%3A59%3A31%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -244,7 +260,7 @@
     },
     {
       "name": "sbjs_first_add",
-      "value": "fd%3D2024-06-02%2000%3A57%3A08%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-06-09%2000%3A59%3A31%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -287,20 +303,20 @@
   ],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "cache-control": "max-age=499, public",
+    "cache-control": "max-age=3560, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "88d37cce1f9c2eb4-LAX",
+    "cf-ray": "890d2de89f160829-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 02 Jun 2024 00:57:08 GMT",
-    "expires": "Sun, 02 Jun 2024 01:05:26 GMT",
-    "last-modified": "Sun, 02 Jun 2024 00:05:26 GMT",
+    "date": "Sun, 09 Jun 2024 00:59:30 GMT",
+    "expires": "Sun, 09 Jun 2024 01:58:50 GMT",
+    "last-modified": "Sun, 09 Jun 2024 00:58:50 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "pragma": "public",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=hBinoopGOsndoGFusiV3Foh7KlJBPOJm0JWgsQcodF7Lc1bYXHk95MSTvc%2F8qx47pr0fTEzFhq5NLeMFi5%2FAWnZYiigtTjBHiGxQPWB86AhDV9nUF5NBn%2FLU8Tg%2Fqcm7zcu7wYSp\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Emx45PlBcTROHtdJnUNysEnL4GvsQyfy923UFv7ZGJPF11VJBn6LyjnfknEVOdEI0ROE1zzvUkStMSzbY1XY4xj5GtK1o0gpKeHAhe6yEOxsH3wD5A0cemUUY327GIh1sG85Nxa2\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
-    "x-powered-by": "PHP/8.1.28"
+    "x-powered-by": "PHP/8.1.29"
   },
   "endpoints": [
     {
@@ -359,14 +375,8 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.72.234",
+      "ip": "142.250.31.95",
       "geoip": {
-        "city": {
-          "geoname_id": 5131638,
-          "names": {
-            "en": "Plainview"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -396,14 +406,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -418,87 +424,17 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.176.4",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "fonts.gstatic.com",
-      "ip": "142.250.72.131",
+      "ip": "142.251.16.105",
       "geoip": {
         "city": {
-          "geoname_id": 5131638,
+          "geoname_id": 5116931,
           "names": {
-            "en": "Plainview"
+            "en": "Farmingdale"
           }
         },
         "continent": {
@@ -530,14 +466,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
+          "accuracy_radius": 500,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
           "metro_code": 501,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "11803"
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -572,8 +508,8 @@
       }
     },
     {
-      "hostname": "www.gstatic.com",
-      "ip": "142.250.189.3",
+      "hostname": "fonts.gstatic.com",
+      "ip": "64.233.180.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -623,6 +559,86 @@
             "zh-CN": "美国"
           }
         }
+      }
+    },
+    {
+      "hostname": "www.gstatic.com",
+      "ip": "142.251.167.94",
+      "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
