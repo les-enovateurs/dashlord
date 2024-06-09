@@ -14,11 +14,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=88d37849fcc8cf19"
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=890d28520bb1391f"
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/g/26ed7e9dda49/api.js?onload=sIeY1&render=explicit",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/6aac8896f227/api.js?onload=OZxW4&render=explicit",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -30,19 +30,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/310935517:1717286990:BFbDj0v6MEXgbqa5jlp4_keSZ8nsNXYEKVE6q_-tOQM/88d37849fcc8cf19/ca9dfb4885e6503"
-    },
-    {
-      "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/78l55/0x4AAAAAAADnPIDROrmt1Wwj/light/normal",
-      "details": {
-        "id": "cloudflare",
-        "message": "Host files locally"
-      }
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/673851808:1717891813:Q0gx2S5itcSFWUripTCn8ZJpGsPZOHikmkyjzKPwowk/890d28520bb1391f/469fd62793f1add"
     },
     {
       "type": "unknown",
       "url": "https://lafranceinsoumise.fr/cdn-cgi/rum?"
+    },
+    {
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/m3frm/0x4AAAAAAADnPIDROrmt1Wwj/light/normal",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
     }
   ],
   "cookies": [],
@@ -50,22 +50,22 @@
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "cf-chl-out": "2LU0AXUlDZuYVdbVK21EoJrmkVNovsGaNl7RlnRpbzmk7GOi1rBi/yt4yVuYKR74MbGzgYpLB2j7J52TaaquNju9jJcSPNCoTRZMYiIAcyur/INdCu4HodfnSeydD2Ug$RwADymo2YV68GM4SUEgtoQ==",
+    "cf-chl-out": "YyF+kzALmorqiCGx1hSk2d7rSArpJ72FSJzL5Rdh0AdxJ3u7J1IQ7HK5ziULTwAEVTFyKyx0Kb8xRQRcU7ILsRAu+jFT+5nWdvKqsL9zhctiIR9dTQ7xttVTDmibANiN$rMPUnAjpsWVxBEP3KyHadQ==",
     "cf-mitigated": "challenge",
-    "cf-ray": "88d37849fcc8cf19-SJC",
+    "cf-ray": "890d28520bb1391f-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 02 Jun 2024 00:54:02 GMT",
+    "date": "Sun, 09 Jun 2024 00:55:41 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
     "referrer-policy": "same-origin",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=7McxsevMl9fkJ5repQTcVOvUYmGeYBTmeqZwnEHSu5GhFgtB4jtLRpl1TuGwM9Bpw13ZHBd83mgo0yjPNPwwnkXNQBMNEMSi2Dh%2Bz6jSJXVLojNydAfmWgICGaHMHzQTnTdB%2FVasqA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=MgSerOBfqpfg5FbHltUAjTKIrkHS9%2FmqQes%2BPya75XhlfAHtuFC9wMy8GwidCf7NTTDyAjfHhP1BCT4DqG2cbJVGfvH1EezkI%2Fp3PZ8IpplJMkLxZcYwn9cFHjQo%2FHq9ngNx2sfSgA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-content-options": "nosniff",
@@ -170,7 +170,7 @@
     },
     {
       "hostname": "challenges.cloudflare.com",
-      "ip": "104.17.2.184",
+      "ip": "104.17.3.184",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
