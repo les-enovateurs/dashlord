@@ -50,7 +50,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=2100819909&t=pageview&_s=1&dl=https%3A%2F%2Fwww.groupe-ldf.fr%2F&ul=en-us&de=UTF-8&dt=LDF%20-%20Libert%C3%A9%20D%C3%A9mocratique%20Fran%C3%A7aise&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAUABAAAAACAAI~&jid=425325885&gjid=1806387743&cid=1756274566.1717898622&tid=UA-155343796-1&_gid=1989278832.1717898622&_r=1&gtm=457e4650za200&gcd=13l3l3l3l1&dma=0&tag_exp=0&jsscut=1&z=934888768",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1755135533&t=pageview&_s=1&dl=https%3A%2F%2Fwww.groupe-ldf.fr%2F&ul=en-us&de=UTF-8&dt=LDF%20-%20Libert%C3%A9%20D%C3%A9mocratique%20Fran%C3%A7aise&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAUABAAAAACAAI~&jid=298249621&gjid=341163226&cid=1284606014.1718503363&tid=UA-155343796-1&_gid=856960021.1718503363&_r=1&gtm=457e46c0za200&gcd=13l3l3l3l1&dma=0&tag_exp=0&jsscut=1&z=1945234687",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -58,7 +58,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/9pvHvq7kSOTqqZusUzJ6ewaF/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/TqxSU0dsOd2Q9IbI7CpFnJLD/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -66,7 +66,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lep1mUoAAAAACHGh9Una7jL7nhPChATE7vc2Md5&co=aHR0cHM6Ly93d3cuZ3JvdXBlLWxkZi5mcjo0NDM.&hl=en&v=9pvHvq7kSOTqqZusUzJ6ewaF&size=invisible&cb=fa50ll5dw0w8",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lep1mUoAAAAACHGh9Una7jL7nhPChATE7vc2Md5&co=aHR0cHM6Ly93d3cuZ3JvdXBlLWxkZi5mcjo0NDM.&hl=en&v=TqxSU0dsOd2Q9IbI7CpFnJLD&size=invisible&cb=gm7pdar3pmjj",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -74,7 +74,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/9pvHvq7kSOTqqZusUzJ6ewaF/styles__ltr.css",
+      "url": "https://www.gstatic.com/recaptcha/releases/TqxSU0dsOd2Q9IbI7CpFnJLD/styles__ltr.css",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -82,7 +82,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/9pvHvq7kSOTqqZusUzJ6ewaF/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/TqxSU0dsOd2Q9IbI7CpFnJLD/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -90,7 +90,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/iEIgPSBanWJQ8ezY-T4r4NxgopQ60-p8kWb8XPJMqHk.js",
+      "url": "https://www.google.com/js/bg/UebCYnqdbF9ngI7DuCagEaT4xpR4mAb5pwZcsRDRe9I.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -122,7 +122,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=9pvHvq7kSOTqqZusUzJ6ewaF",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=TqxSU0dsOd2Q9IbI7CpFnJLD",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -148,11 +148,11 @@
   "cookies": [
     {
       "name": "_gid",
-      "value": "GA1.2.1989278832.1717898622",
+      "value": "GA1.2.856960021.1718503363",
       "domain": ".groupe-ldf.fr",
       "path": "/",
-      "expires": 1717985022,
-      "size": 31,
+      "expires": 1718589762,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -162,10 +162,10 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.1756274566.1717898622",
+      "value": "GA1.2.1284606014.1718503363",
       "domain": ".groupe-ldf.fr",
       "path": "/",
-      "expires": 1780970622,
+      "expires": 1781575362,
       "size": 30,
       "httpOnly": false,
       "secure": false,
@@ -176,10 +176,10 @@
     },
     {
       "name": "ldf_session",
-      "value": "eyJpdiI6IkpjMDVsb2Zza05aZG56blAyYlpTZUE9PSIsInZhbHVlIjoiaGpMYmlyU3Eza3paSWJiYVdZUDJCVGJuU2NucHVHQkRtbUFyRzF1ZkV2SHByWUJvVC94U0VZUWtHTkI5aEZWb2J6UEtycURYcjhOQlcrT21BZXYwSmtEdjBDRlU0bDIremNCSEQ0UENxNndOM1BCSktFaDZHN2hNWFdWVDZqRUoiLCJtYWMiOiIwZDViNGQ5ODliM2MxOWQ4ZjZhNzJhMTUyODYyNjFjY2IxOTc4Yzk3ZTczMzRiZGQ4YmYzODYyN2IwOTM5OTM2IiwidGFnIjoiIn0%3D",
+      "value": "eyJpdiI6Ik5oUHlUdkNVbXR2Q0tDdUgxTmV6UlE9PSIsInZhbHVlIjoiR3M1K3NSZUpQZlE0MGpvY3hmSGpWUGtteU9VY0FyTFhrd0dhbVpJbDNnaUJRc2I5alJkOHRqUkZnb1FZQlFVZlFCUjRWOUR4VGhJc0MwTmJFMVlYRXRwR2NJb1IyZFJla1FPOEEvTkZKWEsxVEZ6RWRicGNkV0RLNWtZQWwrT2ciLCJtYWMiOiJlYTlkZTRmYzM3NDRjN2RjNTI1ZjIzZmRkODk3ZDVmZmVmNjM1MzFmNmViZDQxMjg3NzQ1ODM4YTJlZjZiNzQ1IiwidGFnIjoiIn0%3D",
       "domain": "www.groupe-ldf.fr",
       "path": "/",
-      "expires": 1717905822.09083,
+      "expires": 1718510561.874412,
       "size": 353,
       "httpOnly": true,
       "secure": false,
@@ -193,7 +193,7 @@
       "value": "1",
       "domain": ".groupe-ldf.fr",
       "path": "/",
-      "expires": 1717898682,
+      "expires": 1718503422,
       "size": 25,
       "httpOnly": false,
       "secure": false,
@@ -204,10 +204,10 @@
     },
     {
       "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IkRMeVRTK2I2ejc0ZTRGTFJsL0ZjVXc9PSIsInZhbHVlIjoiMFB5a2hCODEwTEVudUhmS0twZDJYcFA4NUpNWTA1eGJhUHd3K1hvREJZQ3BtQ24rdUZGeTBiMS9VWjBJOUgyK2RDejlhY0ZTNnNRWC9lUEdGelNxL1dQa3VoV09LdXUxSGViVzZhOFVJOXI4emw0WjhqLzY2RzJRUFM2UjdjeXciLCJtYWMiOiI1M2U5ODM0YjZmM2ViNDg4MGUzNTMzNzRlNDQzMDEyMDRlZDY0ZTliNzlmMTdmNDY5NjU4NDc4M2M5ZjRhZjI0IiwidGFnIjoiIn0%3D",
+      "value": "eyJpdiI6IjFGK0FjYkR0SkpqeTlrUC91SDhic3c9PSIsInZhbHVlIjoiZ3VZRnZDNVBGUThrY2FpZXFFOTRReUh1SFFaK2pZbzlpWXVpNXV2ZllCQXRtdjhIYXZ3K0EyTTNNdDExdHdEUG13Vmt0M3J1RGk5OUV6T2dqQlZBQngyWGM3RjV3YkFSZ3hQZm5tSkdJNXd5bThwY3FFV2dBVU1NTXFPa244dlYiLCJtYWMiOiIxZDQ0NjJkZTBkNTc4YzllY2U5ODMyZDYyZjczODAyMmQzMGRhMjMxYmUxYTRhNmY1NmQwNGQxYTdiYmE3MGY5IiwidGFnIjoiIn0%3D",
       "domain": "www.groupe-ldf.fr",
       "path": "/",
-      "expires": 1717905822.090723,
+      "expires": 1718510561.874317,
       "size": 352,
       "httpOnly": false,
       "secure": false,
@@ -221,10 +221,10 @@
     "cache-control": "no-cache, private\nmax-age=172800",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 09 Jun 2024 02:03:42 GMT",
-    "expires": "Tue, 11 Jun 2024 02:03:40 GMT",
+    "date": "Sun, 16 Jun 2024 02:02:41 GMT",
+    "expires": "Tue, 18 Jun 2024 02:02:40 GMT",
     "server": "o2switch-PowerBoost-v3",
-    "set-cookie": "XSRF-TOKEN=eyJpdiI6IkRMeVRTK2I2ejc0ZTRGTFJsL0ZjVXc9PSIsInZhbHVlIjoiMFB5a2hCODEwTEVudUhmS0twZDJYcFA4NUpNWTA1eGJhUHd3K1hvREJZQ3BtQ24rdUZGeTBiMS9VWjBJOUgyK2RDejlhY0ZTNnNRWC9lUEdGelNxL1dQa3VoV09LdXUxSGViVzZhOFVJOXI4emw0WjhqLzY2RzJRUFM2UjdjeXciLCJtYWMiOiI1M2U5ODM0YjZmM2ViNDg4MGUzNTMzNzRlNDQzMDEyMDRlZDY0ZTliNzlmMTdmNDY5NjU4NDc4M2M5ZjRhZjI0IiwidGFnIjoiIn0%3D; expires=Sun, 09-Jun-2024 04:03:41 GMT; Max-Age=7200; path=/\nldf_session=eyJpdiI6IkpjMDVsb2Zza05aZG56blAyYlpTZUE9PSIsInZhbHVlIjoiaGpMYmlyU3Eza3paSWJiYVdZUDJCVGJuU2NucHVHQkRtbUFyRzF1ZkV2SHByWUJvVC94U0VZUWtHTkI5aEZWb2J6UEtycURYcjhOQlcrT21BZXYwSmtEdjBDRlU0bDIremNCSEQ0UENxNndOM1BCSktFaDZHN2hNWFdWVDZqRUoiLCJtYWMiOiIwZDViNGQ5ODliM2MxOWQ4ZjZhNzJhMTUyODYyNjFjY2IxOTc4Yzk3ZTczMzRiZGQ4YmYzODYyN2IwOTM5OTM2IiwidGFnIjoiIn0%3D; expires=Sun, 09-Jun-2024 04:03:41 GMT; Max-Age=7200; path=/; httponly",
+    "set-cookie": "XSRF-TOKEN=eyJpdiI6IjFGK0FjYkR0SkpqeTlrUC91SDhic3c9PSIsInZhbHVlIjoiZ3VZRnZDNVBGUThrY2FpZXFFOTRReUh1SFFaK2pZbzlpWXVpNXV2ZllCQXRtdjhIYXZ3K0EyTTNNdDExdHdEUG13Vmt0M3J1RGk5OUV6T2dqQlZBQngyWGM3RjV3YkFSZ3hQZm5tSkdJNXd5bThwY3FFV2dBVU1NTXFPa244dlYiLCJtYWMiOiIxZDQ0NjJkZTBkNTc4YzllY2U5ODMyZDYyZjczODAyMmQzMGRhMjMxYmUxYTRhNmY1NmQwNGQxYTdiYmE3MGY5IiwidGFnIjoiIn0%3D; expires=Sun, 16-Jun-2024 04:02:41 GMT; Max-Age=7200; path=/\nldf_session=eyJpdiI6Ik5oUHlUdkNVbXR2Q0tDdUgxTmV6UlE9PSIsInZhbHVlIjoiR3M1K3NSZUpQZlE0MGpvY3hmSGpWUGtteU9VY0FyTFhrd0dhbVpJbDNnaUJRc2I5alJkOHRqUkZnb1FZQlFVZlFCUjRWOUR4VGhJc0MwTmJFMVlYRXRwR2NJb1IyZFJla1FPOEEvTkZKWEsxVEZ6RWRicGNkV0RLNWtZQWwrT2ciLCJtYWMiOiJlYTlkZTRmYzM3NDRjN2RjNTI1ZjIzZmRkODk3ZDVmZmVmNjM1MzFmNmViZDQxMjg3NzQ1ODM4YTJlZjZiNzQ1IiwidGFnIjoiIn0%3D; expires=Sun, 16-Jun-2024 04:02:41 GMT; Max-Age=7200; path=/; httponly",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
@@ -327,7 +327,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.115.97",
+      "ip": "172.217.2.40",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -381,14 +381,8 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "172.217.2.42",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -418,14 +412,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -440,28 +430,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "172.253.115.95",
+      "ip": "142.250.191.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -515,14 +489,8 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.167.105",
+      "ip": "142.250.191.164",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -552,14 +520,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -574,28 +538,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.250.31.139",
+      "ip": "142.250.191.110",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -649,7 +597,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "172.253.63.94",
+      "ip": "142.250.191.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -703,7 +651,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.122.94",
+      "ip": "142.250.190.99",
       "geoip": {
         "continent": {
           "code": "NA",
