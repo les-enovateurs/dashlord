@@ -150,6 +150,14 @@
     },
     {
       "type": "unknown",
+      "url": "https://www.pace-europe.eu/wp-content/uploads/2024/06/Affiche_Legislatives_Philippe_V2-scaled.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.pace-europe.eu/wp-content/uploads/2024/06/photodepotliste.jpg"
+    },
+    {
+      "type": "unknown",
       "url": "https://www.pace-europe.eu/wp-content/uploads/2024/06/PHOTO-2024-06-10-11-13-59-1.jpg"
     },
     {
@@ -306,7 +314,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=e47af3b140e02feebfd9f3e121ca6b4d",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=aa3c53017b2791d6fff7387b68605b8e",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -323,7 +331,7 @@
       "value": "en",
       "domain": "www.pace-europe.eu",
       "path": "/",
-      "expires": 1750036122.471332,
+      "expires": 1750640808.153377,
       "size": 23,
       "httpOnly": false,
       "secure": false,
@@ -334,14 +342,13 @@
     }
   ],
   "headers": {
-    "accept-ranges": "none",
     "content-encoding": "gzip",
-    "content-length": "12724",
+    "content-length": "13000",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 16 Jun 2024 01:08:42 GMT",
+    "date": "Sun, 23 Jun 2024 01:06:48 GMT",
     "link": "<https://www.pace-europe.eu/en/wp-json/>; rel=\"https://api.w.org/\", <https://www.pace-europe.eu/en/wp-json/wp/v2/pages/1254>; rel=\"alternate\"; type=\"application/json\", <https://www.pace-europe.eu/en/>; rel=shortlink",
     "server": "Apache",
-    "set-cookie": "qtrans_front_language=en; expires=Mon, 16-Jun-2025 01:08:42 GMT; Max-Age=31536000; path=/",
+    "set-cookie": "qtrans_front_language=en; expires=Mon, 23-Jun-2025 01:06:47 GMT; Max-Age=31536000; path=/",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/7.0"
   },
@@ -627,14 +634,8 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.163.94",
+      "ip": "172.253.62.94",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -664,14 +665,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -686,23 +683,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
