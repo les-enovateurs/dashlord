@@ -1,0 +1,149 @@
+{
+  "trackers": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.1.8e08",
+      "value": "1",
+      "domain": "www.lutte-ouvriere.org",
+      "path": "/",
+      "expires": 1719712521,
+      "size": 15,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.1.8e08",
+      "value": "eabab3f1b24872af.1719710722.",
+      "domain": "www.lutte-ouvriere.org",
+      "path": "/",
+      "expires": 1753665922,
+      "size": 41,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
+  "headers": {
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=0",
+    "content-encoding": "gzip",
+    "content-length": "12085",
+    "content-type": "text/html",
+    "date": "Sun, 30 Jun 2024 01:25:20 GMT",
+    "expires": "Sun, 30 Jun 2024 01:25:20 GMT",
+    "server": "Apache",
+    "vary": "Accept-Encoding"
+  },
+  "endpoints": [
+    {
+      "hostname": "lutte-ouvriere.org",
+      "ip": "145.239.37.162",
+      "geoip": {
+        "city": {
+          "geoname_id": 3014728,
+          "names": {
+            "de": "Grenoble",
+            "en": "Grenoble",
+            "es": "Grenoble",
+            "fr": "Grenoble",
+            "ja": "グルノーブル",
+            "pt-BR": "Grenoble",
+            "ru": "Грeнобль",
+            "zh-CN": "格勒诺布尔"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 100,
+          "latitude": 45.1766,
+          "longitude": 5.7205,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "38000"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 11071625,
+            "iso_code": "ARA",
+            "names": {
+              "de": "Auvergne-Rhône-Alpes",
+              "en": "Auvergne-Rhône-Alpes",
+              "es": "Auvernia-Ródano-Alpes",
+              "fr": "Auvergne-Rhône-Alpes",
+              "ja": "オーヴェルニュ＝ローヌ＝アルプ地域圏",
+              "pt-BR": "Auvérnia-Ródano-Alpes",
+              "ru": "Овернь — Рона — Альпы"
+            }
+          },
+          {
+            "geoname_id": 3012715,
+            "iso_code": "38",
+            "names": {
+              "de": "Isère",
+              "en": "Isère",
+              "es": "Isere",
+              "fr": "Isère",
+              "ja": "イゼール県",
+              "pt-BR": "Isère",
+              "ru": "Изер",
+              "zh-CN": "伊泽尔省"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
