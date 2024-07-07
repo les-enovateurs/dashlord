@@ -246,35 +246,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.pace-europe.eu/wp-content/uploads/2024/05/VIDEO-2024-05-27-14-25-30.mp4"
-    },
-    {
-      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwE.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -289,6 +261,10 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://www.pace-europe.eu/wp-content/uploads/2024/05/VIDEO-2024-05-27-14-25-30.mp4"
+    },
+    {
       "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
       "details": {
@@ -313,16 +289,40 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://www.pace-europe.eu/wp-content/plugins/ml-slider/themes/outline/v1.0.0/images/arrow.png"
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=b1b1e99fcea8a269fc308a5bd3f17bec",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=b8f3b032e2134de6a0080bf4024a3e4b",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.pace-europe.eu/wp-content/plugins/ml-slider/themes/outline/v1.0.0/images/arrow.png"
     }
   ],
   "cookies": [
@@ -331,7 +331,7 @@
       "value": "en",
       "domain": "www.pace-europe.eu",
       "path": "/",
-      "expires": 1751245785.780976,
+      "expires": 1751850618.483836,
       "size": 23,
       "httpOnly": false,
       "secure": false,
@@ -345,10 +345,10 @@
     "content-encoding": "gzip",
     "content-length": "12999",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 30 Jun 2024 01:09:45 GMT",
+    "date": "Sun, 07 Jul 2024 01:10:18 GMT",
     "link": "<https://www.pace-europe.eu/en/wp-json/>; rel=\"https://api.w.org/\", <https://www.pace-europe.eu/en/wp-json/wp/v2/pages/1254>; rel=\"alternate\"; type=\"application/json\", <https://www.pace-europe.eu/en/>; rel=shortlink",
     "server": "Apache",
-    "set-cookie": "qtrans_front_language=en; expires=Mon, 30-Jun-2025 01:09:45 GMT; Max-Age=31536000; path=/",
+    "set-cookie": "qtrans_front_language=en; expires=Mon, 07-Jul-2025 01:10:18 GMT; Max-Age=31536000; path=/",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/7.0"
   },
@@ -467,7 +467,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.122.95",
+      "ip": "142.250.190.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -521,59 +521,36 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.235.1",
+      "ip": "31.13.66.19",
       "geoip": {
         "city": {
-          "geoname_id": 1880252,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Singapur",
-            "en": "Singapore",
-            "es": "Singapur",
-            "fr": "Singapour",
-            "ja": "シンガポール",
-            "pt-BR": "Singapura",
-            "ru": "Сингапур",
-            "zh-CN": "新加坡"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
-          "code": "AS",
-          "geoname_id": 6255147,
+          "code": "NA",
+          "geoname_id": 6255149,
           "names": {
-            "de": "Asien",
-            "en": "Asia",
-            "es": "Asia",
-            "fr": "Asie",
-            "ja": "アジア",
-            "pt-BR": "Ásia",
-            "ru": "Азия",
-            "zh-CN": "亚洲"
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
           }
         },
         "country": {
-          "geoname_id": 1880251,
-          "iso_code": "SG",
-          "names": {
-            "de": "Singapur",
-            "en": "Singapore",
-            "es": "Singapur",
-            "fr": "Singapour",
-            "ja": "シンガポール",
-            "pt-BR": "Singapura",
-            "ru": "Сингапур",
-            "zh-CN": "新加坡"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 1.2868,
-          "longitude": 103.8503,
-          "time_zone": "Asia/Singapore"
-        },
-        "postal": {
-          "code": "17"
-        },
-        "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
           "names": {
@@ -586,12 +563,53 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 2963597,
+          "is_in_european_union": true,
+          "iso_code": "IE",
+          "names": {
+            "de": "Irland",
+            "en": "Ireland",
+            "es": "Irlanda",
+            "fr": "Irlande",
+            "ja": "アイルランド",
+            "pt-BR": "Irlanda",
+            "ru": "Ирландия",
+            "zh-CN": "爱尔兰"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.31.94",
+      "ip": "142.250.191.227",
       "geoip": {
         "continent": {
           "code": "NA",
