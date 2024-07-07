@@ -21,22 +21,6 @@
       }
     },
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.woff2?t=1708865856766",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.woff2?t=1708865856766",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
       "type": "twitter",
       "url": "https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fwww.laruchecitoyenne.eu",
       "details": {
@@ -46,10 +30,26 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=396eb7fd26e856bb8c978b9d7e7f5e5409a0dd5f",
+      "url": "https://syndication.twitter.com/settings?session_id=72b15cc558c83669d08066027436621afcc7c24d",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.woff2?t=1708865856766",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.woff2?t=1708865856766",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
       }
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/srv/timeline-profile/screen-name/RucheCitoyenne?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideBorder=false&hideFooter=false&hideHeader=false&hideScrollBar=false&lang=en&maxHeight=550px&origin=https%3A%2F%2Fwww.laruchecitoyenne.eu%2F&sessionId=396eb7fd26e856bb8c978b9d7e7f5e5409a0dd5f&showHeader=true&showReplies=false&theme=light&transparent=false&widgetsVersion=2615f7e52b7e0%3A1702314776716",
+      "url": "https://syndication.twitter.com/srv/timeline-profile/screen-name/RucheCitoyenne?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideBorder=false&hideFooter=false&hideHeader=false&hideScrollBar=false&lang=en&maxHeight=550px&origin=https%3A%2F%2Fwww.laruchecitoyenne.eu%2F&sessionId=72b15cc558c83669d08066027436621afcc7c24d&showHeader=true&showReplies=false&theme=light&transparent=false&widgetsVersion=2615f7e52b7e0%3A1702314776716",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -190,7 +190,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1719712359385%2C%22event_namespace%22%3A%7B%22action%22%3A%22no-results%22%2C%22client%22%3A%22tfw%22%2C%22page%22%3A%22timeline-profile%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-0%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fwww.laruchecitoyenne.eu%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%2230b4041%3A1715703883585%22%2C%22widget_data_source%22%3A%22screen-name%3ARucheCitoyenne%22%7D&session_id=396eb7fd26e856bb8c978b9d7e7f5e5409a0dd5f",
+      "url": "https://syndication.twitter.com/i/jot?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1720317112630%2C%22event_namespace%22%3A%7B%22action%22%3A%22no-results%22%2C%22client%22%3A%22tfw%22%2C%22page%22%3A%22timeline-profile%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-0%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fwww.laruchecitoyenne.eu%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%2230b4041%3A1715703883585%22%2C%22widget_data_source%22%3A%22screen-name%3ARucheCitoyenne%22%7D&session_id=72b15cc558c83669d08066027436621afcc7c24d",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -200,11 +200,11 @@
   "cookies": [
     {
       "name": "_lrc_session",
-      "value": "oY1zwiU6bsC5WYDDuDtK6rh%2BkzBeoBTFreDax%2BktYWyoBdi7eDBFmFlTpehKf%2F2yk3xjM%2BtKilL9KgmWF1rXMp%2FhM4aN4myvRrVeUWDpJyyHRUISHEGNHdoigLMbhlpTMuq2OEfu3STebP%2BUKgruwE434k%2B%2BTeQzA7MTXiSD9E3Z7c596L2lzzXnNvxReDMD2nzG9V8a%2Ft6UVCz3HksaT9WQxati4xt8LGQM2LKfpKEg1tck89sZAUx46VP2ZhB9Mgpfeepzhv1sYwaDjNsbzQNh2a8%3D--XJuzDkXZLRi%2Fsveu--AWx6l15VvHXJCas1o2nWxA%3D%3D",
+      "value": "sEdbdW%2FsvTtiVgSI8axIL4zKWuCjQTjvKoImh92aZg0rPafeSdbSiAMNqsFS3kTH7yA9Xu2ZTtEJ3VfSDBMtzDWsRCa70ApgGh6Vwlwr85tBapDf22JQcdNYll9O1Y6tKYBEhbd2ZxAZG8VVzX5LjlZTnXUcRtx82EfwktZfg7IRYm%2F2npVWGTMHwiqzrIA8UMkXy75mioobLIJ4JvjkyAwUSra1Em%2B427c%2FRS%2FSoM7hXmH0%2BNBYdsHhyUbYQOHWW5r60eAWlUDkQS06cHBhKAbnzwk%3D--kHnVQaEtcFZzkyaH--72ayQjuhnROEKite%2BSQPuA%3D%3D",
       "domain": "www.laruchecitoyenne.eu",
       "path": "/",
       "expires": -1,
-      "size": 366,
+      "size": 360,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -218,23 +218,23 @@
     "cache-control": "max-age=0, private, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 30 Jun 2024 01:52:38 GMT",
-    "etag": "W/\"4dd104e173f29507aaef0facc0ca7e5c\"",
+    "date": "Sun, 07 Jul 2024 01:51:51 GMT",
+    "etag": "W/\"4c553b5db8b599c77a3f06d2f731d0e0\"",
     "link": "</vite/assets/application-CSJF8eHV.css>; rel=preload; as=style; nopush,</vite/assets/application-CUgfRNwb.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_lrc_session=oY1zwiU6bsC5WYDDuDtK6rh%2BkzBeoBTFreDax%2BktYWyoBdi7eDBFmFlTpehKf%2F2yk3xjM%2BtKilL9KgmWF1rXMp%2FhM4aN4myvRrVeUWDpJyyHRUISHEGNHdoigLMbhlpTMuq2OEfu3STebP%2BUKgruwE434k%2B%2BTeQzA7MTXiSD9E3Z7c596L2lzzXnNvxReDMD2nzG9V8a%2Ft6UVCz3HksaT9WQxati4xt8LGQM2LKfpKEg1tck89sZAUx46VP2ZhB9Mgpfeepzhv1sYwaDjNsbzQNh2a8%3D--XJuzDkXZLRi%2Fsveu--AWx6l15VvHXJCas1o2nWxA%3D%3D; path=/; HttpOnly; SameSite=Lax",
+    "set-cookie": "_lrc_session=sEdbdW%2FsvTtiVgSI8axIL4zKWuCjQTjvKoImh92aZg0rPafeSdbSiAMNqsFS3kTH7yA9Xu2ZTtEJ3VfSDBMtzDWsRCa70ApgGh6Vwlwr85tBapDf22JQcdNYll9O1Y6tKYBEhbd2ZxAZG8VVzX5LjlZTnXUcRtx82EfwktZfg7IRYm%2F2npVWGTMHwiqzrIA8UMkXy75mioobLIJ4JvjkyAwUSra1Em%2B427c%2FRS%2FSoM7hXmH0%2BNBYdsHhyUbYQOHWW5r60eAWlUDkQS06cHBhKAbnzwk%3D--kHnVQaEtcFZzkyaH--72ayQjuhnROEKite%2BSQPuA%3D%3D; path=/; HttpOnly; SameSite=Lax",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "5504cd18-14c3-4ecd-8165-c0e554fc508a\n5504cd18-14c3-4ecd-8165-c0e554fc508a",
-    "x-runtime": "0.011881",
+    "x-request-id": "faf1b9eb-1862-4b72-99ca-40b23b36daba\nfaf1b9eb-1862-4b72-99ca-40b23b36daba",
+    "x-runtime": "0.028807",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "www.laruchecitoyenne.eu",
-      "ip": "109.232.233.130",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -290,55 +290,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.37.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 4781530,
-          "names": {
-            "de": "Reston",
-            "en": "Reston",
-            "ja": "レストン",
-            "ru": "Рестон"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 38.9609,
-          "longitude": -77.3429,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20190"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -352,40 +305,24 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "cdn-uicons.flaticon.com",
-      "ip": "23.53.35.208",
+      "ip": "23.58.127.81",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 6077243,
           "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
+            "de": "Montreal",
+            "en": "Montreal",
+            "es": "Montreal",
+            "fr": "Montréal",
+            "ja": "モントリオール",
+            "pt-BR": "Montreal",
+            "ru": "Монреаль",
+            "zh-CN": "蒙特利尔"
           }
         },
         "continent": {
@@ -403,28 +340,27 @@
           }
         },
         "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 6251999,
+          "iso_code": "CA",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Kanada",
+            "en": "Canada",
+            "es": "Canadá",
+            "fr": "Canada",
+            "ja": "カナダ",
+            "pt-BR": "Canadá",
+            "ru": "Канада",
+            "zh-CN": "加拿大"
           }
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "latitude": 45.5075,
+          "longitude": -73.5887,
+          "time_zone": "America/Toronto"
         },
         "postal": {
-          "code": "20149"
+          "code": "H3H"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -442,17 +378,12 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 6115047,
+            "iso_code": "QC",
             "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "en": "Quebec",
+              "fr": "Québec",
+              "pt-BR": "Quebeque"
             }
           }
         ]
