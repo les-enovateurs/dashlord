@@ -106,7 +106,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=rKbTvxTxwcw5VqzrtN-ICwWt&size=invisible&cb=z8bbql4dmewq",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=rKbTvxTxwcw5VqzrtN-ICwWt&size=invisible&cb=ez40zc5d8c7h",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -183,22 +183,6 @@
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/reload?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/clr?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
     }
   ],
   "cookies": [
@@ -207,7 +191,7 @@
       "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1719711076,
+      "expires": 1720315894,
       "size": 70,
       "httpOnly": false,
       "secure": false,
@@ -218,7 +202,7 @@
     },
     {
       "name": "sbjs_current_add",
-      "value": "fd%3D2024-06-30%2001%3A01%3A16%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-07-07%2001%3A01%3A34%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -260,7 +244,7 @@
     },
     {
       "name": "sbjs_first_add",
-      "value": "fd%3D2024-06-30%2001%3A01%3A16%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-07-07%2001%3A01%3A34%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -303,17 +287,17 @@
   ],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "cache-control": "max-age=2953, public",
+    "cache-control": "max-age=1884, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "89ba395ad9479c5e-IAD",
+    "cf-ray": "89f3e744df6957a6-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 30 Jun 2024 01:01:15 GMT",
-    "expires": "Sun, 30 Jun 2024 01:50:28 GMT",
-    "last-modified": "Sun, 30 Jun 2024 00:50:28 GMT",
+    "date": "Sun, 07 Jul 2024 01:01:34 GMT",
+    "expires": "Sun, 07 Jul 2024 01:32:57 GMT",
+    "last-modified": "Sun, 07 Jul 2024 00:32:57 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "pragma": "public",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8YEdiylXPdFQK1QcSK970fAW%2FmyYs0Lh1hiV5n2tZm4QdKvtfd2wAF2GXM1A7I2OlDUhweWCTjG7PMPwWJmALrjkpZDdYgasY1GuLYvbrrvsErS3AiINFa4y9kplrt%2BPWcNaxgcT\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fWjdfln8DNGVt%2BmP50U2j0i1XI9M6tk%2FJX7RelCx2VjfZSmA9p%2Bq3NNCv2w5nYjZ7c3vYRAbua%2FsPba7Cy7KymW7Z2CJkiJPatwT2MNwZnyMt1w9MQw%2BFKxZdgVC%2FWglS9fUUT9P\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/8.1.29"
@@ -321,7 +305,7 @@
   "endpoints": [
     {
       "hostname": "parti-animaliste.fr",
-      "ip": "104.21.48.132",
+      "ip": "172.67.151.253",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -395,7 +379,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.31.99",
+      "ip": "172.253.122.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -449,7 +433,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.163.94",
+      "ip": "142.251.16.94",
       "geoip": {
         "city": {
           "geoname_id": 5116931,
@@ -486,7 +470,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 1000,
           "latitude": 40.7306,
           "longitude": -73.4313,
           "metro_code": 501,
@@ -529,8 +513,14 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "172.253.115.94",
+      "ip": "142.251.167.94",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -561,9 +551,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -578,7 +572,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
