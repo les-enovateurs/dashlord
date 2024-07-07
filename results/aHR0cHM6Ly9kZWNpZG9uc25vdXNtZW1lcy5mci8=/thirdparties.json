@@ -89,14 +89,6 @@
       }
     },
     {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=a672f641-bc51-43c0-b050-86b5e10c4f26&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
       "type": "google",
       "url": "https://www.gstatic.com/recaptcha/releases/rKbTvxTxwcw5VqzrtN-ICwWt/recaptcha__en.js",
       "details": {
@@ -113,6 +105,14 @@
       }
     },
     {
+      "type": "brevo",
+      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=b4f6f3d9-cfc7-4c79-ab47-ecdcc16fab88&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
       "type": "cloudfront",
       "url": "https://d13sozod7hpim.cloudfront.net/jscss/599bedf87eed214815c63351aca105cd7084553c.css?meteor_css_resource=true",
       "details": {
@@ -122,7 +122,7 @@
     },
     {
       "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=457889e0a8e0c8782f515a4eeef4018768bba710",
+      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=304f07e41ec6c2ae3288df7d597438a4b22d22bb",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -130,7 +130,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/8cf6965076ef9610e4365e9a6125c89403ef7c46.js?meteor_js_resource=true",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/5da70a874c923058bf50e5b54174ae453b5ef7fa.js?meteor_js_resource=true",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -140,10 +140,10 @@
   "cookies": [
     {
       "name": "_wpfuuid",
-      "value": "0a0e60c1-801a-4a34-af15-24ad46e440a3",
+      "value": "ea48bf66-add0-4191-8b5d-41e702be7056",
       "domain": "decidonsnousmemes.fr",
       "path": "/",
-      "expires": 2065222412,
+      "expires": 2065827245,
       "size": 44,
       "httpOnly": false,
       "secure": true,
@@ -155,10 +155,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "a672f641-bc51-43c0-b050-86b5e10c4f26",
+      "value": "b4f6f3d9-cfc7-4c79-ab47-ecdcc16fab88",
       "domain": ".decidonsnousmemes.fr",
       "path": "/",
-      "expires": 1735433603,
+      "expires": 1736038445,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -171,15 +171,15 @@
   "headers": {
     "accept-ranges": "bytes",
     "content-encoding": "br",
-    "content-length": "18758",
+    "content-length": "18937",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 30 Jun 2024 00:53:22 GMT",
+    "date": "Sun, 07 Jul 2024 00:54:03 GMT",
     "link": "<https://decidonsnousmemes.fr/wp-json/>; rel=\"https://api.w.org/\", <https://decidonsnousmemes.fr/wp-json/wp/v2/pages/6>; rel=\"alternate\"; type=\"application/json\", <https://decidonsnousmemes.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=15552000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-cache-key": "https://decidonsnousmemes.fr/bytes=0-2097151",
-    "x-cache-status": "HIT",
-    "x-request-id": "1185c95b82774830bffccdc7865d4f21"
+    "x-cache-status": "EXPIRED",
+    "x-request-id": "50e631487cfc38b0a47e5dde169c678c"
   },
   "endpoints": [
     {
@@ -240,8 +240,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.42",
+      "ip": "142.251.214.138",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -272,9 +278,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -289,12 +299,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.191.100",
+      "ip": "142.250.191.36",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -348,59 +374,8 @@
     },
     {
       "hostname": "sibautomation.com",
-      "ip": "172.64.150.186",
+      "ip": "104.18.37.70",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -414,28 +389,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.195",
+      "ip": "142.250.189.163",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -489,7 +448,7 @@
     },
     {
       "hostname": "conversations-widget.brevo.com",
-      "ip": "104.18.38.216",
+      "ip": "172.64.149.40",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -528,96 +487,15 @@
       }
     },
     {
-      "hostname": "in-automate.brevo.com",
-      "ip": "172.64.149.40",
+      "hostname": "www.gstatic.com",
+      "ip": "142.251.46.195",
       "geoip": {
         "city": {
-          "geoname_id": 5391959,
+          "geoname_id": 5116931,
           "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
+            "en": "Farmingdale"
           }
         },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "www.gstatic.com",
-      "ip": "142.250.190.99",
-      "geoip": {
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -648,10 +526,50 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
+        "postal": {
+          "code": "11735"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "in-automate.brevo.com",
+      "ip": "172.64.149.40",
+      "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -670,7 +588,7 @@
     },
     {
       "hostname": "d13sozod7hpim.cloudfront.net",
-      "ip": "18.238.79.114",
+      "ip": "18.238.189.88",
       "geoip": {
         "continent": {
           "code": "NA",
