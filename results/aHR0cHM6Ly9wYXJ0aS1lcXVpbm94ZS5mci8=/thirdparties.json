@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytique.parti-equinoxe.fr/matomo.php?action_name=%C3%89quinoxe%20-%20Le%20premier%20parti%20dans%20un%20monde%20fini&idsite=1&rec=1&r=825552&h=1&m=11&s=18&url=https%3A%2F%2Fparti-equinoxe.fr%2F&_id=a30a39ebd5a540f5&_idn=1&send_image=0&_refts=0&pv_id=g8N500&pf_net=932&pf_srv=165&pf_tfr=291&pf_dm1=884&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://analytique.parti-equinoxe.fr/matomo.php?action_name=%C3%89quinoxe%20-%20Le%20premier%20parti%20dans%20un%20monde%20fini&idsite=1&rec=1&r=594585&h=1&m=10&s=28&url=https%3A%2F%2Fparti-equinoxe.fr%2F&_id=aa35f00ec03d0666&_idn=1&send_image=0&_refts=0&pv_id=GzMH5j&pf_net=636&pf_srv=291&pf_tfr=180&pf_dm1=723&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -15,7 +15,7 @@
       "value": "1",
       "domain": ".parti-equinoxe.fr",
       "path": "/",
-      "expires": 1719711678,
+      "expires": 1720316428,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.1.c20f",
-      "value": "a30a39ebd5a540f5.1719709879.",
+      "value": "aa35f00ec03d0666.1720314628.",
       "domain": ".parti-equinoxe.fr",
       "path": "/",
-      "expires": 1753665079,
+      "expires": 1754269828,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -59,7 +59,7 @@
     "cache-control": "public, s-maxage=3600",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 30 Jun 2024 01:11:17 GMT",
+    "date": "Sun, 07 Jul 2024 01:10:26 GMT",
     "link": "<https://parti-equinoxe.fr/wp-json/>; rel=\"https://api.w.org/\", <https://parti-equinoxe.fr/wp-json/wp/v2/pages/78>; rel=\"alternate\"; type=\"application/json\", <https://parti-equinoxe.fr/>; rel=shortlink",
     "server": "Apache",
     "vary": "Accept-Encoding",
@@ -69,7 +69,7 @@
     "x-origin-cache-status": "HIT",
     "x-provided-by": "StackCDN",
     "x-stackcache-cacheable": "yes",
-    "x-via": "LHR5"
+    "x-via": "LHR2"
   },
   "endpoints": [
     {
