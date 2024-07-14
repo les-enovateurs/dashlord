@@ -15,15 +15,171 @@
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
+    },
+    {
+      "type": "google",
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api.js?render=6Lep1mUoAAAAACHGh9Una7jL7nhPChATE7vc2Md5",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google tag manager",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-GVQTLP1J8Q&l=dataLayer&cx=c",
+      "details": {
+        "id": "google tag manager",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=643602631&t=pageview&_s=1&dl=https%3A%2F%2Fwww.groupe-ldf.fr%2F&ul=en-us&de=UTF-8&dt=LDF%20-%20Libert%C3%A9%20D%C3%A9mocratique%20Fran%C3%A7aise&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAUABAAAAACAAI~&jid=163276533&gjid=1332837057&cid=444088889.1720922561&tid=UA-155343796-1&_gid=1610006641.1720922561&_r=1&gtm=457e4790za200&gcd=13l3l3l3l1&dma=0&tag_exp=0&jsscut=1&z=401756325",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/-80zvSY9h4i8O-ocN2P5qTJk/recaptcha__en.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lep1mUoAAAAACHGh9Una7jL7nhPChATE7vc2Md5&co=aHR0cHM6Ly93d3cuZ3JvdXBlLWxkZi5mcjo0NDM.&hl=en&v=-80zvSY9h4i8O-ocN2P5qTJk&size=invisible&cb=sqlk3wiltbjk",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/-80zvSY9h4i8O-ocN2P5qTJk/styles__ltr.css",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/-80zvSY9h4i8O-ocN2P5qTJk/recaptcha__en.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/js/bg/mcpJVCBVxZk3n0PGNLnkxc-7IqhLecOYYoy5bihAZdw.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=-80zvSY9h4i8O-ocN2P5qTJk",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     }
   ],
   "cookies": [
     {
+      "name": "_gid",
+      "value": "GA1.2.1610006641.1720922561",
+      "domain": ".groupe-ldf.fr",
+      "path": "/",
+      "expires": 1721008961,
+      "size": 31,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.444088889.1720922561",
+      "domain": ".groupe-ldf.fr",
+      "path": "/",
+      "expires": 1783994561,
+      "size": 29,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
       "name": "ldf_session",
-      "value": "eyJpdiI6Ik5PTjVQdklGT0M4UkVZTFVWQW56dXc9PSIsInZhbHVlIjoiNk8xVEVxOE5vUFBsOS8xazVLMU53WkRVZE1SVjRZOCtXRmhvblJQWFNJWW93RnFvTlpTd2pTcjJiMFlaTjJXTnJwejhUR0hFdlYxL1JMa0hxWlAvUEtPbUcrNElRTUZsZnFMWXlXdFZzWUFpc01qaW5WdnJadjhuSC9GcHVmdDEiLCJtYWMiOiJkMjkyMmUwNWM1MThhOGE1ZGQ3OGVhYzQ2ZWI5ZDgwNzBlZmMwMzVkMzBkMWQxYWZlYTEyYTQ4Nzk3YWQyZjk5IiwidGFnIjoiIn0%3D",
+      "value": "eyJpdiI6Im5VNEVjVFlsZkdnVEswVW9MNEhYU1E9PSIsInZhbHVlIjoiY1V1N1ZsWng2MjVxUytmZ2lna0VzUlNXbTNWMDdhVm9SUkYyVzZrS3l4OURTc0ZtNWxscEtFUVF4SUg2QzY5a1RPM2Zkc3JOSGFkQ0E4dzBabEsxSDJDbFhoVmlFeFZBUUhjNDFDd2NhN3JIaklXY1JoRisyWkxkV2RxTVN1bUgiLCJtYWMiOiI3YWJhMTZhZjExZjI1N2IyNjhjOGNhNjQyZWY3OTllODY4NjAzMjY5MDhiN2MwOWFmNjhkZjYzMWYzYzUxODlkIiwidGFnIjoiIn0%3D",
       "domain": "www.groupe-ldf.fr",
       "path": "/",
-      "expires": 1720324663.172843,
+      "expires": 1720929760.74499,
       "size": 353,
       "httpOnly": true,
       "secure": false,
@@ -33,11 +189,25 @@
       "sourcePort": 443
     },
     {
+      "name": "_gat_gtag_UA_155343796_1",
+      "value": "1",
+      "domain": ".groupe-ldf.fr",
+      "path": "/",
+      "expires": 1720922621,
+      "size": 25,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
       "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IlZJQzZjYnZqV1hTamF1c2Q0Um5nbmc9PSIsInZhbHVlIjoiTVJvRzJYTFlXbWdpakkzMEZ5eUo4Mm9oTEo2RzdmYTMwb1JqbTFPMlYxZjV6RVp0V0FaV0tuMlpWcGdDUnZER0JiWEIvS1lQTVZPVXRGL0VydCt5c2dHcUZneWgxelk0S2ZiSGdJaWJGQ2tLdU1wUFRMc1RUcmhGMzNQRDk2OXciLCJtYWMiOiIzM2ZiYzljNDRkYTMxNjJiNjQ0M2Q3MTA1NmI4YjM0OTkwMzFiZTgxZWM4NmI5OWEyMWM0MTFiNTM4MWRjYTZiIiwidGFnIjoiIn0%3D",
+      "value": "eyJpdiI6IjF4Q1cxOGdDTm5nR3YvdEh6cUxTcFE9PSIsInZhbHVlIjoiRkUwM0lNOWVlcmc0V2F5T3J0VkI2MEl4Q09xdmMwQWdQWFBEU2FYZHlXNW1ZWTduYU1LZ3VERi9mSmc4TFhqV3lycW45T1NNMmwyTXVJLy9rWHFmZE5PRk9vMGlMSThSMFRmVGZ1d3BuVVg0anF5eGRtMkhwQU5NSC90VDdoeUUiLCJtYWMiOiJjZDVmMGUzYzJlYWFhYTM2ZmVkNWFhMjk0OTQyOTFiNDMzNWFhOTI3YWYxOGU1MjZlNTJkMjg4ZDVkNzgzYzQ0IiwidGFnIjoiIn0%3D",
       "domain": "www.groupe-ldf.fr",
       "path": "/",
-      "expires": 1720324663.172752,
+      "expires": 1720929760.74489,
       "size": 352,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +221,10 @@
     "cache-control": "no-cache, private\nmax-age=172800",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 07 Jul 2024 01:57:43 GMT",
-    "expires": "Tue, 09 Jul 2024 01:57:41 GMT",
+    "date": "Sun, 14 Jul 2024 02:02:40 GMT",
+    "expires": "Tue, 16 Jul 2024 02:02:39 GMT",
     "server": "o2switch-PowerBoost-v3",
-    "set-cookie": "XSRF-TOKEN=eyJpdiI6IlZJQzZjYnZqV1hTamF1c2Q0Um5nbmc9PSIsInZhbHVlIjoiTVJvRzJYTFlXbWdpakkzMEZ5eUo4Mm9oTEo2RzdmYTMwb1JqbTFPMlYxZjV6RVp0V0FaV0tuMlpWcGdDUnZER0JiWEIvS1lQTVZPVXRGL0VydCt5c2dHcUZneWgxelk0S2ZiSGdJaWJGQ2tLdU1wUFRMc1RUcmhGMzNQRDk2OXciLCJtYWMiOiIzM2ZiYzljNDRkYTMxNjJiNjQ0M2Q3MTA1NmI4YjM0OTkwMzFiZTgxZWM4NmI5OWEyMWM0MTFiNTM4MWRjYTZiIiwidGFnIjoiIn0%3D; expires=Sun, 07-Jul-2024 03:57:42 GMT; Max-Age=7200; path=/\nldf_session=eyJpdiI6Ik5PTjVQdklGT0M4UkVZTFVWQW56dXc9PSIsInZhbHVlIjoiNk8xVEVxOE5vUFBsOS8xazVLMU53WkRVZE1SVjRZOCtXRmhvblJQWFNJWW93RnFvTlpTd2pTcjJiMFlaTjJXTnJwejhUR0hFdlYxL1JMa0hxWlAvUEtPbUcrNElRTUZsZnFMWXlXdFZzWUFpc01qaW5WdnJadjhuSC9GcHVmdDEiLCJtYWMiOiJkMjkyMmUwNWM1MThhOGE1ZGQ3OGVhYzQ2ZWI5ZDgwNzBlZmMwMzVkMzBkMWQxYWZlYTEyYTQ4Nzk3YWQyZjk5IiwidGFnIjoiIn0%3D; expires=Sun, 07-Jul-2024 03:57:42 GMT; Max-Age=7200; path=/; httponly",
+    "set-cookie": "XSRF-TOKEN=eyJpdiI6IjF4Q1cxOGdDTm5nR3YvdEh6cUxTcFE9PSIsInZhbHVlIjoiRkUwM0lNOWVlcmc0V2F5T3J0VkI2MEl4Q09xdmMwQWdQWFBEU2FYZHlXNW1ZWTduYU1LZ3VERi9mSmc4TFhqV3lycW45T1NNMmwyTXVJLy9rWHFmZE5PRk9vMGlMSThSMFRmVGZ1d3BuVVg0anF5eGRtMkhwQU5NSC90VDdoeUUiLCJtYWMiOiJjZDVmMGUzYzJlYWFhYTM2ZmVkNWFhMjk0OTQyOTFiNDMzNWFhOTI3YWYxOGU1MjZlNTJkMjg4ZDVkNzgzYzQ0IiwidGFnIjoiIn0%3D; expires=Sun, 14-Jul-2024 04:02:39 GMT; Max-Age=7200; path=/\nldf_session=eyJpdiI6Im5VNEVjVFlsZkdnVEswVW9MNEhYU1E9PSIsInZhbHVlIjoiY1V1N1ZsWng2MjVxUytmZ2lna0VzUlNXbTNWMDdhVm9SUkYyVzZrS3l4OURTc0ZtNWxscEtFUVF4SUg2QzY5a1RPM2Zkc3JOSGFkQ0E4dzBabEsxSDJDbFhoVmlFeFZBUUhjNDFDd2NhN3JIaklXY1JoRisyWkxkV2RxTVN1bUgiLCJtYWMiOiI3YWJhMTZhZjExZjI1N2IyNjhjOGNhNjQyZWY3OTllODY4NjAzMjY5MDhiN2MwOWFmNjhkZjYzMWYzYzUxODlkIiwidGFnIjoiIn0%3D; expires=Sun, 14-Jul-2024 04:02:39 GMT; Max-Age=7200; path=/; httponly",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
@@ -157,7 +327,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.191.136",
+      "ip": "172.253.63.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -211,7 +381,329 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.234",
+      "ip": "172.253.62.95",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "ajax.googleapis.com",
+      "ip": "172.253.63.95",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.google.com",
+      "ip": "142.251.163.99",
+      "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "www.google-analytics.com",
+      "ip": "172.253.62.139",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.gstatic.com",
+      "ip": "142.251.179.94",
+      "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
