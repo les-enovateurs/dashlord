@@ -61,11 +61,11 @@
   "headers": {
     "cache-control": "max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "89f3dcae98ec104a-ORD",
+    "cf-ray": "8a2d8ade99680602-IAD",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 07 Jul 2024 00:54:13 GMT",
-    "expires": "Sun, 07 Jul 2024 00:54:13 GMT",
+    "date": "Sun, 14 Jul 2024 00:54:36 GMT",
+    "expires": "Sun, 14 Jul 2024 00:54:36 GMT",
     "last-modified": "Sun, 26 May 2024 16:31:33 GMT",
     "server": "cloudflare",
     "vary": "Accept-Encoding"
@@ -73,7 +73,7 @@
   "endpoints": [
     {
       "hostname": "humanitesouveraine.crd.co",
-      "ip": "172.64.150.187",
+      "ip": "104.18.17.46",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -93,7 +93,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.138",
+      "ip": "172.253.115.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -147,8 +147,14 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.217.1.99",
+      "ip": "142.251.163.94",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -179,9 +185,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -196,7 +206,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
