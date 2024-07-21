@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytique.parti-equinoxe.fr/matomo.php?action_name=%C3%89quinoxe%20-%20Le%20premier%20parti%20dans%20un%20monde%20fini&idsite=1&rec=1&r=356720&h=1&m=12&s=0&url=https%3A%2F%2Fparti-equinoxe.fr%2F&_id=a535fc4b60d7519e&_idn=1&send_image=0&_refts=0&pv_id=7W7HOq&pf_net=593&pf_srv=151&pf_tfr=97&pf_dm1=863&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://analytique.parti-equinoxe.fr/matomo.php?action_name=%C3%89quinoxe%20-%20Le%20premier%20parti%20dans%20un%20monde%20fini&idsite=1&rec=1&r=922055&h=1&m=11&s=8&url=https%3A%2F%2Fparti-equinoxe.fr%2F&_id=1fa21aa754ac07c3&_idn=1&send_image=0&_refts=0&pv_id=jDNY55&pf_net=467&pf_srv=302&pf_tfr=178&pf_dm1=670&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -15,7 +15,7 @@
       "value": "1",
       "domain": ".parti-equinoxe.fr",
       "path": "/",
-      "expires": 1720921320,
+      "expires": 1721526068,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.1.c20f",
-      "value": "a535fc4b60d7519e.1720919520.",
+      "value": "1fa21aa754ac07c3.1721524268.",
       "domain": ".parti-equinoxe.fr",
       "path": "/",
-      "expires": 1754874720,
+      "expires": 1755479468,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -59,8 +59,8 @@
     "cache-control": "public, s-maxage=3600",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 14 Jul 2024 01:11:58 GMT",
-    "link": "<https://parti-equinoxe.fr/wp-json/>; rel=\"https://api.w.org/\", <https://parti-equinoxe.fr/wp-json/wp/v2/pages/78>; rel=\"alternate\"; type=\"application/json\", <https://parti-equinoxe.fr/>; rel=shortlink",
+    "date": "Sun, 21 Jul 2024 01:11:06 GMT",
+    "link": "<https://parti-equinoxe.fr/wp-json/>; rel=\"https://api.w.org/\", <https://parti-equinoxe.fr/wp-json/wp/v2/pages/78>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://parti-equinoxe.fr/>; rel=shortlink",
     "server": "Apache",
     "vary": "Accept-Encoding",
     "x-cache-enabled": "true",
@@ -69,7 +69,7 @@
     "x-origin-cache-status": "HIT",
     "x-provided-by": "StackCDN",
     "x-stackcache-cacheable": "yes",
-    "x-via": "LHR6"
+    "x-via": "LHR2"
   },
   "endpoints": [
     {
