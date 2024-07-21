@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C600%2C700%7CLato&ver=6.5.5",
+      "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C600%2C700%7CLato&ver=6.6",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -81,11 +81,11 @@
       "url": "https://conversations-widget.sendinblue.com/sib-conversations.js"
     },
     {
-      "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/-80zvSY9h4i8O-ocN2P5qTJk/recaptcha__en.js",
+      "type": "brevo",
+      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=daa28918-9cee-48f9-9d3a-d9a7e65c88b3&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
       "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
       }
     },
     {
@@ -97,6 +97,22 @@
       }
     },
     {
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/rKbTvxTxwcw5VqzrtN-ICwWt/recaptcha__en.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/?isModern=true",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
       "type": "brevo",
       "url": "https://conversations-widget.brevo.com/?isModern=true",
       "details": {
@@ -114,7 +130,7 @@
     },
     {
       "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=807949f2fce69d19ed987c5483c2a287d36c0623",
+      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=39119355f203185d7a4a88fd6d5c398cacd1ecd6",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -122,47 +138,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/89e174445804bfce74c25b0e9604677dac76d205.js?meteor_js_resource=true",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/?isModern=true",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=42475c38-68b5-40b1-b1ed-b55f59abea75&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/599bedf87eed214815c63351aca105cd7084553c.css?meteor_css_resource=true",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=807949f2fce69d19ed987c5483c2a287d36c0623",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/89e174445804bfce74c25b0e9604677dac76d205.js?meteor_js_resource=true",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/4e76e28774a64fae71d8cad2632d91e0b770010b.js?meteor_js_resource=true",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -172,10 +148,10 @@
   "cookies": [
     {
       "name": "_wpfuuid",
-      "value": "c874b369-b5c7-4e64-9571-109975269fc8",
+      "value": "8247bb1e-0aec-46d9-95e8-3c7f2ba5fa6d",
       "domain": "decidonsnousmemes.fr",
       "path": "/",
-      "expires": 2066432084,
+      "expires": 2067036869,
       "size": 44,
       "httpOnly": false,
       "secure": true,
@@ -187,10 +163,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "42475c38-68b5-40b1-b1ed-b55f59abea75",
+      "value": "daa28918-9cee-48f9-9d3a-d9a7e65c88b3",
       "domain": ".decidonsnousmemes.fr",
       "path": "/",
-      "expires": 1736643284,
+      "expires": 1737248069,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -203,15 +179,15 @@
   "headers": {
     "accept-ranges": "bytes",
     "content-encoding": "br",
-    "content-length": "18937",
+    "content-length": "19047",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 14 Jul 2024 00:54:43 GMT",
-    "link": "<https://decidonsnousmemes.fr/wp-json/>; rel=\"https://api.w.org/\", <https://decidonsnousmemes.fr/wp-json/wp/v2/pages/6>; rel=\"alternate\"; type=\"application/json\", <https://decidonsnousmemes.fr/>; rel=shortlink",
+    "date": "Sun, 21 Jul 2024 00:54:28 GMT",
+    "link": "<https://decidonsnousmemes.fr/wp-json/>; rel=\"https://api.w.org/\", <https://decidonsnousmemes.fr/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://decidonsnousmemes.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=15552000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-cache-key": "https://decidonsnousmemes.fr/bytes=0-2097151",
     "x-cache-status": "MISS",
-    "x-request-id": "1e7d834705d3d16424cc60e7019d8c44"
+    "x-request-id": "c17977b21f57fad79250e64e5c14aec0"
   },
   "endpoints": [
     {
@@ -272,8 +248,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.170",
+      "ip": "142.251.16.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -304,9 +286,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -321,13 +307,35 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.217.4.68",
+      "ip": "142.251.163.147",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -358,9 +366,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -375,7 +387,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
@@ -400,7 +428,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.217.0.163",
+      "ip": "64.233.180.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -493,9 +521,35 @@
       }
     },
     {
-      "hostname": "www.gstatic.com",
-      "ip": "172.217.4.35",
+      "hostname": "in-automate.brevo.com",
+      "ip": "172.64.149.40",
       "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.gstatic.com",
+      "ip": "142.251.167.94",
+      "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -526,9 +580,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -543,12 +601,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "d13sozod7hpim.cloudfront.net",
-      "ip": "108.156.123.66",
+      "ip": "99.86.227.77",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -584,26 +658,6 @@
           "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "in-automate.brevo.com",
-      "ip": "104.18.38.216",
-      "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
