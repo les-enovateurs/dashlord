@@ -313,16 +313,16 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://www.pace-europe.eu/wp-content/plugins/ml-slider/themes/outline/v1.0.0/images/arrow.png"
-    },
-    {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=aded7d0470703f5039f19556cd4a36ae",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=c95721be07b1ebeabf229fdea7fcd313",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.pace-europe.eu/wp-content/plugins/ml-slider/themes/outline/v1.0.0/images/arrow.png"
     }
   ],
   "cookies": [
@@ -331,7 +331,7 @@
       "value": "en",
       "domain": "www.pace-europe.eu",
       "path": "/",
-      "expires": 1752455434.866336,
+      "expires": 1753060248.91747,
       "size": 23,
       "httpOnly": false,
       "secure": false,
@@ -345,10 +345,10 @@
     "content-encoding": "gzip",
     "content-length": "12999",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 14 Jul 2024 01:10:34 GMT",
+    "date": "Sun, 21 Jul 2024 01:10:48 GMT",
     "link": "<https://www.pace-europe.eu/en/wp-json/>; rel=\"https://api.w.org/\", <https://www.pace-europe.eu/en/wp-json/wp/v2/pages/1254>; rel=\"alternate\"; type=\"application/json\", <https://www.pace-europe.eu/en/>; rel=shortlink",
     "server": "Apache",
-    "set-cookie": "qtrans_front_language=en; expires=Mon, 14-Jul-2025 01:10:34 GMT; Max-Age=31536000; path=/",
+    "set-cookie": "qtrans_front_language=en; expires=Mon, 21-Jul-2025 01:10:48 GMT; Max-Age=31536000; path=/",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/7.0"
   },
@@ -467,7 +467,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.170",
+      "ip": "142.250.191.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -521,58 +521,57 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.247.8",
+      "ip": "157.240.19.26",
       "geoip": {
         "city": {
-          "geoname_id": 2759794,
+          "geoname_id": 4684888,
           "names": {
-            "de": "Amsterdam",
-            "en": "Amsterdam",
-            "es": "Ámsterdam",
-            "fr": "Amsterdam",
-            "ja": "Amusuterudamu",
-            "pt-BR": "Amesterdã",
-            "ru": "Амстердам",
-            "zh-CN": "阿姆斯特丹"
+            "de": "Dallas",
+            "en": "Dallas",
+            "es": "Dallas",
+            "fr": "Dallas",
+            "ja": "ダラス",
+            "pt-BR": "Dallas",
+            "ru": "Даллас"
           }
         },
         "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
+          "code": "NA",
+          "geoname_id": 6255149,
           "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
           }
         },
         "country": {
-          "geoname_id": 2750405,
-          "is_in_european_union": true,
-          "iso_code": "NL",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Niederlande",
-            "en": "The Netherlands",
-            "es": "Holanda",
-            "fr": "Pays-Bas",
-            "ja": "オランダ王国",
-            "pt-BR": "Holanda",
-            "ru": "Нидерланды",
-            "zh-CN": "荷兰"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 52.3759,
-          "longitude": 4.8975,
-          "time_zone": "Europe/Amsterdam"
+          "latitude": 32.7797,
+          "longitude": -96.8022,
+          "metro_code": 623,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "1012"
+          "code": "75270"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -590,17 +589,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 2749879,
-            "iso_code": "NH",
+            "geoname_id": 4736286,
+            "iso_code": "TX",
             "names": {
-              "de": "Nordholland",
-              "en": "North Holland",
-              "es": "Holanda Septentrional",
-              "fr": "Hollande-Septentrionale",
-              "ja": "北ホラント州",
-              "pt-BR": "Holanda do Norte",
-              "ru": "Северная Голландия",
-              "zh-CN": "北荷兰省"
+              "de": "Texas",
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "pt-BR": "Texas",
+              "ru": "Техас",
+              "zh-CN": "得克萨斯州"
             }
           }
         ]
@@ -608,7 +607,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.131",
+      "ip": "142.250.191.99",
       "geoip": {
         "continent": {
           "code": "NA",
