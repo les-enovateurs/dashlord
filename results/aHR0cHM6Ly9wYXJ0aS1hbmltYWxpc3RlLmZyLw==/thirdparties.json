@@ -98,7 +98,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/-80zvSY9h4i8O-ocN2P5qTJk/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/rKbTvxTxwcw5VqzrtN-ICwWt/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -106,7 +106,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=-80zvSY9h4i8O-ocN2P5qTJk&size=invisible&cb=nznzqmrqfci7",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=rKbTvxTxwcw5VqzrtN-ICwWt&size=invisible&cb=sljld7ef9hqv",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -114,7 +114,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/-80zvSY9h4i8O-ocN2P5qTJk/styles__ltr.css",
+      "url": "https://www.gstatic.com/recaptcha/releases/rKbTvxTxwcw5VqzrtN-ICwWt/styles__ltr.css",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -122,7 +122,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/-80zvSY9h4i8O-ocN2P5qTJk/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/rKbTvxTxwcw5VqzrtN-ICwWt/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -130,7 +130,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/uHwOhFiU9RfT_VdtBfqn8JJh2736_YS1jvyd5cWfFWI.js",
+      "url": "https://www.google.com/js/bg/e_xAYp1YJZ809TMVsL5lbt3Gynx5MzFNdIrjEXnMPyo.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -162,7 +162,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=-80zvSY9h4i8O-ocN2P5qTJk",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=rKbTvxTxwcw5VqzrtN-ICwWt",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -183,22 +183,6 @@
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/reload?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/clr?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
     }
   ],
   "cookies": [
@@ -207,7 +191,7 @@
       "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1720920715,
+      "expires": 1721525434,
       "size": 70,
       "httpOnly": false,
       "secure": false,
@@ -218,7 +202,7 @@
     },
     {
       "name": "sbjs_current_add",
-      "value": "fd%3D2024-07-14%2001%3A01%3A55%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-07-21%2001%3A00%3A34%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -260,7 +244,7 @@
     },
     {
       "name": "sbjs_first_add",
-      "value": "fd%3D2024-07-14%2001%3A01%3A55%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-07-21%2001%3A00%3A34%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -303,17 +287,17 @@
   ],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "cache-control": "max-age=759, public",
+    "cache-control": "max-age=2774, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8a2d958aea54c59d-IAD",
+    "cf-ray": "8a6741334e778260-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 14 Jul 2024 01:01:54 GMT",
-    "expires": "Sun, 14 Jul 2024 01:14:32 GMT",
-    "last-modified": "Sun, 14 Jul 2024 00:14:32 GMT",
+    "date": "Sun, 21 Jul 2024 01:00:33 GMT",
+    "expires": "Sun, 21 Jul 2024 01:46:47 GMT",
+    "last-modified": "Sun, 21 Jul 2024 00:46:47 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "pragma": "public",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=6%2FuqTrASaMbLVcZqo9taC%2BzAbnHTY3rPNMMazjPqPerCZQhiZknGEgQfaKfHgkvtZSan6gByYdwIpMqeeqeUHThbwh9F2W7wOtPbNIR3MDaTO6ka5fRgrlIuxkm4qJmM%2FiL%2Fgivm\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2BJ0fsgfjhHSQAr3Q0%2BRYRD5p%2FzTGusvxuIMXezEUsuKbVwvlI2cE6UxRD1jPGA8wK9nnhKwQm%2F9ym1%2Bnt%2FDmb4zQMMTHHCBE71M0XCxrdO%2FrkEGh9NV6FLt%2B1gefmzMmwne%2Bzboj\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/8.1.29"
@@ -321,7 +305,7 @@
   "endpoints": [
     {
       "hostname": "parti-animaliste.fr",
-      "ip": "172.67.151.253",
+      "ip": "104.21.48.132",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -341,7 +325,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.111.95",
+      "ip": "142.251.179.95",
       "geoip": {
         "city": {
           "geoname_id": 5116931,
@@ -421,7 +405,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.111.103",
+      "ip": "142.251.179.105",
       "geoip": {
         "city": {
           "geoname_id": 5116931,
@@ -501,7 +485,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.31.94",
+      "ip": "172.253.122.94",
       "geoip": {
         "continent": {
           "code": "NA",
