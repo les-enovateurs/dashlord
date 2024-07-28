@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Rubik%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=6.6",
+      "url": "https://fonts.googleapis.com/css?family=Rubik%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=6.6.1",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -10,7 +10,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6",
+      "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -66,7 +66,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/d60b0ef9/www-player.css",
+      "url": "https://www.youtube.com/s/player/1f8742dc/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -74,7 +74,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/d60b0ef9/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/1f8742dc/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -82,7 +82,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/d60b0ef9/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/1f8742dc/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -90,7 +90,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/d60b0ef9/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/1f8742dc/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -162,7 +162,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/d60b0ef9/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/1f8742dc/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -170,7 +170,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/d6WzJaofU1kne-aGzzhRfrvQvcguvwwbKAzGVw0Fi1w.js",
+      "url": "https://www.google.com/js/th/1AiCzlAXOvKBjKQ6-ZkwShm4tpQuZWMhqjO5xqGcWBk.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -258,7 +258,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?0t6wRA",
+      "url": "https://www.youtube.com/generate_204?PLuLxw",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -284,10 +284,10 @@
   "cookies": [
     {
       "name": "_wpfuuid",
-      "value": "00091306-741d-4a25-911d-fbeed34a1954",
+      "value": "aa0462e3-e8dc-4aad-81ad-b0d193890b4e",
       "domain": "votezmarion.fr",
       "path": "/",
-      "expires": 2067036868,
+      "expires": 2067641678,
       "size": 44,
       "httpOnly": false,
       "secure": true,
@@ -300,14 +300,14 @@
   ],
   "headers": {
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8a67383e5b8a3458-DFW",
+    "cf-ray": "8aa0e6174942e259-ORD",
     "content-encoding": "br",
     "content-security-policy": "upgrade-insecure-requests",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 21 Jul 2024 00:54:27 GMT",
+    "date": "Sun, 28 Jul 2024 00:54:37 GMT",
     "link": "<https://votezmarion.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://votezmarion.fr/wp-json/wp/v2/pages/465>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://votezmarion.fr/>; rel=shortlink",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=SR4Z2zXOMm%2BVl9Ya81AwnSEI2hVZp5Jafo26Oj6Dtre24KcUhEgCRVSslROXpZrQS8E3aFaMQ6VJmvSHOAFTOfAgWoHkyvu4SF6I7K2xESaWrW%2FDMdGonMV%2FBLllsZbX\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Q4zhwh21fsi3lbJDrHZWUbeTsJAt4ovpOl64pTa6WNdCWOyS8bthc9yPn5TaP2Au7CTEEqf8giBcpA0JnRAANtAhspOX9d2z4W8jF05bPFlmj6G7ziKq5jlM4dpeODci\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -393,7 +393,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.227",
+      "ip": "142.250.190.67",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -447,7 +447,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "142.250.191.238",
+      "ip": "142.250.190.46",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -501,7 +501,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.250.190.98",
+      "ip": "142.250.191.194",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -555,7 +555,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "142.250.190.6",
+      "ip": "172.217.4.38",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -609,7 +609,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "142.250.191.106",
+      "ip": "142.250.191.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -663,7 +663,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.217.4.196",
+      "ip": "142.250.191.100",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -717,7 +717,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "172.217.0.182",
+      "ip": "142.250.190.86",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -825,7 +825,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "172.217.1.99",
+      "ip": "142.250.191.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -879,7 +879,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "142.250.190.78",
+      "ip": "142.250.191.142",
       "geoip": {
         "continent": {
           "code": "NA",
