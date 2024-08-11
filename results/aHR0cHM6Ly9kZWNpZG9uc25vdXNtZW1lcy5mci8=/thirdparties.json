@@ -37,6 +37,14 @@
       }
     },
     {
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/brevo-conversations.js",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
       "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
       "details": {
@@ -53,11 +61,11 @@
       }
     },
     {
-      "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/brevo-conversations.js",
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
       "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
@@ -73,22 +81,6 @@
       "url": "https://conversations-widget.sendinblue.com/sib-conversations.js"
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/hfUfsXWZFeg83qqxrK27GB8P/recaptcha__en.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "brevo",
       "url": "https://conversations-widget.brevo.com/sib-conversations.js",
       "details": {
@@ -97,43 +89,11 @@
       }
     },
     {
-      "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/?isModern=true",
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/_ZpyzC9NQw3gYt1GHTrnprhx/recaptcha__en.js",
       "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=3521a36e-45db-43e7-87ae-2b8eae33387f&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/599bedf87eed214815c63351aca105cd7084553c.css?meteor_css_resource=true",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=e8dfc1e628ee7c9ae5aa0b028d03d177620fac47",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/e906b64cd0164c608ff075d17aa6558a19760766.js?meteor_js_resource=true",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -145,16 +105,16 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/599bedf87eed214815c63351aca105cd7084553c.css?meteor_css_resource=true",
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/?isModern=true",
       "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
       }
     },
     {
       "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=e8dfc1e628ee7c9ae5aa0b028d03d177620fac47",
+      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=a2777c36-5721-43f0-8fba-6267e5dea9f4&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -162,7 +122,23 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/e906b64cd0164c608ff075d17aa6558a19760766.js?meteor_js_resource=true",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/2ac7b5a0dff6684e32f3282ce21530cf5612fa3d.css?meteor_css_resource=true",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=94cdcd6bf4c943e871d2d6f0c84500f4812a6b14",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/c2651bcf99102bcfca25a2c445ecb702e555a9b1.js?meteor_js_resource=true",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -172,10 +148,10 @@
   "cookies": [
     {
       "name": "_wpfuuid",
-      "value": "8c73b493-9f70-4ef8-8fe8-f09209708213",
+      "value": "2bdf46f7-9b76-4365-bda2-29f55fdbaffd",
       "domain": "decidonsnousmemes.fr",
       "path": "/",
-      "expires": 2068246511,
+      "expires": 2068851420,
       "size": 44,
       "httpOnly": false,
       "secure": true,
@@ -187,10 +163,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "3521a36e-45db-43e7-87ae-2b8eae33387f",
+      "value": "a2777c36-5721-43f0-8fba-6267e5dea9f4",
       "domain": ".decidonsnousmemes.fr",
       "path": "/",
-      "expires": 1738457711,
+      "expires": 1739062620,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -203,15 +179,15 @@
   "headers": {
     "accept-ranges": "bytes",
     "content-encoding": "br",
-    "content-length": "19038",
+    "content-length": "19040",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 04 Aug 2024 00:55:10 GMT",
+    "date": "Sun, 11 Aug 2024 00:56:58 GMT",
     "link": "<https://decidonsnousmemes.fr/wp-json/>; rel=\"https://api.w.org/\", <https://decidonsnousmemes.fr/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://decidonsnousmemes.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=15552000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-cache-key": "https://decidonsnousmemes.fr/bytes=0-2097151",
-    "x-cache-status": "MISS",
-    "x-request-id": "da0b82414b5396acb1c09c8f2f7cb729"
+    "x-cache-status": "HIT",
+    "x-request-id": "5f67e9f861e6f3ea52e1d25d586ffe2b"
   },
   "endpoints": [
     {
@@ -272,8 +248,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.63.95",
+      "ip": "142.251.46.202",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -304,9 +286,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -321,13 +307,35 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.253.115.103",
+      "ip": "142.251.46.164",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -358,9 +366,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -375,7 +387,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
@@ -400,7 +428,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.63.94",
+      "ip": "172.217.164.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -454,7 +482,7 @@
     },
     {
       "hostname": "conversations-widget.brevo.com",
-      "ip": "104.18.6.69",
+      "ip": "104.18.7.69",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -494,7 +522,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.111.94",
+      "ip": "142.251.214.131",
       "geoip": {
         "city": {
           "geoname_id": 5116931,
@@ -594,7 +622,7 @@
     },
     {
       "hostname": "d13sozod7hpim.cloudfront.net",
-      "ip": "99.86.227.77",
+      "ip": "18.238.189.88",
       "geoip": {
         "continent": {
           "code": "NA",
