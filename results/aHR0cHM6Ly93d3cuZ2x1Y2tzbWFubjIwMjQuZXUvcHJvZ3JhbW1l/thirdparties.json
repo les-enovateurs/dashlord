@@ -10,7 +10,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/g/769ce3c24a3b/api.js?onload=CECj8&render=explicit",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js?onload=IbcA8&render=explicit",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -18,7 +18,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/9tyl9/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/oqaqh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -28,10 +28,10 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "4nNX4yJVSV5ivPhnFq4Cw2zhope9rsHIalZxVg36yp8-1723340920-1.0.1.1-rFitSbdRkj6rqEPdvO0g_mJLxsaVTWxOchALghJUo9CafcZeDsMyMYcGt7ll5EYN9tW7FvIsjEmHZ7Hi0O1iVQ",
+      "value": "UYeTYrpQ5r1pLCJEy3RXIJE5GMXBGyjibNx3RbuI314-1723945525-1.0.1.1-FB21kkv.MfuJT4chWgFAKeASDJ0PgmxgeYXUrSB3zB97rZi9EJSCljwxCL93qDaQhkWKMfasCOQ8a4_HZRodAg",
       "domain": ".www.glucksmann2024.eu",
       "path": "/",
-      "expires": 1723342720.471516,
+      "expires": 1723947325.611408,
       "size": 156,
       "httpOnly": true,
       "secure": true,
@@ -46,22 +46,22 @@
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "cf-chl-out": "ZOXDB1e5KHTysiSu/9+YrwGqYs5glmFFyMtKR6+qvAurOd2JbD8Kx8q/hJVQ62PkyzOZhzGNq1ERIaxbVwrKzxy4csE8Gws83wvRKXnktK1k8M4H8Ab1qs2a93O9c7HBiXn2TlRQFOAA57L5z7Of0w==$/6jKPHLscUbPK/ZIdShjTw==",
+    "cf-chl-out": "uL43JIAYna8yVKX9KIQbo8VfzHPpTRjBpyQSyADkyVCymWZmaHx91XiXaTDEFpeaM2swCge+U1VQ69BviNGaRMQG8DXJWNEIkmdgW0nYQnXDNhN5GzZJdzxoCWiTZdu92th19RG35Dv4daAPMCY+Jg==$pr8Bvd/hehVCth/JQKaqVA==",
     "cf-mitigated": "challenge",
-    "cf-ray": "8b149090ed5ffa3e-SJC",
+    "cf-ray": "8b4e396ef8bb2d2e-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 11 Aug 2024 01:48:40 GMT",
+    "date": "Sun, 18 Aug 2024 01:45:25 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
     "referrer-policy": "same-origin",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=4nNX4yJVSV5ivPhnFq4Cw2zhope9rsHIalZxVg36yp8-1723340920-1.0.1.1-rFitSbdRkj6rqEPdvO0g_mJLxsaVTWxOchALghJUo9CafcZeDsMyMYcGt7ll5EYN9tW7FvIsjEmHZ7Hi0O1iVQ; path=/; expires=Sun, 11-Aug-24 02:18:40 GMT; domain=.www.glucksmann2024.eu; HttpOnly; Secure; SameSite=None",
+    "set-cookie": "__cf_bm=UYeTYrpQ5r1pLCJEy3RXIJE5GMXBGyjibNx3RbuI314-1723945525-1.0.1.1-FB21kkv.MfuJT4chWgFAKeASDJ0PgmxgeYXUrSB3zB97rZi9EJSCljwxCL93qDaQhkWKMfasCOQ8a4_HZRodAg; path=/; expires=Sun, 18-Aug-24 02:15:25 GMT; domain=.www.glucksmann2024.eu; HttpOnly; Secure; SameSite=None",
     "vary": "Accept-Encoding",
     "x-content-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
@@ -69,7 +69,7 @@
   "endpoints": [
     {
       "hostname": "www.glucksmann2024.eu",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -89,7 +89,7 @@
     },
     {
       "hostname": "static.cloudflareinsights.com",
-      "ip": "104.16.79.73",
+      "ip": "104.16.80.73",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
