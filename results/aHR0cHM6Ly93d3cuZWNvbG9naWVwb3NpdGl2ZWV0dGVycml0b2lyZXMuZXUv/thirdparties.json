@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/files/12/12n/12nvq6.css?ph=4ea3b43bad",
+      "url": "https://duyn491kcolsw.cloudfront.net/files/1q/1q2/1q2fpi.css?ph=4ea3b43bad",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -42,7 +42,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/files/1r/1rp/1rpaj1.css?ph=4ea3b43bad",
+      "url": "https://duyn491kcolsw.cloudfront.net/files/1c/1cx/1cxwz2.css?ph=4ea3b43bad",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -58,7 +58,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/files/27/27t/27twow.css?ph=4ea3b43bad",
+      "url": "https://duyn491kcolsw.cloudfront.net/files/2w/2w8/2w8g88.css?ph=4ea3b43bad",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -66,7 +66,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/files/3v/3v8/3v8hym.js?ph=4ea3b43bad",
+      "url": "https://duyn491kcolsw.cloudfront.net/files/1j/1jq/1jqdgs.js?ph=4ea3b43bad",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -74,7 +74,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/files/3u/3ud/3udbba.css?ph=4ea3b43bad",
+      "url": "https://duyn491kcolsw.cloudfront.net/client.fe/js.compiled/lang.fr.1409.js?ph=4ea3b43bad",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -82,7 +82,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/client.fe/js.compiled/lang.fr.1408.js?ph=4ea3b43bad",
+      "url": "https://duyn491kcolsw.cloudfront.net/files/1n/1nf/1nfb7k.css?ph=4ea3b43bad",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -90,7 +90,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/client.fe/js.compiled/compiled.multi.2-1724.js?ph=4ea3b43bad",
+      "url": "https://duyn491kcolsw.cloudfront.net/client.fe/js.compiled/compiled.multi.2-1725.js?ph=4ea3b43bad",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -149,24 +149,16 @@
       "url": "https://4ea3b43bad.clvaw-cdnwnd.com/a0d3035f808fda3421f4170357287c88/200001575-b9af9b9afc/700/EURO24.webp?ph=4ea3b43bad"
     },
     {
-      "type": "unknown",
-      "url": "https://4ea3b43bad.clvaw-cdnwnd.com/a0d3035f808fda3421f4170357287c88/200000007-3acf43acf6/france-2899246_1920.webp?ph=4ea3b43bad"
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://duyn491kcolsw.cloudfront.net/files/2n/2n6/2n6epi.woff2",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
       "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/robotoflex/v8/NaNeepOXO_NexZs0b5QrzlOHb8wCikXpYqmZsWI-__OGfttPZktqc2VdZ80KvCLZaPcSBZtOx2MifRuWR28sPJtUMbsFEK6cRrleUx9Xgbm3WLHa_F4Ep4Fm0PN19Ik5Dntczx0wZGzhPlL1YNMYKbv9_1IQXOw7AiUJVXpRJ6cXW4O8TNGoXjCnwSRSaLshNP1d9-EmFw.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://4ea3b43bad.clvaw-cdnwnd.com/a0d3035f808fda3421f4170357287c88/200000007-3acf43acf6/france-2899246_1920.webp?ph=4ea3b43bad"
     },
     {
       "type": "google fonts",
@@ -177,16 +169,16 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://4ea3b43bad.clvaw-cdnwnd.com/a0d3035f808fda3421f4170357287c88/200001487-808e4808e7/700/brice-lalonde-et-yann-wehrling.webp?ph=4ea3b43bad"
+      "type": "cloudfront",
+      "url": "https://duyn491kcolsw.cloudfront.net/files/2n/2n6/2n6epi.woff2",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/embed/HPQ3l_takhg?wmode=opaque",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
+      "type": "unknown",
+      "url": "https://4ea3b43bad.clvaw-cdnwnd.com/a0d3035f808fda3421f4170357287c88/200001487-808e4808e7/700/brice-lalonde-et-yann-wehrling.webp?ph=4ea3b43bad"
     },
     {
       "type": "unknown",
@@ -197,8 +189,12 @@
       "url": "https://4ea3b43bad.clvaw-cdnwnd.com/a0d3035f808fda3421f4170357287c88/200001712-da5d6da5d8/450/11676-667e7351c33aa-miniature-16-9-jpg.webp?ph=4ea3b43bad"
     },
     {
-      "type": "unknown",
-      "url": "https://buttons-config.sharethis.com/js/6600091258eed300122e7c54.js"
+      "type": "youtube",
+      "url": "https://www.youtube-nocookie.com/embed/HPQ3l_takhg?wmode=opaque",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
     },
     {
       "type": "cloudfront",
@@ -210,7 +206,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://l.sharethis.com/pview?event=pview&hostname=www.ecologiepositiveetterritoires.eu&location=%2F&product=powr-popup&url=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&source=platform&fcmp=false&fcmpv2=false&has_segmentio=false&title=%C3%89cologie%20Positive%20et%20Territoires&cms=unknown&publisher=6600091258eed300122e7c54&sop=true&version=st_sop.js&lang=en&description=Des%20citoyens%20et%20mouvements%20politiques%20engag%C3%A9s%20pourRedonner%20envie%20d%27%C3%A9cologie%20!&ua=&ua_mobile=false&ua_full_version_list=&uuid=98c5f94f-1d09-4048-8a05-66dba16927b9"
+      "url": "https://buttons-config.sharethis.com/js/6600091258eed300122e7c54.js"
     },
     {
       "type": "cloudfront",
@@ -221,8 +217,12 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://l.sharethis.com/pview?event=pview&hostname=www.ecologiepositiveetterritoires.eu&location=%2F&product=powr-popup&url=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&source=platform&fcmp=false&fcmpv2=false&has_segmentio=false&title=%C3%89cologie%20Positive%20et%20Territoires&cms=unknown&publisher=6600091258eed300122e7c54&sop=true&version=st_sop.js&lang=en&description=Des%20citoyens%20et%20mouvements%20politiques%20engag%C3%A9s%20pourRedonner%20envie%20d%27%C3%A9cologie%20!&ua=&ua_mobile=false&ua_full_version_list=&uuid=e7b73196-a256-4a5d-8621-5a92fcf83ecb"
+    },
+    {
       "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/28fd7348/www-player.css",
+      "url": "https://www.youtube-nocookie.com/s/player/53afa3ce/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -230,7 +230,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/28fd7348/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube-nocookie.com/s/player/53afa3ce/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -238,7 +238,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/28fd7348/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube-nocookie.com/s/player/53afa3ce/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -246,7 +246,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/28fd7348/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube-nocookie.com/s/player/53afa3ce/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -289,6 +289,14 @@
       "url": "https://platform-api.sharethis.com/powr.js?platform=sharethis"
     },
     {
+      "type": "unknown",
+      "url": "https://l.sharethis.com/sc?event=pview&hostname=www.ecologiepositiveetterritoires.eu&location=%2F&product=powr-popup&url=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&source=platform&fcmp=false&fcmpv2=false&has_segmentio=false&title=%C3%89cologie%20Positive%20et%20Territoires&cms=unknown&publisher=6600091258eed300122e7c54&sop=true&version=st_sop.js&lang=en&description=Des%20citoyens%20et%20mouvements%20politiques%20engag%C3%A9s%20pourRedonner%20envie%20d%27%C3%A9cologie%20!&ua=&ua_mobile=false&ua_full_version_list=&uuid=e7b73196-a256-4a5d-8621-5a92fcf83ecb"
+    },
+    {
+      "type": "unknown",
+      "url": "https://t.sharethis.com/1/k/t.dhj?cid=c010&cls=B&dmn=www.ecologiepositiveetterritoires.eu&rnd=1723943577816"
+    },
+    {
       "type": "google",
       "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
       "details": {
@@ -306,7 +314,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/28fd7348/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube-nocookie.com/s/player/53afa3ce/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -314,7 +322,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/jDVVIT4ZwDHfBiET8TcWj790JrYgF6qU1g_sOcBWI_w.js",
+      "url": "https://www.google.com/js/th/-0TfInu9ra9zkah2wyCD78KX7EDwI16Gf6-9m2UuzfU.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -393,6 +401,26 @@
       "url": "https://4ea3b43bad.clvaw-cdnwnd.com/a0d3035f808fda3421f4170357287c88/200001690-8db248db27/450/soulebasse-navarre-5453b67b8266461899af34e16f6bbbdb-152220-ph0.webp?ph=4ea3b43bad"
     },
     {
+      "type": "unknown",
+      "url": "https://v.calameo.com/8970-000159/pinwheel/viewer/css/main.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://v.calameo.com/8970-000159/pinwheel/viewer/scripts/loader.js"
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube-nocookie.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://t.sharethis.com/a/t_.htm?ver=1.1501.23403&cid=c010&cls=B"
+    },
+    {
       "type": "google",
       "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
       "details": {
@@ -402,7 +430,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/generate_204?CGoffQ",
+      "url": "https://www.youtube-nocookie.com/generate_204?r9gsrQ",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -417,20 +445,8 @@
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
       "type": "unknown",
-      "url": "https://v.calameo.com/8970-000159/pinwheel/viewer/css/main.css"
-    },
-    {
-      "type": "unknown",
-      "url": "https://v.calameo.com/8970-000159/pinwheel/viewer/scripts/loader.js"
+      "url": "https://t.sharethis.com/1.1501.23403/a/US/t_.js?cid=c010&cls=B"
     },
     {
       "type": "google fonts",
@@ -442,7 +458,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://events.webnode.com/projects/-/events/PROD?api_key=-&data=eyJ1c2VyIjp7InUiOjAsInAiOjQ4NTgwMzY5LCJsYyI6IkZSIiwidCI6IjEifSwiYWN0aW9uIjp7ImlkZW50aWZpZXIiOiJjb29raWViYXJfc2hvdyIsIm5hbWUiOiJDb29raWViYXIgd2FzIHNob3duIiwiY2F0ZWdvcnkiOiJwcm9qZWN0IiwicGxhdGZvcm0iOiJXTkQyIiwidmVyc2lvbiI6IjItMTcyNF8yLTE3MjQifSwiYnJvd3NlciI6eyJ1cmwiOiJodHRwczovL3d3dy5lY29sb2dpZXBvc2l0aXZlZXR0ZXJyaXRvaXJlcy5ldS8iLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA2LjAuMTsgTmV4dXMgNVggQnVpbGQvTU1CMjlQKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuNjUzMy45OSBNb2JpbGUgU2FmYXJpLzUzNy4zNiAoY29tcGF0aWJsZTsgR29vZ2xlYm90LzIuMTsgK2h0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYm90Lmh0bWwpIiwicmVmZXJlcl91cmwiOiIiLCJyZXNvbHV0aW9uIjoiODAweDYwMCIsImlwIjoiNjYuMjQ5LjY2LjE2MyJ9LCJkYXRhIjp7Ik1WQ1R5cGUiOiJ3bmQuZmUuQ29va2llQmFyIiwiTVZDSWQiOiJDb29raWVCYXIifX0%3D&modified=1723338898863&jsonp=trackerJSONPCallback1723338898863_0"
+      "url": "https://events.webnode.com/projects/-/events/PROD?api_key=-&data=eyJ1c2VyIjp7InUiOjAsInAiOjQ4NTgwMzY5LCJsYyI6IkZSIiwidCI6IjEifSwiYWN0aW9uIjp7ImlkZW50aWZpZXIiOiJjb29raWViYXJfc2hvdyIsIm5hbWUiOiJDb29raWViYXIgd2FzIHNob3duIiwiY2F0ZWdvcnkiOiJwcm9qZWN0IiwicGxhdGZvcm0iOiJXTkQyIiwidmVyc2lvbiI6IjItMTcyNV8yLTE3MjUifSwiYnJvd3NlciI6eyJ1cmwiOiJodHRwczovL3d3dy5lY29sb2dpZXBvc2l0aXZlZXR0ZXJyaXRvaXJlcy5ldS8iLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjMuMC4wLjAgU2FmYXJpLzUzNy4zNiBPUFIvMTA5LjAuMC4wIiwicmVmZXJlcl91cmwiOiJodHRwczovL3d3dy5nb29nbGUuY29tLyIsInJlc29sdXRpb24iOiI4MDB4NjAwIiwiaXAiOiIzNS4yMDkuNjguMTI4In0sImRhdGEiOnsiTVZDVHlwZSI6InduZC5mZS5Db29raWVCYXIiLCJNVkNJZCI6IkNvb2tpZUJhciJ9fQ%3D%3D&modified=1723943595861&jsonp=trackerJSONPCallback1723943595861_0"
     },
     {
       "type": "unknown",
@@ -455,6 +471,30 @@
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://segments.company-target.com/log?vendor=sharethis&user_id=na&gdpr=0&gdpr_consent="
+    },
+    {
+      "type": "unknown",
+      "url": "https://i.liadm.com/s/55128"
+    },
+    {
+      "type": "unknown",
+      "url": "https://us-u.openx.net/w/1.0/cm?id=37d1e8f3-8329-48ce-b278-0c992e7e03af&r=https%3A%2F%2Fsync.sharethis.com%2Fopenx%3Fuid%3D"
+    },
+    {
+      "type": "unknown",
+      "url": "https://us-u.openx.net/w/1.0/cm?cc=1&id=37d1e8f3-8329-48ce-b278-0c992e7e03af&r=https%3A%2F%2Fsync.sharethis.com%2Fopenx%3Fuid%3D"
+    },
+    {
+      "type": "unknown",
+      "url": "https://segments.company-target.com/validateCookie?vendor=sharethis&user_id=na&verifyHash=1e7d4995c7386ecaf09f727688fcc612a641dd53"
+    },
+    {
+      "type": "unknown",
+      "url": "https://sync.sharethis.com/openx?uid=2d3f4644-3bde-46f2-9190-35f33abf5f7c"
     },
     {
       "type": "unknown",
@@ -494,7 +534,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-H0TZZDDBNK&gtm=45je4880v9101386796za200&_p=1723338898842&gcs=G111&gcd=13t3t3l3l5&npa=0&dma=0&tag_exp=0&cid=842968604.1723338900&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=2&pscdl=noapi&_s=1&dl=%2Fread%2F8970-000159%2F7687732&sid=1723338899&sct=1&seg=0&dr=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&dt=Livre%20Ept%20Page&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.debug_mode=false&epn.publisher_id=7687732&ep.account_type=FREE&ep.account_status=P&ep.build_id=8970-000159&ep.publish_mode=public&ep.ga_tracking=none&ep.ad_sense=true&ep.tracker_source=embed&ep.ad_block=false&tfd=19032",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-H0TZZDDBNK&gtm=45je48e0v9101386796za200&_p=1723943595826&gcs=G111&gcd=13t3t3l3l5&npa=0&dma=0&tag_exp=0&cid=307485059.1723943597&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=2&pscdl=noapi&_s=1&dl=%2Fread%2F8970-000159%2F7687732&sid=1723943596&sct=1&seg=0&dr=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&dt=Livre%20Ept%20Page&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.debug_mode=false&epn.publisher_id=7687732&ep.account_type=FREE&ep.account_status=P&ep.build_id=8970-000159&ep.publish_mode=public&ep.ga_tracking=none&ep.ad_sense=true&ep.tracker_source=embed&ep.ad_block=false&tfd=19330",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -502,15 +542,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://calameo-beacon.global.ssl.fastly.net/collect?e=view&aid=7687732&bid=16607680&dv=desktop&src=embed&_c=821765863"
+      "url": "https://calameo-beacon.global.ssl.fastly.net/collect?e=view&aid=7687732&bid=16607680&dv=desktop&src=embed&_c=820967985"
     },
     {
       "type": "unknown",
-      "url": "https://calameo-beacon.global.ssl.fastly.net/collect?e=pageview&aid=7687732&bid=16607680&pages=1&dv=desktop&src=embed&_c=848083167"
+      "url": "https://calameo-beacon.global.ssl.fastly.net/collect?e=pageview&aid=7687732&bid=16607680&pages=1&dv=desktop&src=embed&_c=410986438"
     },
     {
       "type": "google analytics",
-      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202408060101/pubads_impl.js?cb=31085955",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202408120101/pubads_impl.js",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -518,11 +558,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=m202408060101&st=env"
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=m202408120101&st=env"
     },
     {
       "type": "google analytics",
-      "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=2424651726160048&correlator=259787484430707&eid=44809527%2C31085738%2C31085955&output=ldjh&gdfp_req=1&vrg=202408060101&ptt=17&impl=fifs&iu_parts=3858349%2CPublication_Embed_Leaderboard&enc_prev_ius=%2F0%2F1&prev_iu_szs=320x100%7C320x50%7C300x100%7C300x50&ifi=1&sfv=1-0-40&sc=1&cookie_enabled=1&cdm=v.calameo.com&abxe=1&dt=1723338900025&lmt=1723338881&adxs=140&adys=293&biw=-12245933&bih=-12245933&isw=600&ish=388&scr_x=-12245933&scr_y=-12245933&ucis=re3lcxfadztg&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&bc=31&nvt=1&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0.&nhd=1&url=https%3A%2F%2Fv.calameo.com%2F%3Fbkcode%3D007687732dd30af61eab5&ref=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&top=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&vis=1&psz=600x-1&msz=320x-1&fws=772&ohw=600&dlt=1723338893028&idt=6963&cust_params=safe%3Dyes%26certified%3Dno%26moderated%3Dyes&adks=3302919264&frm=24&eoidce=1",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=3156500894596451&correlator=4269766271864852&eid=31079957%2C31085739&output=ldjh&gdfp_req=1&vrg=202408120101&ptt=17&impl=fifs&iu_parts=3858349%2CPublication_Embed_Leaderboard&enc_prev_ius=%2F0%2F1&prev_iu_szs=320x100%7C320x50%7C300x100%7C300x50&ifi=1&sfv=1-0-40&sc=1&cookie_enabled=1&cdm=v.calameo.com&abxe=1&dt=1723943596769&lmt=1723943578&adxs=140&adys=293&biw=-12245933&bih=-12245933&isw=600&ish=388&scr_x=-12245933&scr_y=-12245933&ucis=yudbsz86i05x&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&bc=31&nvt=1&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0.&nhd=1&url=https%3A%2F%2Fv.calameo.com%2F%3Fbkcode%3D007687732dd30af61eab5&ref=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&top=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&vis=1&psz=600x-1&msz=320x-1&fws=772&ohw=600&dlt=1723943578126&idt=18610&cust_params=safe%3Dyes%26certified%3Dno%26moderated%3Dyes&adks=3302919264&frm=24&eoidce=1",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -530,7 +570,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://8edd3169ed2ee7bba1c096debc70bb86.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1"
+      "url": "https://8ada25b36ee9e8d6e26c25fcafe6bd1c.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1"
     },
     {
       "type": "unknown",
@@ -538,71 +578,51 @@
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p1.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p1.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p2.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p2.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p3.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p3.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p4.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p4.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p5.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p5.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p6.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p6.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p7.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p7.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p8.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p8.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
       "type": "unknown",
-      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p9.svgz?_token_=exp=1723382099~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=03cb2b6821f060c1713400d50e221ae99bd584c0990bb03e5fad2aa74a9891bf"
+      "url": "https://ps.calameoassets.com/240524141737-87cd25fe37c5a97db67d2d541ac92818/p9.svgz?_token_=exp=1723986796~acl=%2F240524141737-87cd25fe37c5a97db67d2d541ac92818%2F%2A~hmac=1179f0fc3cfad86ef5ab8a2d5ac188e0463487733ca80162117cce81b2b07b8b"
     },
     {
-      "type": "unknown",
-      "url": "https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html"
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "type": "google analytics",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssalkWnRq9QBTiY7pUBlUYC3esJjEsFdTn6lFzCsBTvd-tT6_kxKLnfMgW-iW2nYvBlGVx8krC_qzSQqKdwbJB5WbvQE2RRR-A5bzlZhxSZpQNePauBHsCOd_-uxZSDUNlPXAZwR9tOjuNUJCS-YJ2_nXTvUBIwdglbiDcGuAaLJFKPCahhLfLsnDJQzSD8eDhJOZtQMrWpvE_oslUOXkSR6_WwpiHcesAtUR6rCW3wbtKEi2OUHldk2QAlMzcNdTkvrGvAuFYmpC7nz2hSl1FAxreS6NoMCPDKGTjxVKf3xrR746W6xx2rgCjc2UC3Fn_eopHewtVfiLrJX-9pCVcaPPCNBIXA4x15abKhvuO-J6FSaeu4nUcBrqB9X-l9KEkKug&sai=AMfl-YSuFj_yoalVrjjJVXW_1rtD9xc7W058D2KOHGU58LePO4kf7LaiU_fk_4VvgsO7Xjn9ybyBI0ZJi7BsjfBDg7z6Lz7hyhzdJzKIjnZA97WxBcJyZJqjupwJ8yNaLQkNUPEqxhKHo5KvOSjKb1udR9eS&sig=Cg0ArKJSzPCRRv6UHKXAEAE&uach_m=%5BUACH%5D&urlfix=1&adurl=",
       "details": {
-        "id": "google",
+        "id": "google analytics",
         "message": "Use hosted Matomo instance"
       }
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/bg/NFZ1mOwYxEzu3Trb4QHr3oiOeNElDH4Ziz6mMFaiIXI.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://8edd3169ed2ee7bba1c096debc70bb86.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1"
-    },
-    {
-      "type": "unknown",
-      "url": "https://tpc.googlesyndication.com/safeframe/1-0-40/js/ext.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://tpc.googlesyndication.com/pagead/js/r20240807/r20110914/abg_lite.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3044456260497568"
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
     },
     {
       "type": "unknown",
@@ -610,51 +630,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&li=gpt_m202408060101&jk=2424651726160048&rc="
-    },
-    {
-      "type": "google analytics",
-      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstf7EDf8bdrPqWIw4GRdAGm6ZCrpc-GHSjlcdsKfrU8aVSy0GG_u_MdwK_JbSK2nB2QnI2ougzWK8zF7a62EWDZNLKUAz57iuEtgXc2iOQCklZaUKkHJAzAX2RUMyFOKfJSexlDqEdTNNLIj5EM8F70DmntY2-1YwCLnXhk6OS7YVAJR3YpNzF7cIxK5bL6zf9xqFXTwL_Ui82TwRTRMQJAHf56sx-xtV-68lKwvSI8lRbtm1eqkl5_OYT_AtQJut1-T4HI27fDvsaOc0isNPpQAnYFs5WOoeg9L4utEdG6jo7p90bhS6nhktZdmw90AgUcToBb94E5eWyubbOPSkB5K5rs6xTVcjO7asMXZPo4wgwkuPma4H2W8IvjMEKi7LQ&sai=AMfl-YRf7GrJn5Z0c75E5b1bdUTLO4sD_z4n4puyxUxccmJL4eSzlGwDt7SJBAviF-GA9tQuYYxHTcrRYzuK2q012RzCWDWh54kswWjWPL8Inn-JHKZDHqb5MjUYbiBJuG3TPoMjLg7dXRIzqMvl4wBLe28&sig=Cg0ArKJSzGyXyD7w25WqEAE&uach_m=%5BUACH%5D&urlfix=1&adurl=",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unknown",
       "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWACaAM%3D"
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202408060101/slotcar_library.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202408060101/show_ads_impl.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://tpc.googlesyndication.com/generate_204?8VuhCw"
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202408130101/show_ads_impl.js"
     },
     {
       "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/html/r20240807/r20110914/zrt_lookup.html",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3044456260497568&output=html&adk=1812271804&adf=3407251184&abgtt=6&plat=1%3A520%2C2%3A520%2C3%3A2163200%2C4%3A2163200%2C8%3A512%2C9%3A520%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C26%3A512%2C27%3A512%2C30%3A1049088%2C32%3A32%2C41%3A32%2C42%3A32&format=0x0&url=https%3A%2F%2Fv.calameo.com%2F&pra=5&wgl=1&easpi=0&aihb=0&asro=0&ailel=29~32~27~1~2~4~6~7~8~9~10~11~12~13~14~15~16~17~18~19~20~21~24~30~34&aiael=29~32~27~1~2~4~6~7~8~9~10~11~12~13~14~15~16~17~18~19~20~21~24~30~34&aifxl=29_18~32_18~27_15~30_19&aiixl=29_5~32_9~27_3~30_6&aslmct=0.7&asamct=0.7&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0.&dt=1723338900415&bpp=4&bdt=203&idt=133&shv=r20240807&mjsv=m202408060101&ptt=9&saldr=aa&cookie_enabled=1&eoidce=1&nras=1&correlator=896961808517&frm=8&ife=1&pv=2&nhd=2&u_tz=0&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=-12245933&ady=-12245933&biw=-12245933&bih=-12245933&isw=320&ish=100&ifk=303059296&scr_x=-12245933&scr_y=-12245933&eid=44759875%2C44759926%2C44759842%2C31085911%2C44795921%2C95334525%2C95334829%2C95337869%2C95336267&oid=2&pvsid=3083463573779756&tmod=464196348&uas=0&nvt=1&fsapi=1&top=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C320%2C100&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=0&bc=31&bz=1&psd=W251bGwsbnVsbCxudWxsLDNd&ifi=1&uci=1.8zc8oppetc32&fsb=1&dtd=164",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3044456260497568&output=html&h=250&slotname=5443249350&adk=1831948002&adf=2913803996&pi=t.ma~as.5443249350&w=320&abgtt=6&fwrn=16&fwrnh=100&rafmt=1&format=320x250&url=https%3A%2F%2Fv.calameo.com%2F&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&sfro=1&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0.&dt=1723338900419&bpp=3&bdt=207&idt=170&shv=r20240807&mjsv=m202408060101&ptt=9&saldr=aa&cookie_enabled=1&eoidce=1&prev_fmts=0x0&nras=1&correlator=896961808517&frm=8&ife=1&pv=1&nhd=2&u_tz=0&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=-12245933&ady=-12245933&biw=-12245933&bih=-12245933&isw=320&ish=100&ifk=303059296&scr_x=-12245933&scr_y=-12245933&eid=44759875%2C44759926%2C44759842%2C31085911%2C44795921%2C95334525%2C95334829%2C95337869%2C95336267&oid=2&pvsid=3083463573779756&tmod=464196348&uas=0&nvt=1&top=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C320%2C100&vis=1&rsz=%7C%7CE%7C&abl=CS&pfx=0&fu=128&bc=31&bz=1&psd=W251bGwsbnVsbCxudWxsLDNd&ifi=2&uci=2.p38d7a7n278k&fsb=1&dtd=180",
+      "url": "https://googleads.g.doubleclick.net/pagead/html/r20240814/r20110914/zrt_lookup.html",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -666,11 +650,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&t=2&li=gpt_m202408060101&jk=2424651726160048&bg=!DQ6lDkHNAAZjy5caQ8s7ADQBe5WfONK-3nfBJSortnokmTo8LGHhyphUJRw_3AiYPwy3pL9YS4dEeykupkdmnmT806UyAgAAAMVSAAAABGgBB34ANV3iVd_ki2nkzDUYFiG8gWubBhMSpYN26-UywRe5y7zj-aPOzNzkKvdKsCI-Qen3jDTkFOKBCgAG_uSIAAjlmQLSSo6KB9DEAxAczLxjMgtxRtQgMuqyZuz6Po19IBgXaeMXnPpd6dPtNto-K9KzZETy1L9rBfAkITJtoUAam-pyHlHgTrtUsnFyuYo05lzQQqy5JRBEkH0vHzXMgtSSWnRKhpHb229DLQGD3Lapcs585_GgcNF6Mp0CDce_ZjGfDIEyfznfQyAGl5dSE9NmQopg8cIOdDgipKDIbyftdrnAeUIMg8t-G07xVfju97P3kA5FY9D7EkikSR8fcTSki9AwOJxbgYtsCGMEru0oNTjv0Mfmj84juAt7FKOFKpdNR01FmPf7FW6bgB2jA-YGYmU0hYReP-SISB4XcTNdx6ewcU5QoNlS6-pWucjVh9A4swOPNsvG0uyJ-tRVUceJkIrdvgIPIRmBcQI7AATWV__NOVaKRx8Bu4iHWTIEVCg8Q81F_iuAuYzEpaPd8yf4qBOY4u8SPOmUkJwrMf4J3QdKvQHYI_vb_a84-ixtZ4VscgO0T_5wlU8Qq9L5GO4IuED7BLqnWBe2D7oU-S2ELChfpFQVpqwa9G0FyrJkvBx5egK6bhHVq-zKKMxtIt64o1MIe-dibVAUewGxvskW-ATbwcqV6FOHfOMUylHttcxbYmTp441erUjtYn-CoN6nhUBDzA3t_a1CvYu-nSbo2auFe-f62rrl1kToX8K-lrFRLxQb1C3j1HmlzIyWzAfoK9dNO1SoXAd5OivTLEiMqFuiYM_UiNfnPFwPzJ0aQ6CrqlV21aJG58bX3Gwj8iK9-xLArU3yAP0F1DP3-5HjocTjZwapFa3t8l3ic8OhWul6Nvtl2LsXscyD1R0Rt0cLdaxYCtjjqS-BVrRFDxo26rNaVkf55beM5ISYLMyZzoFvSM9CohBQZKkntSlxILbdAB6tw5Gi6puIogM7zNgOa2LsgVNpvTNgNRUP-lSbKDDpZtmyPKJvlu1pp4aZAmyLfxnOhvc"
+      "url": "https://pagead2.googlesyndication.com/pagead/ping?e=1"
     },
     {
       "type": "google analytics",
-      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstvpbz_uRGFFnoARa6Ockwhe1HnHMAubRNg5r5DH95OUwhewws5l8hCMfOr0ia3spgtbuuxDF-X22kRh8OmFjVXlbq85Gx6cNqNCNYw6b5dSJ6IF-Ayb4wBy9QN20dRcPrYi3KcCp3G9A0sUREY5GkLFJPCpxDoOAmUl0yzDsCsrKjz5JSak6GgKF4q8fr5gsnTEHo39Zmqg9epKNWjC_j3I4vx0rGHtHLpVeNiO2NlXPvJk56EuIfghj8sXWsQ9AOudf4hPN8FHsxw4dOAYI5ZYb83RD39Y46cnw_dikp4WcGG9wXJzTe1ZAkq2ghkyTksFhw61AiNcyL2WtN3mwp_-uaXqGWg5ThDOT0DkPJpkUtPOzdEqXgjaaQh1jBl7vgmbA&sai=AMfl-YTcz5J-i_nDR6Od8TwKappmQL1B6d4C8rGAyt5ZSNI6Z-cgLjqYiop3rkYS7FUowOgu-c3UI3jJtQzADMgfYVPAV9OZB_GDDJFdjjO6-3Y7N_OFmgn6DuYYKUXnursAvuSQG9vWpj89ZGdYSJVpD4o&sig=Cg0ArKJSzEMtAS2lnitdEAE&uach_m=%5BUACH%5D&urlfix=1&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0%3D&adurl=",
+      "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3044456260497568&output=html&h=100&slotname=8851409782&adk=1273119187&adf=4198862039&pi=t.ma~as.8851409782&w=320&abgtt=3&fwrn=16&format=320x100&url=https%3A%2F%2Fwww.ecologiepositiveetterritoires.eu%2F&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0.&dt=1723943597045&bpp=13&bdt=114&idt=124&shv=r20240814&mjsv=m202408130101&ptt=9&saldr=aa&cookie=ID%3Dce97d31d81174a3b%3AT%3D1723943596%3ART%3D1723943596%3AS%3DALNI_Mb0hrceuwnowlm4IMnxJ2rTxvj0Vw&gpic=UID%3D00000ecc384be9be%3AT%3D1723943596%3ART%3D1723943596%3AS%3DALNI_MYNyC_zyx6N_R2WVuzoLARbup_Hvg&eo_id_str=ID%3Dba05af07d2371dde%3AT%3D1723943596%3ART%3D1723943596%3AS%3DAA-AfjYoohFz4tlUi0Kh1XvoMM82&correlator=6318231807630&frm=24&ife=4&pv=2&nhd=2&u_tz=0&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=-12245933&ady=-12245933&biw=-12245933&bih=-12245933&isw=320&ish=100&ifk=3133207797&scr_x=-12245933&scr_y=-12245933&eid=44759875%2C44759926%2C44759837%2C44798934%2C95334525%2C95334828%2C95337586%2C95337869%2C95338226%2C95340752%2C95335249%2C95339232&oid=2&pvsid=1804716560494226&tmod=1364761087&uas=0&nvt=1&brdim=0%2C0%2C0%2C0%2C800%2C0%2C800%2C600%2C320%2C100&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=4&bc=31&bz=1&psd=W251bGwsbnVsbCxudWxsLDNd&ifi=1&uci=1.oblpo3b7j75l&fsb=1&dtd=147",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstxD-HIzHbXjhf-DMl_fO0n07RE8PztnJp4lhw4tsd8bJpF0gzLq-RqbGUExVLHBmUH3igIckoFdzWiE36_M32FOy1bPVhaoeWoXQtXDXYFfnXQdFq8bYnz8C227OzfBwr5f8kz0T6CVWZ0REmx8FkJLEBvBse6xpz1Rycu_87nZja0ao4xxZzf7T5_L0LMYY9NAbUeQ4Aq046mBmoX1mLK7ZdLAppzHUjo9vUGskyV9Luo6TxMCuksm5zhra-sDj2J6ZA-VtxfraaolrwFv30XRCXtbytpXiPndPCuq2Z-VbeUUC1W_-ThH4s0fjgFZYDDHw-SsflFf80Sto-m_pBU35ooO6VlJur_Y0VMik4ZpFgU7NvJRc1-vw8xQN-MhtatcIkV&sai=AMfl-YTPI2QARjhBZ1tfQ_LEvqjpEj166q25FT9nJyZPc1Ds20pS4CmgzrWFaXFZud794NeAgLqkobQiZ8DxpIGGMF3snAZbbhvqbRdpQ-KtnZCoYFKC9jRUkFRPeWTRFarxAlCEI11Mxbh-FKjRt_za5uKB&sig=Cg0ArKJSzBKP-4lwqwVbEAE&uach_m=%5BUACH%5D&urlfix=1&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0%3D&adurl=",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -678,11 +670,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gda&tv=r20240807&st=env"
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20240814&st=env"
     },
     {
       "type": "unknown",
-      "url": "https://tpc.googlesyndication.com/sodar/sodar2.js"
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js"
     },
     {
       "type": "unknown",
@@ -698,25 +690,72 @@
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/bg/NFZ1mOwYxEzu3Trb4QHr3oiOeNElDH4Ziz6mMFaiIXI.js"
+      "url": "https://pagead2.googlesyndication.com/bg/bbpdwrw2duwLHMexCcMcUHHDjyS7r22JGOXnIJkhh1g.js"
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&li=gda_r20240807&jk=3083463573779756&rc="
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&li=gda_r20240814&jk=1804716560494226&rc="
     },
     {
       "type": "unknown",
-      "url": "https://tpc.googlesyndication.com/generate_204?dJUlEw"
+      "url": "https://tpc.googlesyndication.com/generate_204?SiaE6Q"
     },
     {
       "type": "unknown",
-      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&t=2&li=gda_r20240807&jk=3083463573779756&bg=!UlGlUR7NAAZjy5caQ8s7ADQBe5WfOKJDi5AoivS4ssO_jG3D45KRKIxXhdX0M-gWNegJDZP0x1Yh2vZg2w3H6Fx6jSy5AgAAAFJSAAAABGgBB34ANULz26ySvfG55SaJC3wKOVdNGZghJdChbAp-a4axegnDWzcJJNOiZmR2R2xgMpi79sBTzznKmQMUqE65U12yaRsKh_TzT2ew4wVg-7l4VgwGwxBI3NaSAuZtJDyhCqpUvAghsHLZChhVropeyHnksExZRvNND7mudfCwTEYgc9lURbmCeReJ_PBHTWe1ihrwqI7YjWfuNkyg8vHubjNyFZqQuOBuPbHRaF6SAQqN_naMvVPGWEs_oeLcJ2Jx3nuHkLK1563xK8RhEDTnKXlDfDFmAxJe_RD8rGs1lrbOis9MtG70PZeuHPPGNFMoPlUt06GzBqG24x3C0pRacrCHdOh9YxekAVnrwu5JRUjS7S1_ewfmHPrI2_J1_GtCAYUSt1PNxbCcM_BNWkcJFmA3oDs-v67QPmomlYw4vX4g28j6zVU0e3i-MLUyNoobqoC-lx4y4jth_LWcoWzpQNMIsrlubZT_HmKJzXJhPbwQJ3ZF5VWofH3VPhwMJkYjMiQFacrvdmwMvF3pcxTHfdPHrzKEwrIlkzQE1F-6qjVaTurcsfcCip-YhFc4kPqdj-QV-ukVxxAviuaZN5Fk2evukwfbP8hjxUZyVlmVoCYBvh5GYYW8tQz0OxQ2_qYdgW15WXV5jko3WdcSGPs4gsHWPurPny2-Bq1GnVeYfZY6OdkKbQV049P_7RYsR9iZ7X7jixpvT14YkjIQ-TbnYA02IbtWxs1unMfA9FCRUYwQvsmcxlWNUSHWnI1olz4vKbjyqZKu2yFPh9OteEdv7_EJMHaL4FFVd2imWDFaYt9PXo4yGh7XeegBCdnJ-dBzrGJsS6EsTPBX0p73kzzzhc-BulpfdDWRPVrPqzryMONkaryN_Zq5QxbgCRVRKg2mouUzv2t86m6WCx9r0Ah5IO1QJXOGFH4kPzsWLpnMCTRaKahCQRXfHM88_22v24DcKe3JGY5pypEJmHMuNNsK81lULeWaqzNon14XWKVsCpD4yPCFAroKS_VsUN6hxVADwuBgkX9csE-EPvCQj9LEOw_5HIjJmhAQzdl0tnOODB52_rKBSWtLKy9aGJ26So5Xn5WA4XQ7DodwW6JUKHGXEGjlFGG2QH_wL2kwTaEYIR0"
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html"
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://pagead2.googlesyndication.com/bg/bbpdwrw2duwLHMexCcMcUHHDjyS7r22JGOXnIJkhh1g.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&li=gpt_m202408120101&jk=3156500894596451&rc="
+    },
+    {
+      "type": "unknown",
+      "url": "https://tpc.googlesyndication.com/generate_204?nquVEg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&t=2&li=gda_r20240814&jk=1804716560494226&bg=!wsGlwY7NAAag2_gngNs7ADQBe5WfOCz8AaRxZ3L2JmZ25d38MyLrDY_a7BYLF1qzAptWGnGN-rcat_W8RpXOSMApKGpFAgAAAJpSAAAAA2gBB34ANal8QvsXHv83YqimmH_SY7nS9vmmxZGEYZFONTdwgO144GyVckgoawxd0bqOcLa86CCREjGkCgAWwX05ol_7oSywfZMBgJSz8FrtdR36QJkC-uUha2MOVHqnV6ZpYxEKFEFypgrZlgixXebvxQinZj9A6wyL8IVFrwhBK7GaMdtSrOdD035kx2Vg520fMkQVSKXFoKukK5bKENMT9cNDh1nKB3CoR7o0xheWi2RasMxgfEg3LkEwo0ZHuRr-pOf4gle7LQG6po1qe2VGy1C0vKLPwBJerGwC9jDTcJDTCQNuVh2q8lIT6Z_wNMoakhZFiuU4x1T1og7TGW36cHgu9FJWyI0njXkSsLC5EM9DDvH1wuKzfBwYUV804p63ZSDw1IInW_LxpM-K3_pVzr_YD2MaTeys_5P8W0t_of7MHepVc6ZcAwYR2O3XoRVHFxu2rR7ljtQghFEAvC-qk6qvEeNGe4R69Nwp7O2mPKA8fkEvIHnNcvljtvgpzpoto7_F1ZNtguQkTH_XK-EZx50RffoIaHk1K8yRJfLwI6oBP_rsG6mcgsTON3xgAjI97i17MJDy8YbxDvX1LzPMswUo7fOFiQ_C20rOIk1TgEedmTB6hdKCv2xp2wSaTaEyAgnSbrBqGLP_Cyj4ZZPTJNgdGXWFejtFNWF3-b44q5LyqEsPuq0_nyFS29D8AVGc1tbuqAHPMY_u12-Ou_uuLicZPn9AZknx3nEwh7E8BE8UtesTOl-VNKtqGbAuYbONVcjXXnp7W0bTsXpLwA6Ho3qVaAuovpFzOViuxunqb0nO8SBSjBQlvLzAM16B5PlaYLC9wW3z-kOfx03o7dRf3BJZR3C1Fc539OwdIODLkOGDLx0UZwikgZ916OaU45KpMm8isGTlw5YAq4bolKTucAX11gIoUU1x1OAAtcNowE1U7gN5JuvOpS6ty03o0UgBnhhWUBmZEF2345RESHvqLgrps7r_SDSMGFBjJFvB-thQNwDUlcaSp8MEURjOYF8H3bbLYlqu-wPw7UlscEC-s6imOohMDlBS-3aOY7tfovyJhesv_B5oj-Hwm69NWIdvFroMVpeNvKyecV0tzwrNWN0lmnwPnS1BdiuqjhKW_g"
+    },
+    {
+      "type": "unknown",
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&t=2&li=gpt_m202408120101&jk=3156500894596451&bg=!AwClAE_NAAag2_gngNs7ADQBe5WfOIdromuSe3Zaf0YzMgxveOVHob7oTiDovVFXf2d5l_qq8dHhWgAt2BjpLd2UciLZAgAAAGNSAAAAA2gBB34ANREpcHpvi_y7kqsrKxEf2Qyr123eGdjq9f1sNGYsc2MgrTa6np0lTZ1PDGEtXnzGs_j1oqITmQLRvzkor2_CMGRzg8A67o-MM3LAhLtXwDbZE5znoxCmxOkqSefsEIp4bkrotTJkyUeqMkDZV_Dins_Ro9_IDSCCu22GSGot3bWGo0bGPZUYt0Xmer9uXFO2FleKpDZglvAAmMqRQUfHqCYHYqJE7R0ze2TE5yTEPddc3SfKa7tjaJcEFQBQ9fjSkkGjjb4W-KOi6sOqsMddveIISzLWXgubFZgk_oIbEYbAmqyTVkNakg6oQVmRLBVsQCM_hMZ9R-0uz3bTCaQCJdwyYFYuqHWLQqJpQku8CpqJzGMB1OKEKkJTfwHLfHCi-uQJ92ymYcvkKXYl0a8md41Y_amljIYYobHu_lFvj-dSwXxw46oxuHnJBcag4x_jSwH8JPNoY2ha6hR-4HyB4gHNgYFGha0Ym5fo47nYnZQQWFCFESsKq6_YBhia_CI6uiMSQ6jBloV3C5xwn7ZQxarR9gVwc6MT7g-kONGuMjLbc9OJLlN_xndm2M_oGBV8-2d_4juMewzcf88qMfJGE_dfI3U-pSEz3IBlBSX8nvGdctSijQpjAkFWj7B-LTPpGpGLM_9rrjVTSzp76pzRIg76ydYfhN05zqeOvr-g_TAB6wdM_XykllwBbPD_zFljvn0cygMBgHSftzw7ZJdmCv0Hdos2n6aAT9oo3OpY4oNOeZzF_yDeIa0Hj6y8FV2WIYTXYwywnDPtkbYnfNbm4WalQJLlAyxPZuqoNq_IGdtwxVK1rJ9_uFr7TsSIIhPCzSH9G1vDDbuNY5SSSYucmycT_-T0a94onFCTh4LK7sTfSC-mLQjmWQ04kljDL4NJMvHx51MnvfPp4FW_Mw5gGroclsh96FmY5YFIz7AT8bwvkODWw79sV97BRyhIXQur20YAtIysbuAdRUbcvBEZoan0G1YtuV9OVXlE7PkklmRBLoPxEeJbKxMu3sqEZf9F13-GXEItNLcZhw"
+    },
+    {
+      "type": "unknown",
+      "url": "https://t.sharethis.com/d/a.gif?cid=c010&cls=B&dmn=www.ecologiepositiveetterritoires.eu&tt=t.dhj&dhjLcy=12300&lbl=pxcel&flbl=pxcel&ll=d&ver=1.1501.23403&ell=d&cck=__stid&pn=%2F&qs=na&rdn=www.ecologiepositiveetterritoires.eu&rpn=%2F&rqs=na&cc=US&cont=NA&evid=096CjFZA34Ez7tpQ6tDj&urls=!1!43!b-18j,!1!58!b-17b,!1!152!b-18f&rnd=1723943598898&cid=c010&version=1.1501.23403&cc=US&cont=NA&cls=B&repeat=0&htmLcy=38"
     }
   ],
   "cookies": [
     {
+      "name": "fpestid",
+      "value": "KJk05RVjrA3xV3lgMRpeujLx5nuC-AMCVLUKB6QqY3xAZdSLAT36lAgzMU5KZkHx1ypsbg",
+      "domain": ".ecologiepositiveetterritoires.eu",
+      "path": "/",
+      "expires": 1755479577.816009,
+      "size": 77,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
       "name": "PHPSESSID",
-      "value": "bmt2qh6n1rlo5eq81agul2o0b2",
+      "value": "qrld1ov41jr14hbir1r5g78ksf",
       "domain": ".ecologiepositiveetterritoires.eu",
       "path": "/",
       "expires": -1,
@@ -733,17 +772,17 @@
     "cache-control": "no-store, no-cache, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Aug 2024 01:14:40 GMT",
+    "date": "Sun, 18 Aug 2024 01:12:56 GMT",
     "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "pragma": "no-cache",
     "server": "openresty",
-    "set-cookie": "PHPSESSID=bmt2qh6n1rlo5eq81agul2o0b2; path=/; domain=ecologiepositiveetterritoires.eu; secure; HttpOnly",
+    "set-cookie": "PHPSESSID=qrld1ov41jr14hbir1r5g78ksf; path=/; domain=ecologiepositiveetterritoires.eu; secure; HttpOnly",
     "x-frame-options": "DENY"
   },
   "endpoints": [
     {
       "hostname": "www.ecologiepositiveetterritoires.eu",
-      "ip": "18.185.25.67",
+      "ip": "3.79.173.192",
       "geoip": {
         "city": {
           "geoname_id": 2925533,
@@ -830,7 +869,7 @@
     },
     {
       "hostname": "duyn491kcolsw.cloudfront.net",
-      "ip": "52.85.150.11",
+      "ip": "52.85.150.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -884,7 +923,7 @@
     },
     {
       "hostname": "platform-api.sharethis.com",
-      "ip": "108.156.120.117",
+      "ip": "3.167.69.20",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -938,7 +977,7 @@
     },
     {
       "hostname": "4ea3b43bad.clvaw-cdnwnd.com",
-      "ip": "52.84.125.73",
+      "ip": "3.167.37.73",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -992,8 +1031,14 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.227",
+      "ip": "142.251.179.94",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1024,9 +1069,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1041,17 +1090,40 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "v.calameo.com",
-      "ip": "23.211.176.152",
+      "ip": "23.53.35.75",
       "geoip": {
         "city": {
-          "geoname_id": 4903024,
+          "geoname_id": 4744870,
           "names": {
-            "en": "Mount Prospect"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -1084,13 +1156,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 42.0648,
-          "longitude": -87.9356,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60056"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1108,17 +1180,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -1126,7 +1198,7 @@
     },
     {
       "hostname": "www.youtube-nocookie.com",
-      "ip": "142.250.190.14",
+      "ip": "172.253.63.136",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1180,7 +1252,7 @@
     },
     {
       "hostname": "buttons-config.sharethis.com",
-      "ip": "18.160.213.97",
+      "ip": "18.160.18.32",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1234,7 +1306,7 @@
     },
     {
       "hostname": "l.sharethis.com",
-      "ip": "18.218.190.50",
+      "ip": "18.218.90.139",
       "geoip": {
         "city": {
           "geoname_id": 4509177,
@@ -1278,7 +1350,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 1000,
           "latitude": 39.9625,
           "longitude": -83.0061,
           "metro_code": 535,
@@ -1320,8 +1392,95 @@
       }
     },
     {
+      "hostname": "t.sharethis.com",
+      "ip": "23.48.104.81",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
+      }
+    },
+    {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "172.217.4.42",
+      "ip": "172.253.63.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1375,7 +1534,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.190.4",
+      "ip": "172.253.62.103",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1429,7 +1588,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.250.190.54",
+      "ip": "172.253.62.119",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1483,8 +1642,14 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.250.190.97",
+      "ip": "142.251.179.132",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1515,9 +1680,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1532,13 +1701,35 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "play.google.com",
-      "ip": "142.250.191.206",
+      "ip": "142.251.163.101",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1569,9 +1760,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1586,13 +1781,35 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.191.99",
+      "ip": "142.251.163.94",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1623,9 +1840,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1640,7 +1861,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
@@ -1829,8 +2066,290 @@
       }
     },
     {
+      "hostname": "segments.company-target.com",
+      "ip": "99.84.191.47",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "i.liadm.com",
+      "ip": "54.88.15.236",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 100,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "us-u.openx.net",
+      "ip": "34.98.64.218",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 200,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "sync.sharethis.com",
+      "ip": "3.19.52.70",
+      "geoip": {
+        "city": {
+          "geoname_id": 4509177,
+          "names": {
+            "de": "Columbus",
+            "en": "Columbus",
+            "es": "Columbus",
+            "fr": "Columbus",
+            "ja": "コロンバス",
+            "pt-BR": "Columbus",
+            "ru": "Колумбус",
+            "zh-CN": "哥伦布"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 39.9625,
+          "longitude": -83.0061,
+          "metro_code": 535,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "43215"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5165418,
+            "iso_code": "OH",
+            "names": {
+              "de": "Ohio",
+              "en": "Ohio",
+              "es": "Ohio",
+              "fr": "Ohio",
+              "ja": "オハイオ州",
+              "pt-BR": "Ohio",
+              "ru": "Огайо",
+              "zh-CN": "俄亥俄州"
+            }
+          }
+        ]
+      }
+    },
+    {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.190.40",
+      "ip": "172.253.122.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1884,7 +2403,7 @@
     },
     {
       "hostname": "www.googletagservices.com",
-      "ip": "142.250.191.98",
+      "ip": "172.253.62.154",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1938,8 +2457,14 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.250.191.142",
+      "ip": "142.251.163.139",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1970,9 +2495,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1987,24 +2516,40 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "calameo-beacon.global.ssl.fastly.net",
-      "ip": "146.75.77.194",
+      "ip": "146.75.29.194",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -2037,13 +2582,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60602"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -2061,17 +2606,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -2079,7 +2624,7 @@
     },
     {
       "hostname": "securepubads.g.doubleclick.net",
-      "ip": "142.250.191.98",
+      "ip": "172.253.115.155",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2133,7 +2678,7 @@
     },
     {
       "hostname": "pagead2.googlesyndication.com",
-      "ip": "142.250.190.98",
+      "ip": "64.233.180.154",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2186,9 +2731,15 @@
       }
     },
     {
-      "hostname": "8edd3169ed2ee7bba1c096debc70bb86.safeframe.googlesyndication.com",
-      "ip": "142.250.190.97",
+      "hostname": "8ada25b36ee9e8d6e26c25fcafe6bd1c.safeframe.googlesyndication.com",
+      "ip": "142.251.163.132",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -2219,9 +2770,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -2236,13 +2791,35 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "tpc.googlesyndication.com",
-      "ip": "142.250.190.1",
+      "ip": "142.251.167.132",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -2273,9 +2850,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -2290,17 +2871,40 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "ps.calameoassets.com",
-      "ip": "23.211.176.138",
+      "ip": "23.218.218.151",
       "geoip": {
         "city": {
-          "geoname_id": 4903024,
+          "geoname_id": 4744870,
           "names": {
-            "en": "Mount Prospect"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -2333,13 +2937,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 42.0648,
-          "longitude": -87.9356,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60056"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -2357,17 +2961,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -2375,7 +2979,141 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "172.217.1.98",
+      "ip": "172.253.63.154",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "ep1.adtrafficquality.google",
+      "ip": "142.251.111.154",
+      "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "ep2.adtrafficquality.google",
+      "ip": "64.233.180.132",
       "geoip": {
         "continent": {
           "code": "NA",
