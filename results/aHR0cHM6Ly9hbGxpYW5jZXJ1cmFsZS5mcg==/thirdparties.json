@@ -145,14 +145,6 @@
       }
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "youtube",
       "url": "https://i.ytimg.com/vi/RR3Fy7zchuk/mqdefault.jpg",
       "details": {
@@ -223,17 +215,25 @@
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
       }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     }
   ],
   "cookies": [],
   "headers": {
     "cache-control": "max-age=0",
     "content-encoding": "gzip",
-    "content-length": "40187",
+    "content-length": "40181",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Aug 2024 01:51:08 GMT",
-    "expires": "Sun, 11 Aug 2024 01:51:08 GMT",
-    "last-modified": "Sat, 10 Aug 2024 17:39:58 GMT",
+    "date": "Sun, 18 Aug 2024 01:50:09 GMT",
+    "expires": "Sun, 18 Aug 2024 01:50:09 GMT",
+    "last-modified": "Sat, 17 Aug 2024 23:00:39 GMT",
     "server": "Apache",
     "vary": "Accept-Encoding"
   },
@@ -337,7 +337,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "64.233.180.95",
+      "ip": "142.250.191.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -477,7 +477,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.245.203",
+      "ip": "104.17.247.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -497,7 +497,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.122.94",
+      "ip": "172.217.1.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -551,7 +551,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.250.31.119",
+      "ip": "172.217.5.22",
       "geoip": {
         "continent": {
           "code": "NA",
