@@ -61,11 +61,11 @@
   "headers": {
     "cache-control": "max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8b4def66caa12986-ORD",
+    "cf-ray": "8b879e9e5a3d2d0d-ORD",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 18 Aug 2024 00:54:53 GMT",
-    "expires": "Sun, 18 Aug 2024 00:54:53 GMT",
+    "date": "Sun, 25 Aug 2024 00:55:58 GMT",
+    "expires": "Sun, 25 Aug 2024 00:55:58 GMT",
     "last-modified": "Sun, 26 May 2024 16:31:33 GMT",
     "server": "cloudflare",
     "vary": "Accept-Encoding"
@@ -73,7 +73,7 @@
   "endpoints": [
     {
       "hostname": "humanitesouveraine.crd.co",
-      "ip": "104.18.17.46",
+      "ip": "172.64.150.187",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -93,7 +93,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.42",
+      "ip": "142.250.191.202",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -147,7 +147,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.190.99",
+      "ip": "142.250.190.131",
       "geoip": {
         "continent": {
           "code": "NA",
