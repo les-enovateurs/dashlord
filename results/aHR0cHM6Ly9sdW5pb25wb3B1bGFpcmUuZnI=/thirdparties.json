@@ -14,11 +14,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8b87a25c9d6e2070"
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8bc15d3e782022f9"
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/b/6790c32b9fc9/api.js?onload=FWtH0&render=explicit",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/e7cf9275f425/api.js?onload=jIea4&render=explicit",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -30,19 +30,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/b/flow/ov1/2056464832:1724545461:eU-xkedc2uPdL4dsNWVwh-CCnB2dtCr7VkQV4WuzczY/8b87a25c9d6e2070/525dd60687fd177"
-    },
-    {
-      "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/rum?"
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/405344267:1725149571:ZfLYSHQWKB0g-ed7enBXiedPlmT_aakNwAKhZEy3j4Q/8bc15d3e782022f9/ad1bef255bccd05"
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/if/ov2/av0/rcv0/0/3yuo6/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/xvgs3/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/rum?"
     }
   ],
   "cookies": [],
@@ -50,22 +50,22 @@
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "cf-chl-out": "skuW6AXyUmJYwtTXxqdRoJxzkHkk7Ay0IJONvJPShH/MkmtJgUkJPj0yeSjEzhmozws6TZjvvdry659OPblnUAQltEkWTDMolAxmjA2CF5AzSAleuPY4Uc0APaTt+Uam$Pdej4jsJXZXx+bEn/vai8A==",
+    "cf-chl-out": "JNhs4cql99rdaZQCMA2NpMDRIYsa0Ph7JhDJ5iM57tPbkIRfcUCNY9mLIbmAqq9EB60gSqM1AWM6H8yFUPefh1vlcGmSb9E7dohPT66OxJOl4gqiRjWbJgYggqF2fWTq$Z6xopkYsMmHzTHD7diaFRg==",
     "cf-mitigated": "challenge",
-    "cf-ray": "8b87a25c9d6e2070-IAD",
+    "cf-ray": "8bc15d3e782022f9-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 25 Aug 2024 00:58:31 GMT",
+    "date": "Sun, 01 Sep 2024 01:07:34 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
     "referrer-policy": "same-origin",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=xebFfq5yhD3OMKbSk4tv%2B%2FsmQJhzhVq1pCuf2xMETnGoOXNZfnyVpjdJ%2FU0BkLbyr1MQA7ADTCZRuIDV4PqrnxfeMKOg5fHX09xkjZPVoQqhQcPtPOYQjGVQLBvRP6FKKaT4TZdWyA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8SFTSEkr9o5YpEfFxFhhGNnrJqHVL8fi5uL7NMKDe4Q9n%2Bva%2FCjd7PG2qE2Ho85MBxQb7CTW3CNsNUM7frprbhOt%2B6XgUCtUHZlldtofJ0NoEpcTPNLEVWdGWufb7zdCCDrEKiAzxw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-content-options": "nosniff",
@@ -130,7 +130,7 @@
     },
     {
       "hostname": "lafranceinsoumise.fr",
-      "ip": "104.26.12.213",
+      "ip": "172.67.68.1",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
