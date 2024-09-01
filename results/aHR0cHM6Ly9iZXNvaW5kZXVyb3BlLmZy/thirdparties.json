@@ -21,8 +21,32 @@
       }
     },
     {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css?family=Space+Grotesk:300,regular,500,600,700",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://cdn.prod.website-files.com/659c108cdf200d4ac95a3f2d/js/webflow.34f25074a.js"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/spacegrotesk/v16/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/spacegrotesk/v16/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "jsdelivr",
@@ -51,14 +75,6 @@
     {
       "type": "unknown",
       "url": "https://cdn.prod.website-files.com/659c108cdf200d4ac95a3f2d/65f092f379c9cb60eeadc7e2_Parti-radical_2021_couleur.webp"
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Space+Grotesk:300,regular,500,600,700",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
     },
     {
       "type": "unknown",
@@ -149,8 +165,20 @@
       "url": "https://cdn.prod.website-files.com/660549f754ad86d8f9c6378d/66368c04332c0d5040af5243_2-p-500.jpg"
     },
     {
+      "type": "youtube",
+      "url": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvzC7yQtVgqE%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvzC7yQtVgqE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvzC7yQtVgqE%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
       "type": "unknown",
-      "url": "https://cdn.prod.website-files.com/660549f754ad86d8f9c6378d/66368c18e1765793f9945365_5-p-500.jpg"
+      "url": "https://cdn.prod.website-files.com/659c108cdf200d4ac95a3f2d/66324580a2352020de8b240b_opti-star-left-2.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://uploads-ssl.webflow.com/659c108cdf200d4ac95a3f2d/65f241fe6c2245a738bdf7a1_Value-Medium.otf"
     },
     {
       "type": "unknown",
@@ -169,40 +197,12 @@
       "url": "https://uploads-ssl.webflow.com/659c108cdf200d4ac95a3f2d/659c148044a6a636395ad311_SpaceGrotesk-Regular.ttf"
     },
     {
-      "type": "youtube",
-      "url": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvzC7yQtVgqE%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvzC7yQtVgqE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvzC7yQtVgqE%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
       "type": "unknown",
-      "url": "https://cdn.prod.website-files.com/659c108cdf200d4ac95a3f2d/66324580a2352020de8b240b_opti-star-left-2.png"
+      "url": "https://cdn.prod.website-files.com/660549f754ad86d8f9c6378d/66368c18e1765793f9945365_5-p-500.jpg"
     },
     {
       "type": "unknown",
       "url": "https://uploads-ssl.webflow.com/659c108cdf200d4ac95a3f2d/65f241fe6c2245a738bdf7a1_Value-Medium.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://uploads-ssl.webflow.com/659c108cdf200d4ac95a3f2d/65f241fe6c2245a738bdf7a1_Value-Medium.otf"
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/spacegrotesk/v16/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/spacegrotesk/v16/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
     },
     {
       "type": "youtube",
@@ -214,7 +214,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/a87a9450/www-widgetapi.vflset/www-widgetapi.js",
+      "url": "https://www.youtube.com/s/player/57c75fa4/www-widgetapi.vflset/www-widgetapi.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -229,8 +229,12 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://matomo.parti-renaissance.fr/matomo.php?action_name=besoindeurope.fr%2FLe%209%20juin%2C%20nous%20avons%20Besoin%20d%27Europe&idsite=4&rec=1&r=139318&h=1&m=14&s=31&url=https%3A%2F%2Fbesoindeurope.fr%2F&_id=&_idn=1&send_image=0&_refts=0&pv_id=z2hJy4&pf_net=61&pf_srv=187&pf_tfr=30&pf_dm1=344&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+    },
+    {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/a87a9450/www-player.css",
+      "url": "https://www.youtube.com/s/player/57c75fa4/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -238,7 +242,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/a87a9450/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/57c75fa4/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -246,7 +250,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/a87a9450/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/57c75fa4/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -254,7 +258,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/a87a9450/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/57c75fa4/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -326,7 +330,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/a87a9450/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/57c75fa4/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -334,7 +338,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/XRk6eFbYaDme_I9SSIFgFZ9I1nSvAmlSIHv6h58Lfu0.js",
+      "url": "https://www.google.com/js/th/JNHVvl2kSR9fjdF95zymQ6dEkKki6kBWa3TewZmiOS4.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -389,10 +393,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://matomo.parti-renaissance.fr/matomo.php?action_name=besoindeurope.fr%2FLe%209%20juin%2C%20nous%20avons%20Besoin%20d%27Europe&idsite=4&rec=1&r=555798&h=1&m=9&s=14&url=https%3A%2F%2Fbesoindeurope.fr%2F&_id=&_idn=1&send_image=0&_refts=0&pv_id=YgWdbJ&pf_net=226&pf_srv=587&pf_tfr=34&pf_dm1=601&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-    },
-    {
       "type": "google",
       "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
       "details": {
@@ -426,7 +426,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?QW_A-A",
+      "url": "https://www.youtube.com/generate_204?49NT0g",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -454,20 +454,20 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8b87b2020de72aac-LAX",
+    "cf-ray": "8bc16762ba25e264-ORD",
     "content-encoding": "br",
     "content-type": "text/html",
-    "date": "Sun, 25 Aug 2024 01:09:13 GMT",
+    "date": "Sun, 01 Sep 2024 01:14:30 GMT",
     "last-modified": "Tue, 06 Aug 2024 14:17:33 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=hv88l0cvneq3VKYDS3cJ93APCe0%2BaPXTXFNourN6bbcF1RB8MsDoH0XPBb4kWewwqvet7l61CAyA%2FEhfOMgvzRTQo17F02GAcnJrPYuePS0kGmcaQFSJmz951sDxz9myn8eN\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=wMm50PKiWtL7ONX8aqSXoI2LO6Wtv40QaULmkzwNISmeKfG9d43DVPsab5MRYUOmYNIzQYF9%2Bo%2F5DrUNyDtnXWxMrnZYHrot1R1uXkTln%2Bq7cvULndTiHvKjOcBwDRv1zSlF\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "besoindeurope.fr",
-      "ip": "104.26.4.80",
+      "ip": "172.67.69.121",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -487,7 +487,7 @@
     },
     {
       "hostname": "cdn.prod.website-files.com",
-      "ip": "104.18.34.227",
+      "ip": "172.64.153.29",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -507,14 +507,8 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.250.68.74",
+      "ip": "142.250.190.10",
       "geoip": {
-        "city": {
-          "geoname_id": 5131638,
-          "names": {
-            "en": "Plainview"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -544,14 +538,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -566,28 +556,120 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "d3e54v103j8qbb.cloudfront.net",
-      "ip": "18.154.131.26",
+      "ip": "108.156.105.203",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "ip": "142.250.191.138",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "172.217.4.35",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -641,19 +723,19 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.93.229",
+      "ip": "146.75.77.229",
       "geoip": {
         "city": {
-          "geoname_id": 5368361,
+          "geoname_id": 4887398,
           "names": {
-            "de": "Los Angeles",
-            "en": "Los Angeles",
-            "es": "Los Ángeles",
-            "fr": "Los Angeles",
-            "ja": "ロサンゼルス",
-            "pt-BR": "Los Angeles",
-            "ru": "Лос-Анджелес",
-            "zh-CN": "洛杉矶"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -686,13 +768,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 34.0544,
-          "longitude": -118.2441,
-          "metro_code": 803,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "90060"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -710,79 +792,25 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
       }
     },
     {
-      "hostname": "fonts.googleapis.com",
-      "ip": "142.250.176.10",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "matomo.parti-renaissance.fr",
-      "ip": "104.26.10.172",
+      "ip": "104.26.11.172",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -802,7 +830,7 @@
     },
     {
       "hostname": "uploads-ssl.webflow.com",
-      "ip": "13.33.21.3",
+      "ip": "52.84.125.13",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -875,88 +903,8 @@
       }
     },
     {
-      "hostname": "fonts.gstatic.com",
-      "ip": "142.250.72.163",
-      "geoip": {
-        "city": {
-          "geoname_id": 5131638,
-          "names": {
-            "en": "Plainview"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "www.youtube.com",
-      "ip": "142.250.188.238",
+      "ip": "142.250.190.78",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1010,14 +958,8 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.250.72.162",
+      "ip": "172.217.1.98",
       "geoip": {
-        "city": {
-          "geoname_id": 5131638,
-          "names": {
-            "en": "Plainview"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1047,14 +989,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1069,28 +1007,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "172.217.12.134",
+      "ip": "142.250.191.198",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1144,14 +1066,8 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "142.250.72.170",
+      "ip": "142.250.190.10",
       "geoip": {
-        "city": {
-          "geoname_id": 5131638,
-          "names": {
-            "en": "Plainview"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1181,14 +1097,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1203,28 +1115,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.217.14.68",
+      "ip": "142.250.191.132",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1278,7 +1174,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "172.217.14.86",
+      "ip": "172.217.0.182",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1332,7 +1228,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.250.176.1",
+      "ip": "142.250.190.129",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1386,7 +1282,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "172.217.12.142",
+      "ip": "142.250.191.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1440,7 +1336,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.189.3",
+      "ip": "142.250.191.195",
       "geoip": {
         "continent": {
           "code": "NA",
