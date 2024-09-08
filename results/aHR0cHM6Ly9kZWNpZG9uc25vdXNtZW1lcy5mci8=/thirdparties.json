@@ -45,19 +45,19 @@
       }
     },
     {
-      "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/brevo-conversations.js",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
       "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/brevo-conversations.js",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
       }
     },
     {
@@ -82,15 +82,7 @@
     },
     {
       "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/sib-conversations.js",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=0fc347ab-5257-4d3c-a7a8-5e4103318aa6&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
+      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=fb700a5b-d1f5-497f-a608-a8b656e18407&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -98,7 +90,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/WV-mUKO4xoWKy9M4ZzRyNrP_/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -113,16 +105,8 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/2ac7b5a0dff6684e32f3282ce21530cf5612fa3d.css?meteor_css_resource=true",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
       "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=bf719c027ae8280c8ded472a6e9bffa63df6ab26",
+      "url": "https://conversations-widget.brevo.com/sib-conversations.js",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -130,7 +114,55 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/0638a17dca8474ae35549ad961ce86841ffbbcd1.js?meteor_js_resource=true",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/6c3c7d49f85933fcdc1bc939f23ac61386d22b88.css?meteor_css_resource=true",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=ee4773e544e8b4707525d4c4680f1c1ab98be1db",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/2c1ae46a4d78350d5c9b3611f26f38540e918bb5.js?meteor_js_resource=true",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/?isModern=true",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/6c3c7d49f85933fcdc1bc939f23ac61386d22b88.css?meteor_css_resource=true",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "brevo",
+      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=ee4773e544e8b4707525d4c4680f1c1ab98be1db",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d13sozod7hpim.cloudfront.net/jscss/2c1ae46a4d78350d5c9b3611f26f38540e918bb5.js?meteor_js_resource=true",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -140,10 +172,10 @@
   "cookies": [
     {
       "name": "_wpfuuid",
-      "value": "75596585-fd55-4eee-9b2a-30c69034c7af",
+      "value": "ab5a4d53-5997-4939-8bdb-1d9fc12c8285",
       "domain": "decidonsnousmemes.fr",
       "path": "/",
-      "expires": 2070666152,
+      "expires": 2071270720,
       "size": 44,
       "httpOnly": false,
       "secure": true,
@@ -155,10 +187,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "0fc347ab-5257-4d3c-a7a8-5e4103318aa6",
+      "value": "fb700a5b-d1f5-497f-a608-a8b656e18407",
       "domain": ".decidonsnousmemes.fr",
       "path": "/",
-      "expires": 1740873751,
+      "expires": 1741481920,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -171,15 +203,15 @@
   "headers": {
     "accept-ranges": "bytes",
     "content-encoding": "br",
-    "content-length": "19026",
+    "content-length": "19024",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 01 Sep 2024 01:02:30 GMT",
+    "date": "Sun, 08 Sep 2024 00:58:39 GMT",
     "link": "<https://decidonsnousmemes.fr/wp-json/>; rel=\"https://api.w.org/\", <https://decidonsnousmemes.fr/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://decidonsnousmemes.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=15552000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-cache-key": "https://decidonsnousmemes.fr/bytes=0-2097151",
     "x-cache-status": "MISS",
-    "x-request-id": "156b1dfa608e683429b0ce40c5322cca"
+    "x-request-id": "462cb83f969ad4591d0f37e9a45a09c4"
   },
   "endpoints": [
     {
@@ -240,7 +272,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.138",
+      "ip": "172.217.0.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -294,7 +326,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.190.36",
+      "ip": "172.217.2.36",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -348,7 +380,7 @@
     },
     {
       "hostname": "sibautomation.com",
-      "ip": "104.18.39.141",
+      "ip": "172.64.148.115",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -368,7 +400,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.190.67",
+      "ip": "142.250.190.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -482,7 +514,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.190.131",
+      "ip": "172.217.1.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -536,7 +568,7 @@
     },
     {
       "hostname": "d13sozod7hpim.cloudfront.net",
-      "ip": "108.156.123.84",
+      "ip": "3.167.64.150",
       "geoip": {
         "continent": {
           "code": "NA",
