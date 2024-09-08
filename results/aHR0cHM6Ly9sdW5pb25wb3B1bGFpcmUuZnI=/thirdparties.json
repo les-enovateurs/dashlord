@@ -14,11 +14,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8bc15d3e782022f9"
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8bfb01feac13c9b1"
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/g/e7cf9275f425/api.js?onload=jIea4&render=explicit",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/b/a5b175b00260/api.js?onload=sHIF2&render=explicit",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -30,11 +30,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/405344267:1725149571:ZfLYSHQWKB0g-ed7enBXiedPlmT_aakNwAKhZEy3j4Q/8bc15d3e782022f9/ad1bef255bccd05"
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/b/flow/ov1/1363097913:1725755079:bOLKc7eSvwk8VYamN_GTrXX5Qt21FyKlT9-hKHyA0vA/8bfb01feac13c9b1/9e6cc3e2037f5fe"
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/xvgs3/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/if/ov2/av0/rcv0/0/j4noh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -50,22 +50,22 @@
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "cf-chl-out": "JNhs4cql99rdaZQCMA2NpMDRIYsa0Ph7JhDJ5iM57tPbkIRfcUCNY9mLIbmAqq9EB60gSqM1AWM6H8yFUPefh1vlcGmSb9E7dohPT66OxJOl4gqiRjWbJgYggqF2fWTq$Z6xopkYsMmHzTHD7diaFRg==",
+    "cf-chl-out": "YO9NrliStkfDez6E/8GHXkQjXRTUKbO0Dnu6wQSShYx1FDP55Dxbwa0sgV691pB/uah3NdfrhjqE39AU2zwl93njXMn3VI/pCQsqH/9+Uo3u1osvnpEV9klZPAc5OY0v$lrv/su3G/3lWj+3jOLOvpg==",
     "cf-mitigated": "challenge",
-    "cf-ray": "8bc15d3e782022f9-ORD",
+    "cf-ray": "8bfb01feac13c9b1-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 01 Sep 2024 01:07:34 GMT",
+    "date": "Sun, 08 Sep 2024 01:01:31 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
     "referrer-policy": "same-origin",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8SFTSEkr9o5YpEfFxFhhGNnrJqHVL8fi5uL7NMKDe4Q9n%2Bva%2FCjd7PG2qE2Ho85MBxQb7CTW3CNsNUM7frprbhOt%2B6XgUCtUHZlldtofJ0NoEpcTPNLEVWdGWufb7zdCCDrEKiAzxw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=js9V0lKA0lXAEZxlV%2BfI86sZY4vv4JwRoar9dAknN%2F00TjmLPdPY5gFCIi4g%2Fi8MtNen1Ts11c%2FTtug%2FbLsqivyMeBBqFrFjK1kUFHG%2BzBtRNfD2sRJhQAtv4fuGsInEsxKeyqBm7g%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-content-options": "nosniff",
@@ -170,7 +170,7 @@
     },
     {
       "hostname": "challenges.cloudflare.com",
-      "ip": "104.18.95.41",
+      "ip": "104.18.94.41",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
