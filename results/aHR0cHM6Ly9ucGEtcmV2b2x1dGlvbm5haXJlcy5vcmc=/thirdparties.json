@@ -77,11 +77,11 @@
   "headers": {
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
-    "content-length": "35258",
+    "content-length": "34863",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 01 Sep 2024 01:39:13 GMT",
+    "date": "Sun, 08 Sep 2024 01:33:52 GMT",
     "keep-alive": "timeout=5, max=100",
-    "server": "Apache/2.4.61 (Debian)",
+    "server": "Apache/2.4.62 (Debian)",
     "vary": "Accept-Encoding",
     "x-cache-handler": "cache-enabler-engine",
     "x-content-type-options": "nosniff",
@@ -171,7 +171,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.234",
+      "ip": "172.253.115.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -225,7 +225,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.189.163",
+      "ip": "142.251.16.94",
       "geoip": {
         "continent": {
           "code": "NA",
