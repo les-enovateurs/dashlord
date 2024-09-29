@@ -98,7 +98,7 @@
     },
     {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=f578eb32-1252-4d79-92da-418f8e8ec27b&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
+      "url": "https://in-automate.brevo.com/p?key=kvoysyv1rriemfzb693kfye7&cuid=bbfc11fe-d501-4ab6-ab4e-b816f1f3aff8&ma_url=https%3A%2F%2Fdecidonsnousmemes.fr%2F&sib_type=page&ma_title=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&sib_name=D%C3%A9cidons%20Nous-M%C3%AAmes%20!%20%E2%80%93%20Pour%20une%20D%C3%A9mocratie%20R%C3%A9elle%20%3A%20D%C3%A9cidons%20Nous-M%C3%AAmes%20!&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -110,30 +110,6 @@
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/6c3c7d49f85933fcdc1bc939f23ac61386d22b88.css?meteor_css_resource=true",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://conversations-widget.brevo.com/meteor_runtime_config.js?hash=ee4773e544e8b4707525d4c4680f1c1ab98be1db",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d13sozod7hpim.cloudfront.net/jscss/2c1ae46a4d78350d5c9b3611f26f38540e918bb5.js?meteor_js_resource=true",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
       }
     },
     {
@@ -172,10 +148,10 @@
   "cookies": [
     {
       "name": "_wpfuuid",
-      "value": "b3345a60-253f-4952-80c6-9ebd277c9401",
+      "value": "2a0b3fcc-51ea-4664-8bb9-1e252d3d27db",
       "domain": "decidonsnousmemes.fr",
       "path": "/",
-      "expires": 2072480467,
+      "expires": 2073085306,
       "size": 44,
       "httpOnly": false,
       "secure": true,
@@ -187,10 +163,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "f578eb32-1252-4d79-92da-418f8e8ec27b",
+      "value": "bbfc11fe-d501-4ab6-ab4e-b816f1f3aff8",
       "domain": ".decidonsnousmemes.fr",
       "path": "/",
-      "expires": 1742688067,
+      "expires": 1743292906,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -203,15 +179,15 @@
   "headers": {
     "accept-ranges": "bytes",
     "content-encoding": "br",
-    "content-length": "19026",
+    "content-length": "19028",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Sep 2024 01:01:06 GMT",
+    "date": "Sun, 29 Sep 2024 01:01:44 GMT",
     "link": "<https://decidonsnousmemes.fr/wp-json/>; rel=\"https://api.w.org/\", <https://decidonsnousmemes.fr/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://decidonsnousmemes.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=15552000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-cache-key": "https://decidonsnousmemes.fr/bytes=0-2097151",
-    "x-cache-status": "MISS",
-    "x-request-id": "e3c06e239ebab26201ec96b12b96ee8f"
+    "x-cache-status": "HIT",
+    "x-request-id": "00e5cc548ade698c0085f859a70f34e5"
   },
   "endpoints": [
     {
@@ -326,7 +302,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.253.115.103",
+      "ip": "142.251.16.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -380,7 +356,7 @@
     },
     {
       "hostname": "sibautomation.com",
-      "ip": "104.18.39.141",
+      "ip": "172.64.148.115",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -400,7 +376,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.16.94",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -494,7 +470,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.163.94",
+      "ip": "172.253.115.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -568,7 +544,7 @@
     },
     {
       "hostname": "d13sozod7hpim.cloudfront.net",
-      "ip": "3.167.64.81",
+      "ip": "3.167.64.150",
       "geoip": {
         "continent": {
           "code": "NA",
