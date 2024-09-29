@@ -62,14 +62,6 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/istokweb/v24/3qTvojGmgSyUukBzKslpBmt_.woff2",
       "details": {
         "id": "google fonts",
@@ -86,6 +78,14 @@
     },
     {
       "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
       "details": {
         "id": "google fonts",
@@ -102,7 +102,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/xds0rzGrktR88uEZ2JUvdgOY/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -110,23 +110,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=EGbODne6buzpTnWrrBprcfAY&size=invisible&cb=pxrcis89gx19",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/styles__ltr.css",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/recaptcha__en.js",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=xds0rzGrktR88uEZ2JUvdgOY&size=invisible&cb=3qvphr8huami",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -138,7 +122,31 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/XwUFSfVpmRhF5YWs6Mm84myrguvzecVSpma7N4MSmAI.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/xds0rzGrktR88uEZ2JUvdgOY/styles__ltr.css",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/xds0rzGrktR88uEZ2JUvdgOY/recaptcha__en.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "brevo",
+      "url": "https://in-automate.brevo.com/cm?uuid=d61de1c5-f56c-42a5-a597-1a232c9400be&key=80eu5gkacj34r0zg08xytfw5&cuid=d51ebe83-edd7-497f-8245-bea2423d0523",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/js/bg/dubcxWuhhbqw8uaLSFFGvELnk5WmffD3wjoYeQZ33gk.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -170,7 +178,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=EGbODne6buzpTnWrrBprcfAY",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=xds0rzGrktR88uEZ2JUvdgOY",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -194,18 +202,18 @@
     },
     {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/cm?uuid=5c58f195-49bf-4bef-af74-ba4472026fb9&key=80eu5gkacj34r0zg08xytfw5&cuid=3708ea70-5643-4d72-ba79-c5872cadedf1",
+      "url": "https://in-automate.brevo.com/p?key=80eu5gkacj34r0zg08xytfw5&cuid=d51ebe83-edd7-497f-8245-bea2423d0523&ma_url=https%3A%2F%2Fparti-animaliste.fr%2F&sib_type=page&ma_title=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&sib_name=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
       }
     },
     {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=80eu5gkacj34r0zg08xytfw5&cuid=3708ea70-5643-4d72-ba79-c5872cadedf1&ma_url=https%3A%2F%2Fparti-animaliste.fr%2F&sib_type=page&ma_title=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&sib_name=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&ma_referrer=&ma_path=%2F",
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/reload?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
       "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     }
   ],
@@ -215,7 +223,7 @@
       "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1726969027,
+      "expires": 1727573876,
       "size": 70,
       "httpOnly": false,
       "secure": false,
@@ -226,7 +234,7 @@
     },
     {
       "name": "sbjs_current_add",
-      "value": "fd%3D2024-09-22%2001%3A07%3A07%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-09-29%2001%3A07%3A56%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -268,7 +276,7 @@
     },
     {
       "name": "sbjs_first_add",
-      "value": "fd%3D2024-09-22%2001%3A07%3A07%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-09-29%2001%3A07%3A56%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -296,10 +304,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "3708ea70-5643-4d72-ba79-c5872cadedf1",
+      "value": "d51ebe83-edd7-497f-8245-bea2423d0523",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1742688428,
+      "expires": 1743293276,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -324,17 +332,17 @@
     }
   ],
   "headers": {
-    "cache-control": "max-age=2465, public",
+    "cache-control": "max-age=166, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8c6e656488ed3904-IAD",
+    "cf-ray": "8ca81434185a1141-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Sep 2024 01:07:05 GMT",
-    "expires": "Sun, 22 Sep 2024 01:48:10 GMT",
-    "last-modified": "Sun, 22 Sep 2024 00:48:10 GMT",
+    "date": "Sun, 29 Sep 2024 01:07:54 GMT",
+    "expires": "Sun, 29 Sep 2024 01:10:39 GMT",
+    "last-modified": "Sun, 29 Sep 2024 00:10:39 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "pragma": "public",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=UEGzgaYRRPONZ4afj0XbKa07132WJFDxB9ISn6USWm%2B6%2FfwOFuPzWPoO3gWCChj5gtZdZxUJA3CTyKo7Ra50abpx8TAkrm%2FDBSAPYEJ2t4s1pSXUMNmUbc%2Bu1F4MIX8RTkIPsNdE\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fZwoRdyBV8vRtreZBHruWgj6KFGTykPjptn1f%2BxIA%2BdSqSN4tO4zqa7m7RMRBaSkLfypIZWqrbZd1m%2BGjY6W7j4D8nxb3eteUaSfxnWFnXi0ZK8v7rx5SOQEgHvaDCISoANeu2e0\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "speculation-rules": "\"/cdn-cgi/speculation\"",
     "vary": "Accept-Encoding",
@@ -343,7 +351,7 @@
   "endpoints": [
     {
       "hostname": "parti-animaliste.fr",
-      "ip": "172.67.151.253",
+      "ip": "104.21.48.132",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -363,7 +371,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.163.95",
+      "ip": "142.250.191.202",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -417,7 +425,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "64.233.180.105",
+      "ip": "142.250.191.228",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -471,7 +479,7 @@
     },
     {
       "hostname": "sibautomation.com",
-      "ip": "172.64.148.115",
+      "ip": "104.18.39.141",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -491,7 +499,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.62.94",
+      "ip": "142.250.190.3",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -545,7 +553,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.163.94",
+      "ip": "142.250.191.163",
       "geoip": {
         "continent": {
           "code": "NA",
