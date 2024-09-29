@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8c6e604e987ccf11"
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8ca8102b481a1257"
     },
     {
       "type": "cloudflare",
@@ -30,42 +30,41 @@
     },
     {
       "type": "unknown",
-      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/1374067418:1726964033:jboRnYgwtDGkYBHPvDujOOPhLMSKjp4Iu8mkw66WfrU/8c6e604e987ccf11/3f57092e81bffb8"
-    },
-    {
-      "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/1b71c/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
-      "details": {
-        "id": "cloudflare",
-        "message": "Host files locally"
-      }
+      "url": "https://lafranceinsoumise.fr/cdn-cgi/challenge-platform/h/g/flow/ov1/147520111:1727568588:fwVGIOEkl16FDJHFqGFLnETZ3Dvz2EZBbgiBKjp7EQ4/8ca8102b481a1257/24122c9c351d949"
     },
     {
       "type": "unknown",
       "url": "https://lafranceinsoumise.fr/cdn-cgi/rum?"
+    },
+    {
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/ou3mz/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/normal/auto/",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
     }
   ],
   "cookies": [],
   "headers": {
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
-    "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "cf-chl-out": "XuGhaJVwTvK1+6QfgSkARvrbvKfH6yx8RMm+uzSH/naFP/l8NMZrtDPtZH2VRBuj3d4PhAN2S5qjZxljKgTvyqUzu32CEtqcsGCxNP6aSF3rGE0+Bmwbat2jdWx+fIuR$49GWDoA8K3gjvQeaVhbi6A==",
+    "cf-chl-out": "n+FklO+nm82C/zg0SxW5wKIcFvN8SLBNTs5XKVMv+Dsjc9taqKIuuIgUXoKQzvPMuny+A6391+Ei+jSzpuuDVZeNJ1/5Yrhg7f9oSkxybaxh32Yl3F1E0In7xphBRWgs$BCktSApuL/CDUV18Fwe+Dw==",
     "cf-mitigated": "challenge",
-    "cf-ray": "8c6e604e987ccf11-SJC",
+    "cf-ray": "8ca8102b481a1257-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 22 Sep 2024 01:03:36 GMT",
+    "date": "Sun, 29 Sep 2024 01:05:08 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
     "referrer-policy": "same-origin",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=VtLB07HPFzU8bEn7YlGexpm76A6nn92U8e5%2FmBcm32%2BUzn5MjkSapjvWupc7nEMHQ5YMOCNNlusUUdB%2Fkilo5G3B9Li3LY6cip3uwxe5Nh5HZD6oOEoUwmb%2FXz1gMEw%2FhofCQFt0jQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=iI1x3HzeLa%2BrsSu7dRE4X2VOdbJeOFPlkSeyzzBybLLgX133b%2F8AG9ltKGz8xDXgBXmPLox9l4Nl5z%2FmcMCaGhEaWZ6fFezW0kj3hcRzBRQQfdMgwM1%2B7ETCh%2BXjyIsfvVupqpEFHw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "speculation-rules": "\"/cdn-cgi/speculation\"",
     "vary": "Accept-Encoding",
