@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "www.lutte-ouvriere.org",
       "path": "/",
-      "expires": 1726970207,
+      "expires": 1727575388,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.1.8e08",
-      "value": "c4db0477d54a443f.1726968407.",
+      "value": "b2107a47db473a72.1727573588.",
       "domain": "www.lutte-ouvriere.org",
       "path": "/",
-      "expires": 1760923607,
+      "expires": 1761528788,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -38,8 +38,8 @@
     "content-encoding": "gzip",
     "content-length": "12085",
     "content-type": "text/html",
-    "date": "Sun, 22 Sep 2024 01:26:46 GMT",
-    "expires": "Sun, 22 Sep 2024 01:26:46 GMT",
+    "date": "Sun, 29 Sep 2024 01:33:06 GMT",
+    "expires": "Sun, 29 Sep 2024 01:33:06 GMT",
     "server": "Apache",
     "vary": "Accept-Encoding"
   },
@@ -48,12 +48,6 @@
       "hostname": "lutte-ouvriere.org",
       "ip": "145.239.37.162",
       "geoip": {
-        "city": {
-          "geoname_id": 2637490,
-          "names": {
-            "en": "Southall"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -84,12 +78,9 @@
         },
         "location": {
           "accuracy_radius": 200,
-          "latitude": 51.504,
-          "longitude": -0.3609,
+          "latitude": 51.4964,
+          "longitude": -0.1224,
           "time_zone": "Europe/London"
-        },
-        "postal": {
-          "code": "UB1"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -105,30 +96,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6269131,
-            "iso_code": "ENG",
-            "names": {
-              "de": "England",
-              "en": "England",
-              "es": "Inglaterra",
-              "fr": "Angleterre",
-              "ja": "イングランド",
-              "pt-BR": "Inglaterra",
-              "ru": "Англия",
-              "zh-CN": "英格兰"
-            }
-          },
-          {
-            "geoname_id": 3333145,
-            "iso_code": "EAL",
-            "names": {
-              "en": "Ealing"
-            }
-          }
-        ]
+        }
       }
     }
   ]
