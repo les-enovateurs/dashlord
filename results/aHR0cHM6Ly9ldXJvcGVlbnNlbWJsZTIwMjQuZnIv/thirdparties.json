@@ -50,7 +50,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://s0.wp.com/_static/??-eJxdjUEOwjAMBD9EsAoFekE8BSWNqZwmdpQ4BX5PD4AEx50daeCezSisyAqhQhJHEU2rWOy0MkN8k22oG/j1SlSTizye/19qJsc2EVcIqNmO83tDbfxB1wXZSwHbVJJVpfErL+RRcsFawTWKHiI5UJmRjSvkJ1yDl3TuTrt+OBy7/RBe/+1IIg==",
+      "url": "https://s0.wp.com/_static/??/wp-content/js/rlt-proxy.js,/wp-content/mu-plugins/jetpack-plugin/moon/jetpack_vendor/automattic/jetpack-videopress/build/lib/token-bridge.js?m=1725888675j",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -86,7 +86,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://s0.wp.com/_static/??-eJx9jl0KwjAQhC9kulXx70E8iqTJtmxMdkM2sde3ooIg+DTMwDczMGfjhCtyhRzbRKxwJ48CVhWrQnj7j+aCqobGYhMam6kLuoKvktTMp2ekiGaI4m5mlOLQeJk5ivUK6grl+ocNWLNdwJcHbQxXYgdDo+hhJj89z00i07JRi2WNtuJP0CXiZeWSzuvDZr87bvtTHx53rVsx",
+      "url": "https://s0.wp.com/_static/??-eJx9jtsKAjEMRH/IGi94exA/RbpttmRtk9J03d+3qwii4FOYITNnYMrGCVfkCoNCko4imlGx2NA8Q9zLctAFfPzlOAZihTt5FLCqWHUOP/X75oKqhvpiExqb6bskjebd08/ILoq7mV6KQ+Nl4ijWK6grlOuf7IA12xZ86bZfGK7EDrqRooeJfJjXBZHQILVY1mgr/hjLRNwwl3ReHzb73XG7Oq2GB2IhapA=",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -94,11 +94,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://0.gravatar.com/js/hovercards/hovercards.min.js?ver=202442448e29c9ec460f70535c7958cd60e9e2980f935c5309d61d08f40d080a876779"
+      "url": "https://0.gravatar.com/js/hovercards/hovercards.min.js?ver=202443448e29c9ec460f70535c7958cd60e9e2980f935c5309d61d08f40d080a876779"
     },
     {
       "type": "google",
-      "url": "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&ver=14.0-a.6",
+      "url": "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&ver=14.0-a.8",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -181,76 +181,52 @@
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-player.css",
+      "type": "google",
+      "url": "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DgY/d=0/rs=AN8SPfowAA8SIQKHJetkAleDuiUL98-5fQ/m=el_main_css",
       "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/embed.js",
+      "type": "google",
+      "url": "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.-9i0yFIS0lc.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfotOoSXHjrYB2vjJ2HCSyxFvN6T6A/m=el_main",
       "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-embed-player.vflset/www-embed-player.js",
+      "type": "Wordpress",
+      "url": "https://pixel.wp.com/g.gif?x_stats-initial-visibility=visible&v=wpcom-no-pv&rand=0.19093984843152634",
       "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js",
+      "type": "Wordpress",
+      "url": "https://pixel.wp.com/g.gif?blog=222514765&v=wpcom&tz=2&user_id=0&subd=europeensemble2024&host=europeensemble2024.fr&ref=&rand=0.4850015999343924",
       "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-player.css",
+      "type": "Wordpress",
+      "url": "https://pixel.wp.com/g.gif?crypt=UE40eW5QN0p8M2Y%2FRE1mNzc2NTVTamdsd0xoLz9RQkM2K298TXY9bERQMXc2MjhEaVZfb2wwakRoSj0mUkp1THptM1NdbkV1WjZIcU9mVWQmPUIvMlN6Jk8wW3NYVEJ3dWZOWExuWD9VNTEucGVTRmZwYTB2ZD82MHd0Y1B8YkVzamFZfm8vTWxKdm5DeDVoLiwmVTFiTD1Pdy5xWUVIW0xFJnVOSUNoXWF4NH40QWtbZDh1JWVnME4yJXhaPTFbWWNWUUg3d0t6SnFUbDd3a0dbVll2b1FyZXNsWHhIUVVMdVUsQlZ8LDFjMl1xP1Zhd2NTYXlIYzZ5LS96P0t3RUtCYi8wSUY0PSw1c3NYV0olLnBzYVdrV20sRl1nME1jUnFEQzRUWzNaPTZYZUNNPSVYJg%3D%3D&v=wpcom-no-pv&rand=0.04160002173390942",
       "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/embed_ui_css.css",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
+      "type": "unknown",
+      "url": "https://0.gravatar.com/js/hovercards/hovercards.min.css?ver=202443448e29c9ec460f70535c7958cd60e9e2980f935c5309d61d08f40d080a876779"
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/embed.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-embed-player-pc.vflset/www-embed-player-pc.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
+      "type": "unknown",
+      "url": "https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&origin=aHR0cHM6Ly9ldXJvcGVlbnNlbWJsZTIwMjQuZnI%3D&wpcomid=222514765&time=1729973994"
     },
     {
       "type": "Wordpress",
@@ -262,7 +238,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-player.css",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -270,7 +246,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -278,7 +254,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -286,162 +262,10 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.XG76WJDrc6Y.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfr6WsF6TBZDsHhSpL7LHdjxStGMyw/m=el_main",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?x_stats-initial-visibility=visible&v=wpcom-no-pv&rand=0.023465055338044438",
-      "details": {
-        "id": "Wordpress",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?blog=222514765&v=wpcom&tz=2&user_id=0&subd=europeensemble2024&host=europeensemble2024.fr&ref=&rand=0.13987639955300568",
-      "details": {
-        "id": "Wordpress",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?crypt=UE40eW5QN0p8M2Y%2FRE1mNzc2NTVTamdsd0xoLz9RQkM2K298TXY9bERQMXc2MjhEaVZfb2wwakRoSj0mUkp1THptM1NdbkV1WjZIcU9mVWQmPUIvMlN6Jk8wW3NYVEJ3dWZOWExuWD9VNTEucGVTRmZwYTB2ZD82MHd0Y1B8YkVzamFZfm8vTWxKdm5DeDVoLiwmVTFiTD1Pdy5xWUVIW0xFJnVOSlFoejIydU9LX2RMNUM2PW1QZ2JIRj0uW1pBSGVCOE91VHNNQjR3amd3bl9LZ2ovWXpYWVtRbTErcVVKaXxOXVo9SHVVSU15Zm91ZlgvZiVDW0xqaytCd1prNCVETGdINS81dTB4S0IrWVpdUDNmKzJSVF1bZV1LWitMJj9jc1RIYmtaU1h%2BVmRGOWJv&v=wpcom-no-pv&rand=0.9822279059961085",
-      "details": {
-        "id": "Wordpress",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://0.gravatar.com/js/hovercards/hovercards.min.css?ver=202442448e29c9ec460f70535c7958cd60e9e2980f935c5309d61d08f40d080a876779"
-    },
-    {
-      "type": "unknown",
-      "url": "https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&origin=aHR0cHM6Ly9ldXJvcGVlbnNlbWJsZTIwMjQuZnI%3D&wpcomid=222514765&time=1729271520"
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "Wordpress",
-      "url": "https://s0.wp.com/wp-content/plugins/video/assets/js/videojs/videopress-routes.min.js?m=1727883551",
-      "details": {
-        "id": "Wordpress",
-        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -461,6 +285,54 @@
       }
     },
     {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-player.css",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/embed.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-embed-player.vflset/www-embed-player.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/base.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "google",
       "url": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png",
       "details": {
@@ -470,231 +342,111 @@
     },
     {
       "type": "unknown",
-      "url": "https://public-api.wordpress.com/rest/v1.1/videos/nUwOK9zu"
+      "url": "https://public-api.wordpress.com/rest/v1.1/videos/J8wAo3Gx"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-player.css",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/embed.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-embed-player.vflset/www-embed-player.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/base.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "unknown",
-      "url": "https://public-api.wordpress.com/rest/v1.1/videos/WrYiAxGt"
+      "url": "https://public-api.wordpress.com/rest/v1.1/videos/ndWuJiEP"
     },
     {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
       "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
-      "type": "google analytics",
-      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
       "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
       "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
-      "type": "google analytics",
-      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
       "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://public-api.wordpress.com/rest/v1.1/videos/WrYiAxGt"
-    },
-    {
-      "type": "unknown",
-      "url": "https://public-api.wordpress.com/rest/v1.1/videos/nUwOK9zu"
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://static.doubleclick.net/instream/ad_status.js",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
       "type": "unknown",
       "url": "https://public-api.wordpress.com/rest/v1.1/videos/J8wAo3Gx"
-    },
-    {
-      "type": "unknown",
-      "url": "https://public-api.wordpress.com/rest/v1.1/videos/J8wAo3Gx"
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/remote.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/js/th/c_4ywg1qWF47nQ37M4UdlAdzhZCIUdqZM4DrD-4oTyI.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://i.ytimg.com/vi_webp/h67EqkwodGI/sddefault.webp",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/remote.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/js/th/PSDnSI_8fd2_9pLIIjtTPWFGrcNSq3-PlrzUA6kHJn4.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://i.ytimg.com/vi/aTZUV8DHGao/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgVyh_MA8=&rs=AOn4CLAkK7Y7GsiZIlMLAiaRt8ZRwbVJ1w",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://yt3.ggpht.com/C1iKuJ9TxZ4gze2WUnmvexLH5pGOteFBYt6q1lpgZPyfgtFCDedu7etzsHU8W9OAXCKTmCQoHQ=s68-c-k-c0x00ffffff-no-rj",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://yt3.ggpht.com/C1iKuJ9TxZ4gze2WUnmvexLH5pGOteFBYt6q1lpgZPyfgtFCDedu7etzsHU8W9OAXCKTmCQoHQ=s68-c-k-c0x00ffffff-no-rj",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/remote.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/js/th/c3wSBZCfcvNmfwJ8CNHvOO74mLRrdEddMM5PRsuNhjk.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://i.ytimg.com/vi/vE0wlHg-U_I/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC8AKKAgwIABABGGUgZShEMA8=&rs=AOn4CLCEkh6486-hyNh2HU9jMbR4WZ5U_w",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://public-api.wordpress.com/rest/v1.1/videos/ICatjChA"
-    },
-    {
-      "type": "youtube",
-      "url": "https://yt3.ggpht.com/C1iKuJ9TxZ4gze2WUnmvexLH5pGOteFBYt6q1lpgZPyfgtFCDedu7etzsHU8W9OAXCKTmCQoHQ=s68-c-k-c0x00ffffff-no-rj",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
     },
     {
       "type": "unknown",
@@ -709,12 +461,100 @@
       }
     },
     {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://public-api.wordpress.com/rest/v1.1/videos/WrYiAxGt"
+    },
+    {
       "type": "unknown",
       "url": "https://public-api.wordpress.com/rest/v1.1/videos/ICatjChA"
     },
     {
       "type": "unknown",
-      "url": "https://public-api.wordpress.com/rest/v1.1/videos/ndWuJiEP"
+      "url": "https://public-api.wordpress.com/rest/v1.1/videos/nUwOK9zu"
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://public-api.wordpress.com/rest/v1.1/videos/WrYiAxGt"
+    },
+    {
+      "type": "unknown",
+      "url": "https://public-api.wordpress.com/rest/v1.1/videos/ICatjChA"
+    },
+    {
+      "type": "unknown",
+      "url": "https://public-api.wordpress.com/rest/v1.1/videos/nUwOK9zu"
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/remote.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/js/th/Nah9UXLmpETh3cZd5s9jkmhwr1LJoEjkklvCdqmvRdQ.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://i.ytimg.com/vi/vE0wlHg-U_I/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC8AKKAgwIABABGGUgZShEMA8=&rs=AOn4CLCEkh6486-hyNh2HU9jMbR4WZ5U_w",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://yt3.ggpht.com/C1iKuJ9TxZ4gze2WUnmvexLH5pGOteFBYt6q1lpgZPyfgtFCDedu7etzsHU8W9OAXCKTmCQoHQ=s68-c-k-c0x00ffffff-no-rj",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
     },
     {
       "type": "google",
@@ -741,12 +581,200 @@
       }
     },
     {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "google",
       "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4_hd.original.jpg?w=628"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4.thumbgrid_1.jpg?h=1440"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4.thumbgrid_0.jpg?h=1440"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4_vp9_1440p.original.jpg?w=628"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4.thumbgrid_1.jpg?h=1440"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4.thumbgrid_0.jpg?h=1440"
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/remote.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/js/th/Nah9UXLmpETh3cZd5s9jkmhwr1LJoEjkklvCdqmvRdQ.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://i.ytimg.com/vi_webp/h67EqkwodGI/sddefault.webp",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://yt3.ggpht.com/C1iKuJ9TxZ4gze2WUnmvexLH5pGOteFBYt6q1lpgZPyfgtFCDedu7etzsHU8W9OAXCKTmCQoHQ=s68-c-k-c0x00ffffff-no-rj",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/remote.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/js/th/Nah9UXLmpETh3cZd5s9jkmhwr1LJoEjkklvCdqmvRdQ.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://i.ytimg.com/vi/aTZUV8DHGao/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgVyh_MA8=&rs=AOn4CLAkK7Y7GsiZIlMLAiaRt8ZRwbVJ1w",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://yt3.ggpht.com/C1iKuJ9TxZ4gze2WUnmvexLH5pGOteFBYt6q1lpgZPyfgtFCDedu7etzsHU8W9OAXCKTmCQoHQ=s68-c-k-c0x00ffffff-no-rj",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov_vp9_2160p.original.jpg?w=628"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov.thumbgrid_1.jpg?h=1440"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov.thumbgrid_0.jpg?h=1440"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/WrYiAxGt/clip-officiel-de-campagne-_mp4_hd.original.jpg?w=628"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/WrYiAxGt/clip-officiel-de-campagne-_mp4.thumbgrid_0.jpg?h=1440"
     },
     {
       "type": "unknown",
@@ -777,12 +805,20 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/WrYiAxGt/clip-officiel-de-campagne-_mp4_hd.original.jpg?w=628"
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
     },
     {
       "type": "unknown",
-      "url": "https://videos.files.wordpress.com/WrYiAxGt/clip-officiel-de-campagne-_mp4.thumbgrid_0.jpg?h=1440"
+      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4_dvd.mp4"
+    },
+    {
+      "type": "unknown",
+      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4_dvd.mp4"
     },
     {
       "type": "google",
@@ -807,42 +843,6 @@
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4_hd.original.jpg?w=628"
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4.thumbgrid_1.jpg?h=1440"
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4.thumbgrid_0.jpg?h=1440"
     },
     {
       "type": "google",
@@ -853,8 +853,24 @@
       }
     },
     {
+      "type": "youtube",
+      "url": "https://www.youtube.com/generate_204?-LWIUw",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "unknown",
-      "url": "https://videos.files.wordpress.com/nUwOK9zu/2.-clip-espace_mp4_dvd.mp4"
+      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov_dvd.mp4"
     },
     {
       "type": "unknown",
@@ -862,19 +878,39 @@
     },
     {
       "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov_vp9_2160p.original.jpg?w=628"
+      "url": "https://videos.files.wordpress.com/nUwOK9zu/2.-clip-espace_mp4_dvd.mp4"
     },
     {
       "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov.thumbgrid_1.jpg?h=1440"
+      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4_dvd.mp4"
     },
     {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov.thumbgrid_0.jpg?h=1440"
+      "type": "youtube",
+      "url": "https://www.youtube.com/generate_204?k_Bydw",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/generate_204?yES9XA",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -882,15 +918,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4_vp9_1440p.original.jpg?w=628"
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4.thumbgrid_1.jpg?h=1440"
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4.thumbgrid_0.jpg?h=1440"
+      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4_dvd.mp4"
     },
     {
       "type": "Wordpress",
@@ -909,72 +937,8 @@
       }
     },
     {
-      "type": "google",
-      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4_dvd.mp4"
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?xFfEPA",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?4OSzEg",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?8CHAZA",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "unknown",
       "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov_dvd.mp4"
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4_dvd.mp4"
     },
     {
       "type": "unknown",
@@ -985,20 +949,8 @@
       "url": "https://videos.files.wordpress.com/WrYiAxGt/clip-officiel-de-campagne-_mp4_dvd.mp4"
     },
     {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/J8wAo3Gx/4.-mettre-les-machines-au-service-de-lhumain_mp4_dvd.mp4"
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ndWuJiEP/3.-clip-reparer-la-nature_mp4_dvd.mp4"
-    },
-    {
-      "type": "unknown",
-      "url": "https://videos.files.wordpress.com/ICatjChA/1.-clip-europe-des-services-publics_mov_dvd.mp4"
-    },
-    {
       "type": "youtube",
-      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -1006,7 +958,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -1014,7 +966,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -1026,13 +978,13 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 20 Oct 2024 02:11:41 GMT",
+    "date": "Sun, 27 Oct 2024 02:09:59 GMT",
     "host-header": "WordPress.com",
     "link": "<https://wp.me/f3EfP>; rel=shortlink",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\naccept, content-type, cookie",
-    "x-ac": "3.dca _dca STALE",
+    "x-ac": "6.bur _bur STALE",
     "x-hacker": "Want root?  Visit join.a8c.com/hacker and mention this header."
   },
   "endpoints": [
@@ -1212,7 +1164,7 @@
     },
     {
       "hostname": "v0.wordpress.com",
-      "ip": "192.0.78.12",
+      "ip": "192.0.78.13",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -1386,7 +1338,7 @@
     },
     {
       "hostname": "translate.google.com",
-      "ip": "172.253.115.139",
+      "ip": "142.250.189.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1527,7 +1479,7 @@
     },
     {
       "hostname": "video.wordpress.com",
-      "ip": "192.0.78.13",
+      "ip": "192.0.78.12",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -1614,7 +1566,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "64.233.180.91",
+      "ip": "142.250.189.238",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1668,7 +1620,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.16.94",
+      "ip": "142.250.189.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1722,61 +1674,7 @@
     },
     {
       "hostname": "translate.googleapis.com",
-      "ip": "172.253.62.95",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "fonts.gstatic.com",
-      "ip": "142.251.163.94",
+      "ip": "142.250.189.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2003,6 +1901,60 @@
       }
     },
     {
+      "hostname": "fonts.gstatic.com",
+      "ip": "142.250.191.35",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "public-api.wordpress.com",
       "ip": "192.0.78.23",
       "geoip": {
@@ -2090,8 +2042,62 @@
       }
     },
     {
+      "hostname": "translate-pa.googleapis.com",
+      "ip": "142.251.214.138",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "172.253.115.155",
+      "ip": "142.250.191.66",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2145,7 +2151,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "172.253.122.148",
+      "ip": "172.217.164.102",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2199,7 +2205,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "142.251.167.95",
+      "ip": "172.217.12.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2253,7 +2259,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.163.147",
+      "ip": "142.251.46.196",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2307,7 +2313,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.251.111.119",
+      "ip": "172.217.164.118",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2361,61 +2367,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "172.253.62.132",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "translate-pa.googleapis.com",
-      "ip": "172.253.62.95",
+      "ip": "142.250.189.225",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2469,7 +2421,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "172.253.122.138",
+      "ip": "142.250.189.238",
       "geoip": {
         "continent": {
           "code": "NA",
