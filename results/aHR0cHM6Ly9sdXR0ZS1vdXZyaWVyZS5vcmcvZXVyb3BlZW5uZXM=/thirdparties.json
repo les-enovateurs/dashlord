@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "www.lutte-ouvriere.org",
       "path": "/",
-      "expires": 1729389953,
+      "expires": 1729994469,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.1.8e08",
-      "value": "714396c9f7893215.1729388154.",
+      "value": "52d226fb77402948.1729992669.",
       "domain": "www.lutte-ouvriere.org",
       "path": "/",
-      "expires": 1763343354,
+      "expires": 1763947869,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -38,8 +38,8 @@
     "content-encoding": "gzip",
     "content-length": "12085",
     "content-type": "text/html",
-    "date": "Sun, 20 Oct 2024 01:35:52 GMT",
-    "expires": "Sun, 20 Oct 2024 01:35:52 GMT",
+    "date": "Sun, 27 Oct 2024 01:31:07 GMT",
+    "expires": "Sun, 27 Oct 2024 01:31:07 GMT",
     "server": "Apache",
     "vary": "Accept-Encoding"
   },
@@ -49,9 +49,16 @@
       "ip": "145.239.37.162",
       "geoip": {
         "city": {
-          "geoname_id": 2634341,
+          "geoname_id": 2988507,
           "names": {
-            "en": "City of Westminster"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
           }
         },
         "continent": {
@@ -69,27 +76,28 @@
           }
         },
         "country": {
-          "geoname_id": 2635167,
-          "iso_code": "GB",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "UK",
-            "en": "United Kingdom",
-            "es": "Reino Unido",
-            "fr": "Royaume-Uni",
-            "ja": "英国",
-            "pt-BR": "Reino Unido",
-            "ru": "Британия",
-            "zh-CN": "英国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
-          "accuracy_radius": 200,
-          "latitude": 51.5314,
-          "longitude": -0.1703,
-          "time_zone": "Europe/London"
+          "accuracy_radius": 20,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
+          "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "NW8"
+          "code": "75001"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -108,24 +116,27 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6269131,
-            "iso_code": "ENG",
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
             "names": {
-              "de": "England",
-              "en": "England",
-              "es": "Inglaterra",
-              "fr": "Angleterre",
-              "ja": "イングランド",
-              "pt-BR": "Inglaterra",
-              "ru": "Англия",
-              "zh-CN": "英格兰"
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
             }
           },
           {
-            "geoname_id": 3333218,
-            "iso_code": "WSM",
+            "geoname_id": 2968815,
+            "iso_code": "75",
             "names": {
-              "en": "City of Westminster"
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
