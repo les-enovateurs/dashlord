@@ -4,10 +4,10 @@
   "headers": {
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\"",
     "content-encoding": "br",
-    "content-length": "48503",
+    "content-length": "48752",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 27 Oct 2024 01:17:50 GMT",
-    "etag": "\"21-1729780466;br\"",
+    "date": "Sun, 03 Nov 2024 01:18:36 GMT",
+    "etag": "\"6949-1730575950;br\"",
     "link": "<https://parti-equinoxe.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://parti-equinoxe.fr/wp-json/wp/v2/pages/78>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://parti-equinoxe.fr/>; rel=shortlink",
     "server": "LiteSpeed",
     "vary": "Accept-Encoding",
@@ -50,7 +50,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 200,
           "latitude": 48.2048,
           "longitude": 16.3801,
           "time_zone": "Europe/Vienna"
