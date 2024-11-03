@@ -43,15 +43,13 @@
   ],
   "cookies": [],
   "headers": {
-    "age": "1463",
+    "age": "0",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 27 Oct 2024 01:26:50 GMT",
+    "date": "Sun, 03 Nov 2024 01:25:57 GMT",
     "server": "o2switch-PowerBoost-v3",
     "vary": "Accept-Encoding",
-    "x-cache": "HIT",
-    "x-cache-hits": "1",
-    "x-storage": "memory"
+    "x-cache": "MISS"
   },
   "endpoints": [
     {
@@ -112,7 +110,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.167.95",
+      "ip": "64.233.180.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -166,7 +164,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "64.233.180.94",
+      "ip": "172.253.122.94",
       "geoip": {
         "continent": {
           "code": "NA",
