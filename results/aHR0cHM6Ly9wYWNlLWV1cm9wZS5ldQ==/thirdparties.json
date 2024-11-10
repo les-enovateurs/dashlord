@@ -238,7 +238,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2",
+      "url": "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -254,7 +254,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2",
+      "url": "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -266,23 +266,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -298,6 +282,14 @@
     },
     {
       "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2",
       "details": {
         "id": "google fonts",
@@ -306,7 +298,15 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
+      "url": "https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -314,7 +314,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=839a50009a67f69916a18be3302d0741",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=2f6d492def4cbceb97625b944e7228fe",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -331,7 +331,7 @@
       "value": "en",
       "domain": "www.pace-europe.eu",
       "path": "/",
-      "expires": 1762132632.006487,
+      "expires": 1762737370.430689,
       "size": 23,
       "httpOnly": false,
       "secure": false,
@@ -345,10 +345,10 @@
     "content-encoding": "gzip",
     "content-length": "12990",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 03 Nov 2024 01:17:11 GMT",
+    "date": "Sun, 10 Nov 2024 01:16:10 GMT",
     "link": "<https://www.pace-europe.eu/en/wp-json/>; rel=\"https://api.w.org/\", <https://www.pace-europe.eu/en/wp-json/wp/v2/pages/1254>; rel=\"alternate\"; type=\"application/json\", <https://www.pace-europe.eu/en/>; rel=shortlink",
     "server": "Apache",
-    "set-cookie": "qtrans_front_language=en; expires=Mon, 03-Nov-2025 01:17:11 GMT; Max-Age=31536000; path=/",
+    "set-cookie": "qtrans_front_language=en; expires=Mon, 10-Nov-2025 01:16:10 GMT; Max-Age=31536000; path=/",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/7.0"
   },
@@ -467,7 +467,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.202",
+      "ip": "142.251.46.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -609,7 +609,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.163",
+      "ip": "172.217.164.99",
       "geoip": {
         "continent": {
           "code": "NA",
