@@ -43,13 +43,15 @@
   ],
   "cookies": [],
   "headers": {
-    "age": "0",
+    "age": "4508",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 03 Nov 2024 01:25:57 GMT",
+    "date": "Sun, 10 Nov 2024 01:25:42 GMT",
     "server": "o2switch-PowerBoost-v3",
     "vary": "Accept-Encoding",
-    "x-cache": "MISS"
+    "x-cache": "HIT",
+    "x-cache-hits": "1",
+    "x-storage": "memory"
   },
   "endpoints": [
     {
@@ -110,8 +112,19 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "64.233.180.95",
+      "ip": "172.253.63.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5375480,
+          "names": {
+            "de": "Mountain View",
+            "en": "Mountain View",
+            "fr": "Mountain View",
+            "ja": "マウンテンビュー",
+            "ru": "Маунтин-Вью",
+            "zh-CN": "芒廷维尤"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -141,10 +154,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 37.3891,
+          "longitude": -122.0867,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94035"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -159,12 +176,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.122.94",
+      "ip": "142.251.179.94",
       "geoip": {
         "continent": {
           "code": "NA",
