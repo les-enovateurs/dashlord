@@ -62,6 +62,14 @@
     },
     {
       "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/istokweb/v24/3qTvojGmgSyUukBzKslpBmt_.woff2",
       "details": {
         "id": "google fonts",
@@ -93,11 +101,15 @@
       }
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "type": "unknown",
+      "url": "https://sibautomation.com/cm.html?key=80eu5gkacj34r0zg08xytfw5"
+    },
+    {
+      "type": "brevo",
+      "url": "https://in-automate.brevo.com/cm?uuid=f6cb4123-12d3-466f-8ee7-c608a01ce3e6&key=80eu5gkacj34r0zg08xytfw5&cuid=9ead8bf8-53ee-4086-b147-e1eb151c33a8",
       "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
       }
     },
     {
@@ -109,16 +121,20 @@
       }
     },
     {
+      "type": "brevo",
+      "url": "https://in-automate.brevo.com/p?key=80eu5gkacj34r0zg08xytfw5&cuid=9ead8bf8-53ee-4086-b147-e1eb151c33a8&ma_url=https%3A%2F%2Fparti-animaliste.fr%2F&sib_type=page&ma_title=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&sib_name=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&ma_referrer=&ma_path=%2F",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=-ZG7BC9TxCVEbzIO2m429usb&size=invisible&cb=96ax3w1bt4qh",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=-ZG7BC9TxCVEbzIO2m429usb&size=invisible&cb=3ijoquatboa",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://sibautomation.com/cm.html?key=80eu5gkacj34r0zg08xytfw5"
     },
     {
       "type": "google",
@@ -138,7 +154,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/fjR1YsZcYM2JOhJRK9G2WgIyjktmbXjRewVmA9lk-tI.js",
+      "url": "https://www.google.com/js/bg/svWfa6fX9Vvt_dcGaCuhh0k0ixNhuPkUhPsLUAe5000.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -193,22 +209,6 @@
       }
     },
     {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/cm?uuid=b1da78ff-09b0-4527-8602-456cad504880&key=80eu5gkacj34r0zg08xytfw5&cuid=d563414e-d283-497d-b2ff-01ce734185a5",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=80eu5gkacj34r0zg08xytfw5&cuid=d563414e-d283-497d-b2ff-01ce734185a5&ma_url=https%3A%2F%2Fparti-animaliste.fr%2F&sib_type=page&ma_title=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&sib_name=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&ma_referrer=&ma_path=%2F",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
-      }
-    },
-    {
       "type": "google",
       "url": "https://www.google.com/recaptcha/api2/reload?k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG",
       "details": {
@@ -231,7 +231,7 @@
       "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1730597886,
+      "expires": 1731202645,
       "size": 70,
       "httpOnly": false,
       "secure": false,
@@ -242,7 +242,7 @@
     },
     {
       "name": "sbjs_current_add",
-      "value": "fd%3D2024-11-03%2001%3A08%3A06%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-11-10%2001%3A07%3A25%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -284,7 +284,7 @@
     },
     {
       "name": "sbjs_first_add",
-      "value": "fd%3D2024-11-03%2001%3A08%3A06%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-11-10%2001%3A07%3A25%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -312,10 +312,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "d563414e-d283-497d-b2ff-01ce734185a5",
+      "value": "9ead8bf8-53ee-4086-b147-e1eb151c33a8",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1746317287,
+      "expires": 1746922045,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -341,26 +341,26 @@
   ],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "cache-control": "max-age=565, public",
+    "cache-control": "max-age=641, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8dc878941ab6e21f-ORD",
+    "cf-ray": "8e02252baa80f993-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 03 Nov 2024 01:08:04 GMT",
-    "expires": "Sun, 03 Nov 2024 01:17:29 GMT",
-    "last-modified": "Sun, 03 Nov 2024 00:17:29 GMT",
+    "date": "Sun, 10 Nov 2024 01:07:22 GMT",
+    "expires": "Sun, 10 Nov 2024 01:18:02 GMT",
+    "last-modified": "Sun, 10 Nov 2024 00:18:02 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "pragma": "public",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ig2RLwJ99kARxND4B01705I7S7hb0J%2BXXg3K4xD%2FTlcdIAUgfCpLiUqvAtVr%2FqqGl5KD1eTz9%2B22EGKHZn7UT%2F7ZIbq0HQ7%2FXAzj5EC3XiHmgscNvexYiS637WSdmANkzQjll3ic\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=77ymo8oLVLbeaDcdw06WR%2Bs75K03gnXCdG1bSm949t9yrBt5tFj31sgBlpdDf7pdpYa%2F5CJ4sEuXHMeGmUUV2o5S%2BTgL6yWpfeX%2BElZE6w2MCWQTTLtd4R9mwn7vMax7eKO2drXr\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
-    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=2310&sent=6&recv=8&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1061&delivery_rate=1268769&cwnd=252&unsent_bytes=0&cid=4dae2670d7614861&ts=419&x=0\"",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=1780&sent=6&recv=9&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1061&delivery_rate=1620885&cwnd=252&unsent_bytes=0&cid=61027efab496ca94&ts=805&x=0\"",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/8.1.30"
   },
   "endpoints": [
     {
       "hostname": "parti-animaliste.fr",
-      "ip": "104.21.48.132",
+      "ip": "172.67.151.253",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -380,7 +380,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.106",
+      "ip": "142.250.189.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -434,7 +434,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.217.2.36",
+      "ip": "142.251.32.36",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -508,61 +508,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.195",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "www.gstatic.com",
-      "ip": "142.250.191.131",
+      "ip": "142.251.32.35",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -616,8 +562,62 @@
     },
     {
       "hostname": "in-automate.brevo.com",
-      "ip": "172.64.150.216",
+      "ip": "104.18.37.40",
       "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.gstatic.com",
+      "ip": "172.217.164.99",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
