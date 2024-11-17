@@ -89,6 +89,18 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://manychat.com/pixel/logEvent"
+    },
+    {
+      "type": "facebook",
+      "url": "https://connect.facebook.net/signals/config/816960238434260?v=2.9.177&r=stable&domain=vivementle9juin.fr&hme=c3e4904c1dde42d643265ef909b9e193c41cedcd6f559a3ff5e1b178e36647fa&ex_m=70%2C121%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C172%2C175%2C187%2C183%2C184%2C186%2C29%2C101%2C53%2C77%2C185%2C167%2C170%2C180%2C181%2C188%2C131%2C41%2C189%2C190%2C34%2C143%2C15%2C50%2C195%2C194%2C133%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C168%2C171%2C140%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
+      }
+    },
+    {
       "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfGZQ6.woff2",
       "details": {
@@ -98,7 +110,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/baafab19/www-player.css",
+      "url": "https://www.youtube.com/s/player/0ccfa671/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -106,7 +118,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/baafab19/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/0ccfa671/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -114,7 +126,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/baafab19/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/0ccfa671/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -122,7 +134,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/baafab19/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/0ccfa671/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -130,18 +142,10 @@
     },
     {
       "type": "google tag manager",
-      "url": "https://www.googletagmanager.com/gtag/js?id=G-D7BMCQH4W2&l=dataLayer&cx=c&gtm=45He4b70v9168162127za200",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-D7BMCQH4W2&l=dataLayer&cx=c&gtm=45He4bc0v9168162127za200",
       "details": {
         "id": "google tag manager",
         "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "facebook",
-      "url": "https://connect.facebook.net/signals/config/816960238434260?v=2.9.176&r=stable&domain=vivementle9juin.fr&hme=872f04a0547459b3285cb03b0d7a47bfde40628f4b386809918a621e2688602f&ex_m=70%2C121%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C172%2C175%2C187%2C183%2C184%2C186%2C29%2C101%2C53%2C77%2C185%2C167%2C170%2C180%2C181%2C188%2C131%2C41%2C189%2C190%2C34%2C143%2C15%2C50%2C195%2C194%2C133%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C168%2C171%2C140%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -158,6 +162,14 @@
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/tr/?id=816960238434260&ev=PageView&dl=https%3A%2F%2Fvivementle9juin.fr%2F&rl=&if=false&ts=1731805703001&sw=800&sh=600&v=2.9.177&r=stable&ec=0&o=4254&fbp=fb.1.1731805702995.176562271141046116&ler=empty&it=1731805702887&coo=false&rqm=GET",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -181,16 +193,8 @@
       "url": "https://manychat.com/pixel/logEvent"
     },
     {
-      "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-D7BMCQH4W2&gtm=45je4b70v9168095011z89168162127za200zb9168162127&_p=1731200716166&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101823848~101925629&cid=1284953582.1731200717&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_s=1&sid=1731200716&sct=1&seg=0&dl=https%3A%2F%2Fvivementle9juin.fr%2F&dt=Vivement%20le%209%20juin%20!%20-%20Jordan%20Bardella%20-%20Europ%C3%A9ennes%202024&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2103",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-D7BMCQH4W2&gtm=45je4bc0v9168095011z89168162127za200zb9168162127&_p=1731805702385&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067554~102067808~102077855&cid=1447052233.1731805703&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_s=1&sid=1731805703&sct=1&seg=0&dl=https%3A%2F%2Fvivementle9juin.fr%2F&dt=Vivement%20le%209%20juin%20!%20-%20Jordan%20Bardella%20-%20Europ%C3%A9ennes%202024&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=1729",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -213,46 +217,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yJ/l/0,cross/XQJ3FReVfEq.css"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yC/l/0,cross/E0Q8Hb8Wy0S.css"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/L474n3TBny8.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3i7SR4/yC/l/en_US/DilLQDROAp6.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3ikrn4/yb/l/en_US/h63naGpwkNN.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/4r8pcxnOs4K.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/gkYJKDiPOhE.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/xJP_bJvoKXI.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/0oPeSI6u9hD.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3iRXK4/yv/l/en_US/ntTMry-beiF.js"
-    },
-    {
       "type": "google",
       "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
       "details": {
@@ -270,7 +234,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/baafab19/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/0ccfa671/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -278,7 +242,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/UjuEPAY10DV42112mx5RpuL7vL9na3wqBIEQc9gWluY.js",
+      "url": "https://www.google.com/js/th/4mQB7fZCatX8pGZv4HeSi2sC6bNEc_h3wyM4bdx_L7w.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -301,27 +265,11 @@
       }
     },
     {
-      "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=816960238434260&ev=PageView&dl=https%3A%2F%2Fvivementle9juin.fr%2F&rl=&if=false&ts=1731200717159&sw=800&sh=600&v=2.9.176&r=stable&ec=0&o=4254&fbp=fb.1.1731200717158.643766501431097546&ler=empty&it=1731200716561&coo=false&rqm=GET",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google analytics",
       "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=30ebfee42517d214e02bdc643c89986c",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -331,10 +279,6 @@
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://manychat.com/pixel/logEvent"
     },
     {
       "type": "google",
@@ -386,7 +330,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?DSBFMw",
+      "url": "https://www.youtube.com/generate_204?XnGGIQ",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -399,74 +343,6 @@
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/441113379_2216551642013567_6273121398507190358_n.jpg?stp=dst-jpg_s851x315&_nc_cat=107&ccb=1-7&_nc_sid=40d385&_nc_ohc=xfJ7CrO2J78Q7kNvgF-RW4O&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYB4Wb5PF8-fAwKZSp-e8WkeRLRnQCA9BUzOmnjX3Ch9xg&oe=6735DC90"
-    },
-    {
-      "type": "unknown",
-      "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/420770243_930807655082493_2398074427854519799_n.jpg?stp=c0.451.1365.1365a_cp0_dst-jpg_s40x40&_nc_cat=1&ccb=1-7&_nc_sid=6738e8&_nc_ohc=hZfTGl6pZEwQ7kNvgHdWkR5&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYCcTNM36F52l1f82p14pmCJo7Bd1g_EGMvZAqhzEKr7yg&oe=6735C0C4"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/qGoWo6gBwwP.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/iTmVIlBRgPP.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/vwOUmvzU_7P.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/EBIXEtYgzdb.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://video-iad3-2.xx.fbcdn.net/v/t39.25447-2/10000000_916341903864839_1959511905105696266_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjoxMjE5MjI5OTc5MDg1NjcwfQ%3D%3D&_nc_e2o=1219229979085670&_nc_ohc=-UWXBfJLVkMQ7kNvgHLgu5a&_nc_zt=28&_nc_ht=video-iad3-2.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYC5gDjOMs2zhm9TcuT-TilbDWbqTFxS_UI9h49Ji99wiw&oe=6735DC65&bytestart=0&byteend=817"
-    },
-    {
-      "type": "unknown",
-      "url": "https://video-iad3-2.xx.fbcdn.net/v/t39.25447-2/10000000_916341903864839_1959511905105696266_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjoxMjE5MjI5OTc5MDg1NjcwfQ%3D%3D&_nc_e2o=1219229979085670&_nc_ohc=-UWXBfJLVkMQ7kNvgHLgu5a&_nc_zt=28&_nc_ht=video-iad3-2.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYC5gDjOMs2zhm9TcuT-TilbDWbqTFxS_UI9h49Ji99wiw&oe=6735DC65&bytestart=818&byteend=3933"
-    },
-    {
-      "type": "unknown",
-      "url": "https://video-iad3-2.xx.fbcdn.net/v/t39.25447-2/10000000_916341903864839_1959511905105696266_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjoxMjE5MjI5OTc5MDg1NjcwfQ%3D%3D&_nc_e2o=1219229979085670&_nc_ohc=-UWXBfJLVkMQ7kNvgHLgu5a&_nc_zt=28&_nc_ht=video-iad3-2.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYC5gDjOMs2zhm9TcuT-TilbDWbqTFxS_UI9h49Ji99wiw&oe=6735DC65&bytestart=3934&byteend=154606"
-    },
-    {
-      "type": "unknown",
-      "url": "https://video-iad3-2.xx.fbcdn.net/v/t42.1790-2/448546357_435581722732137_2324434090906303102_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYXVkaW9fYWFjcF80OF9mcmFnXzJfYXVkaW8iLCJ2aWRlb19pZCI6MTIxOTIyOTk3OTA4NTY3MH0%3D&_nc_e2o=1219229979085670&_nc_ohc=a7iSqikwoQgQ7kNvgHuPC3X&_nc_zt=28&_nc_ht=video-iad3-2.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYCyhbtmk0IGBGkt9SxWVg5Sgtdm_OF6eZ9qVI4HuiFNjQ&oe=6735E1B3&bytestart=0&byteend=823"
-    },
-    {
-      "type": "unknown",
-      "url": "https://video-iad3-2.xx.fbcdn.net/v/t42.1790-2/448546357_435581722732137_2324434090906303102_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYXVkaW9fYWFjcF80OF9mcmFnXzJfYXVkaW8iLCJ2aWRlb19pZCI6MTIxOTIyOTk3OTA4NTY3MH0%3D&_nc_e2o=1219229979085670&_nc_ohc=a7iSqikwoQgQ7kNvgHuPC3X&_nc_zt=28&_nc_ht=video-iad3-2.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYCyhbtmk0IGBGkt9SxWVg5Sgtdm_OF6eZ9qVI4HuiFNjQ&oe=6735E1B3&bytestart=824&byteend=8559"
-    },
-    {
-      "type": "unknown",
-      "url": "https://video-iad3-2.xx.fbcdn.net/v/t42.1790-2/448546357_435581722732137_2324434090906303102_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYXVkaW9fYWFjcF80OF9mcmFnXzJfYXVkaW8iLCJ2aWRlb19pZCI6MTIxOTIyOTk3OTA4NTY3MH0%3D&_nc_e2o=1219229979085670&_nc_ohc=a7iSqikwoQgQ7kNvgHuPC3X&_nc_zt=28&_nc_ht=video-iad3-2.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYCyhbtmk0IGBGkt9SxWVg5Sgtdm_OF6eZ9qVI4HuiFNjQ&oe=6735E1B3&bytestart=8560&byteend=22202"
-    },
-    {
-      "type": "unknown",
-      "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQMma5eKg0UzJPyDX0luazqjHQcta3cagJlY3hEa_0wxmMbNzhbtWRimyJIkWjhUVTx8wMVguVxvWiaHYZUxqUIl.mp4?strext=1&_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=Hp_9iNGcFsEQ7kNvgFLRnvf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDc5NDg3NDkxMTE4NjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=9-4&_nc_zt=28&oh=00_AYBoHbaaInUqtL1H0b4wu1kiotHrzZYu2QPYJuf5trYEyg&oe=6735F105"
-    },
-    {
-      "type": "facebook",
-      "url": "https://www.facebook.com/ajax/bootloader-endpoint/?modules=VideoPlayerWebVttCaptionsSource&__user=0&__a=1&__req=1&__hs=20037.BP%3Aplugin_video_pkg.2.0..0.0&dpr=1&__ccg=GOOD&__rev=1018082568&__s=%3A%3A129u88&__hsi=7435450459785247788&__dyn=7xeUmxa13xu1syUbFp43q0zEnwgU6C7UW3eEc8co4q15zobo8K1pwd-4o3Bwxxm0U862WwjE4m0x83nwaq1xx-8wpU1vohwGwQw4iwBgao1aU2swaOfwbK0RE5a1qw8W5U4q0HUvw5rwSyES0gq0Lo6-1Fw4mwr81UU7u1rwea&__csr=&__sp=1",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yh/r/PbZ9XhPJHr4.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2093-6/448547308_1124313452188451_695029190050673507_n.srt?_nc_cat=109&ccb=1-7&_nc_sid=c211c2&_nc_ohc=e7fSzghpd1UQ7kNvgFVOUlP&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&edm=AGo2L-IEAAAA&_nc_gid=AVjIbTe0t-fKiCVvi9BsnRl&oh=00_AYB2J2wUybaL4N8nO6IKzLSUVP0UJ9FKGckV3wqSXKePQw&oe=6735F24C"
     },
     {
       "type": "youtube",
@@ -480,10 +356,10 @@
   "cookies": [
     {
       "name": "_ga",
-      "value": "GA1.1.1284953582.1731200717",
+      "value": "GA1.1.1447052233.1731805703",
       "domain": ".vivementle9juin.fr",
       "path": "/",
-      "expires": 1794272716,
+      "expires": 1794877703,
       "size": 30,
       "httpOnly": false,
       "secure": false,
@@ -494,10 +370,10 @@
     },
     {
       "name": "_ga_D7BMCQH4W2",
-      "value": "GS1.1.1731200716.1.0.1731200716.0.0.0",
+      "value": "GS1.1.1731805703.1.0.1731805703.0.0.0",
       "domain": ".vivementle9juin.fr",
       "path": "/",
-      "expires": 1794272716,
+      "expires": 1794877703,
       "size": 51,
       "httpOnly": false,
       "secure": false,
@@ -508,10 +384,10 @@
     },
     {
       "name": "v9j_session",
-      "value": "eyJpdiI6IlBNaXlwSkpXSWVxand5cWpPUkg1K0E9PSIsInZhbHVlIjoiY25FYit2T2hmK1gvTWRaUThVVXpXVk1DL0tBeTJyL01sYVhVWXpwQzVKak5SREZkOVZuZ2tZUkI4bzVCeGxNWWcxMHlHRUVPSHI0eGlMN0dqckwzcEFaSHRhVUdoQi8zZ1M0RHJLU1NwQjNSbDVOc1pNRmNxa2NuaUd5Rk1kVWciLCJtYWMiOiJjZmFlOWZmNDdlOGUzZjI1ZmIxMTMxNDliOWQyMDdiOWVmZTU0Nzc2YjdhOGRjMGZiMWQ5OWFmYTM4NDg5NjhjIiwidGFnIjoiIn0%3D",
+      "value": "eyJpdiI6ImM3NkZyeWcvT1ZYQUpPT2xCcnBpQ2c9PSIsInZhbHVlIjoiOElwbjlGbW96WEp1TDd2WjdrNlRQc1RMMkJOcWg3Y2hocUtUUWIwRTIxdkQrSkZUWHB0L2dZUHk4Y2o5cUI1eGtlWVY0b0I1NXBLT20vRis4M0RpMUpNM0FCWEZTRVdEZzJtajZkS0NkZ2tMWnNNTlNHRFkyNHh4R082SnZpMU4iLCJtYWMiOiI5Y2ZhZDM2NWVhYWQ0NjdjY2Y1YzdlNDExODQwNjdhYTcyN2RhNDQwYmNkMDhjODRiZjlmMjI2ZjdmYjlhYmYyIiwidGFnIjoiIn0%3D",
       "domain": "vivementle9juin.fr",
       "path": "/",
-      "expires": 1731207915.915483,
+      "expires": 1731812902.20348,
       "size": 353,
       "httpOnly": true,
       "secure": false,
@@ -523,10 +399,10 @@
     },
     {
       "name": "_fbp",
-      "value": "fb.1.1731200717158.643766501431097546",
+      "value": "fb.1.1731805702995.176562271141046116",
       "domain": ".vivementle9juin.fr",
       "path": "/",
-      "expires": 1738976717,
+      "expires": 1739581702,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -537,10 +413,10 @@
     },
     {
       "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IlVjRkZYY3JxNmV2d0xnVk9DZFBYeGc9PSIsInZhbHVlIjoicXFMdzBxUHpwSXR2Ukc0MzlYT01vQ0lvdnZBa3R3N2RReGZTUGpHRTR3MCtTUFB4cGR3ekJoNm82aDcyYTRHejVNMTJGOFlFVWZPZXRTRTcvMnJsQXJ1TmlybTlRK09RQ1NQOUk0R2F0NUpIRExZWFJuR1NFNkE3SW1PcGlnVlIiLCJtYWMiOiJiNmZkZjE4OTk0NDMxODcxOGYwNTM1N2Y3YzY2ZWFjMmE1Zjc4MWJmNWMwNzExOWMxYWUzYTM5MGM5NDQyNjQ1IiwidGFnIjoiIn0%3D",
+      "value": "eyJpdiI6IjFMS0RaM1Y1SjhhS29vSWt2WUloTHc9PSIsInZhbHVlIjoiR1VLSGhGNEZiNXRUK0p4L09pOTZvb2IxQ0lVdzE0MnBsN1NJRU5YOUtKeEY3MS9NMDBqOTh6VTV3YXJTbjlmWU5PUFc2UHQyZWVWbzY3eG1LUk44cjVOK2YyZzdnTlhLeW9vTTRPZUM3bisxM3o2WEVQT0wzTy9UQVVYVUw5UXoiLCJtYWMiOiIzNDMxYmJiYWJmODg0ZTZkYTdiNjEzMjBjYzQ4ODk4ZTNjZTZiOTM4Mjk2NDI1YmFjNWJkMTE3NWU3OTkzZjNiIiwidGFnIjoiIn0%3D",
       "domain": "vivementle9juin.fr",
       "path": "/",
-      "expires": 1731207915.915386,
+      "expires": 1731812902.203356,
       "size": 352,
       "httpOnly": false,
       "secure": true,
@@ -555,11 +431,11 @@
     "cache-control": "max-age=0, must-revalidate, no-cache, no-store, private",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 10 Nov 2024 01:05:15 GMT",
+    "date": "Sun, 17 Nov 2024 01:08:22 GMT",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
     "pragma": "no-cache",
     "server": "nginx",
-    "set-cookie": "XSRF-TOKEN=eyJpdiI6IlVjRkZYY3JxNmV2d0xnVk9DZFBYeGc9PSIsInZhbHVlIjoicXFMdzBxUHpwSXR2Ukc0MzlYT01vQ0lvdnZBa3R3N2RReGZTUGpHRTR3MCtTUFB4cGR3ekJoNm82aDcyYTRHejVNMTJGOFlFVWZPZXRTRTcvMnJsQXJ1TmlybTlRK09RQ1NQOUk0R2F0NUpIRExZWFJuR1NFNkE3SW1PcGlnVlIiLCJtYWMiOiJiNmZkZjE4OTk0NDMxODcxOGYwNTM1N2Y3YzY2ZWFjMmE1Zjc4MWJmNWMwNzExOWMxYWUzYTM5MGM5NDQyNjQ1IiwidGFnIjoiIn0%3D; expires=Sun, 10 Nov 2024 03:05:15 GMT; Max-Age=7200; path=/; secure; samesite=lax\nv9j_session=eyJpdiI6IlBNaXlwSkpXSWVxand5cWpPUkg1K0E9PSIsInZhbHVlIjoiY25FYit2T2hmK1gvTWRaUThVVXpXVk1DL0tBeTJyL01sYVhVWXpwQzVKak5SREZkOVZuZ2tZUkI4bzVCeGxNWWcxMHlHRUVPSHI0eGlMN0dqckwzcEFaSHRhVUdoQi8zZ1M0RHJLU1NwQjNSbDVOc1pNRmNxa2NuaUd5Rk1kVWciLCJtYWMiOiJjZmFlOWZmNDdlOGUzZjI1ZmIxMTMxNDliOWQyMDdiOWVmZTU0Nzc2YjdhOGRjMGZiMWQ5OWFmYTM4NDg5NjhjIiwidGFnIjoiIn0%3D; expires=Sun, 10 Nov 2024 03:05:15 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
+    "set-cookie": "XSRF-TOKEN=eyJpdiI6IjFMS0RaM1Y1SjhhS29vSWt2WUloTHc9PSIsInZhbHVlIjoiR1VLSGhGNEZiNXRUK0p4L09pOTZvb2IxQ0lVdzE0MnBsN1NJRU5YOUtKeEY3MS9NMDBqOTh6VTV3YXJTbjlmWU5PUFc2UHQyZWVWbzY3eG1LUk44cjVOK2YyZzdnTlhLeW9vTTRPZUM3bisxM3o2WEVQT0wzTy9UQVVYVUw5UXoiLCJtYWMiOiIzNDMxYmJiYWJmODg0ZTZkYTdiNjEzMjBjYzQ4ODk4ZTNjZTZiOTM4Mjk2NDI1YmFjNWJkMTE3NWU3OTkzZjNiIiwidGFnIjoiIn0%3D; expires=Sun, 17 Nov 2024 03:08:22 GMT; Max-Age=7200; path=/; secure; samesite=lax\nv9j_session=eyJpdiI6ImM3NkZyeWcvT1ZYQUpPT2xCcnBpQ2c9PSIsInZhbHVlIjoiOElwbjlGbW96WEp1TDd2WjdrNlRQc1RMMkJOcWg3Y2hocUtUUWIwRTIxdkQrSkZUWHB0L2dZUHk4Y2o5cUI1eGtlWVY0b0I1NXBLT20vRis4M0RpMUpNM0FCWEZTRVdEZzJtajZkS0NkZ2tMWnNNTlNHRFkyNHh4R082SnZpMU4iLCJtYWMiOiI5Y2ZhZDM2NWVhYWQ0NjdjY2Y1YzdlNDExODQwNjdhYTcyN2RhNDQwYmNkMDhjODRiZjlmMjI2ZjdmYjlhYmYyIiwidGFnIjoiIn0%3D; expires=Sun, 17 Nov 2024 03:08:22 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
     "x-powered-by": "PHP/8.2.25\nPleskLin"
   },
   "endpoints": [
@@ -621,7 +497,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.248.203",
+      "ip": "104.17.246.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -728,7 +604,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.10",
+      "ip": "142.251.163.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -802,7 +678,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.72.168",
+      "ip": "64.233.180.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -944,7 +820,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.217.12.131",
+      "ip": "64.233.180.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -998,7 +874,7 @@
     },
     {
       "hostname": "www.facebook.com",
-      "ip": "31.13.66.35",
+      "ip": "157.240.229.35",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -1052,18 +928,17 @@
           "code": "20149"
         },
         "registered_country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "subdivisions": [
@@ -1086,7 +961,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "172.217.14.78",
+      "ip": "142.250.31.136",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1227,7 +1102,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "172.217.12.142",
+      "ip": "142.251.111.101",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1281,7 +1156,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.250.188.226",
+      "ip": "172.253.122.155",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1335,7 +1210,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "142.251.40.38",
+      "ip": "142.251.167.149",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1388,96 +1263,8 @@
       }
     },
     {
-      "hostname": "static.xx.fbcdn.net",
-      "ip": "31.13.66.19",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
-          "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "142.250.72.170",
+      "ip": "172.253.62.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1531,7 +1318,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.217.14.68",
+      "ip": "142.251.111.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1585,7 +1372,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "172.217.12.150",
+      "ip": "142.251.16.119",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1639,7 +1426,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.250.217.129",
+      "ip": "142.251.16.132",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1693,7 +1480,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.176.3",
+      "ip": "142.250.31.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1747,7 +1534,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "142.250.68.46",
+      "ip": "142.251.179.101",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1797,268 +1584,6 @@
             "zh-CN": "美国"
           }
         }
-      }
-    },
-    {
-      "hostname": "scontent-iad3-1.xx.fbcdn.net",
-      "ip": "31.13.66.19",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
-          "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "video-iad3-2.xx.fbcdn.net",
-      "ip": "157.240.229.2",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "scontent-iad3-2.xx.fbcdn.net",
-      "ip": "157.240.229.1",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
       }
     }
   ]
