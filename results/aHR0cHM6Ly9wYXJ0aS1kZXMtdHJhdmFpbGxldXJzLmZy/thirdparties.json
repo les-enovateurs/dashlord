@@ -10,10 +10,18 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://stats.wp.com/e-202446.js",
+      "url": "https://stats.wp.com/e-202447.js",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/api/js?v=quarterly&language=fr&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&callback=__wpgmzaMapEngineLoadedCallback&libraries=geometry%2Cplaces%2Cvisualization%2Cmarker&ver=6.7.1",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
       }
     },
     {
@@ -22,7 +30,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202446",
+      "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202447",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -34,7 +42,23 @@
     },
     {
       "type": "Wordpress",
+      "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/11/Capture-decran-2024-11-18-a-09.27.20.png?resize=918%2C478&ssl=1",
+      "details": {
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "Wordpress",
       "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/04/appel-bn-octobre-2024.jpg?fit=800%2C423&ssl=1",
+      "details": {
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "Wordpress",
+      "url": "https://pixel.wp.com/g.gif?v=ext&blog=153095301&post=44&tz=1&srv=parti-des-travailleurs.fr&hp=atomic&ac=2&amp=0&j=1%3A14.1-a.3&host=parti-des-travailleurs.fr&ref=&fcp=982&rand=0.43981223730984675",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -97,16 +121,16 @@
       }
     },
     {
-      "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?v=ext&blog=153095301&post=44&tz=1&srv=parti-des-travailleurs.fr&hp=atomic&ac=2&amp=0&j=1%3A14.1-a.2&host=parti-des-travailleurs.fr&ref=&fcp=427&rand=0.5983249463829026",
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
       "details": {
-        "id": "Wordpress",
-        "message": "Use hosted Matomo instance"
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
       }
     },
     {
       "type": "Wordpress",
-      "url": "https://widgets.wp.com/likes/master.html?ver=20241116",
+      "url": "https://widgets.wp.com/likes/master.html?ver=20241123",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -118,7 +142,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?v=wpcom-no-pv&x_sharing-count-request=pinterest&r=0.3967720898480094",
+      "url": "https://pixel.wp.com/g.gif?v=wpcom-no-pv&x_sharing-count-request=pinterest&r=0.2562956378496499",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -141,8 +165,24 @@
       }
     },
     {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/intl/fr_ALL/map.js",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://public-api.wordpress.com/wp-admin/rest-proxy/"
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i8010&2i5435&2e1&3u6&4m2&1u580&2u400&5m6&1e0&5sfr&6sus&10b1&12b1&14i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=26361",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
     },
     {
       "type": "Wordpress",
@@ -158,7 +198,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://widgets.wp.com/likes/?ver=14.1-a.2",
+      "url": "https://widgets.wp.com/likes/?ver=14.1-a.3",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -174,7 +214,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://widgets.wp.com/languages/fr-v1.1.json?ver=20241116",
+      "url": "https://widgets.wp.com/languages/fr-v1.1.json?ver=20241123",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -182,7 +222,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://pixel.wp.com/boom.gif?bilmur=1&cumulative_layout_shift=0.232&largest_contentful_paint=785&batcache_hit=0&provider=wordpress.com&service=atomic&custom_properties=%7B%22woo_active%22%3A%220%22%7D&effective_connection_type=4g&rtt=0&downlink=9800&host_name=parti-des-travailleurs.fr&url_path=%2F&nt_fetchStart=0&nt_domainLookupStart=12&nt_domainLookupEnd=97&nt_connectStart=97&nt_connectEnd=126&nt_secureConnectionStart=98&nt_requestStart=126&nt_responseStart=128&nt_responseEnd=129&nt_domLoading=133&nt_domInteractive=621&nt_domContentLoadedEventStart=622&nt_domContentLoadedEventEnd=625&nt_domComplete=734&nt_loadEventStart=734&nt_loadEventEnd=735&nt_redirectCount=0&nt_nextHopProtocol=h2&nt_api_level=2&start_render=427&first_contentful_paint=427&resource_size=977132&resource_transferred=504909&resource_cache_percent=0&js_size=211601&js_transferred=76851&js_cache_percent=0&blocking_size=0&blocking_transferred=0&last_resource_end=1110",
+      "url": "https://pixel.wp.com/boom.gif?bilmur=1&cumulative_layout_shift=0.018&largest_contentful_paint=1729&batcache_hit=1&provider=wordpress.com&service=atomic&custom_properties=%7B%22woo_active%22%3A%220%22%7D&effective_connection_type=4g&rtt=0&downlink=10000&host_name=parti-des-travailleurs.fr&url_path=%2F&nt_fetchStart=0&nt_domainLookupStart=9&nt_domainLookupEnd=35&nt_connectStart=35&nt_connectEnd=263&nt_secureConnectionStart=40&nt_requestStart=264&nt_responseStart=270&nt_responseEnd=276&nt_domLoading=274&nt_domInteractive=1715&nt_domContentLoadedEventStart=1716&nt_domContentLoadedEventEnd=1719&nt_domComplete=1927&nt_loadEventStart=1927&nt_loadEventEnd=1928&nt_redirectCount=0&nt_nextHopProtocol=h2&nt_api_level=2&start_render=982&first_contentful_paint=982&resource_size=3707184&resource_transferred=1683636&resource_cache_percent=0&js_size=2186138&js_transferred=615046&js_cache_percent=0&blocking_size=0&blocking_transferred=0&last_resource_end=2383",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -192,16 +232,19 @@
   "cookies": [],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=229, must-revalidate",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 17 Nov 2024 01:44:04 GMT",
+    "date": "Sun, 24 Nov 2024 01:46:11 GMT",
     "host-header": "WordPress.com",
+    "last-modified": "Sat, 23 Nov 2024 03:12:35 GMT",
     "link": "<https://parti-des-travailleurs.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://parti-des-travailleurs.fr/wp-json/wp/v2/pages/44>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://wp.me/Pamn53-I>; rel=shortlink",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\naccept, content-type, cookie",
-    "x-ac": "5.dca _atomic_dca STALE",
-    "x-hacker": "Want root?  Visit join.a8c.com and mention this header."
+    "x-ac": "4.dca _atomic_dca STALE",
+    "x-hacker": "Want root?  Visit join.a8c.com and mention this header.",
+    "x-nananana": "Batcache-Hit"
   },
   "endpoints": [
     {
@@ -466,8 +509,62 @@
       }
     },
     {
+      "hostname": "maps.googleapis.com",
+      "ip": "142.251.111.95",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "latribunedestravailleurs.files.wordpress.com",
-      "ip": "192.0.72.29",
+      "ip": "192.0.72.28",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -641,7 +738,7 @@
     },
     {
       "hostname": "latribunedestravailleurs.fr",
-      "ip": "192.0.78.176",
+      "ip": "192.0.78.222",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -1075,7 +1172,7 @@
     },
     {
       "hostname": "public-api.wordpress.com",
-      "ip": "192.0.78.23",
+      "ip": "192.0.78.22",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
