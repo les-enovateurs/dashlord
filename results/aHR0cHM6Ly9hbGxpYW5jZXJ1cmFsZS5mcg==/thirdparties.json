@@ -34,14 +34,6 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/bebasneue/v14/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2",
       "details": {
         "id": "google fonts",
@@ -59,6 +51,14 @@
     {
       "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/bebasneue/v14/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -213,11 +213,11 @@
   "headers": {
     "cache-control": "max-age=0",
     "content-encoding": "gzip",
-    "content-length": "29007",
+    "content-length": "27672",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 17 Nov 2024 01:57:08 GMT",
-    "expires": "Sun, 17 Nov 2024 01:57:08 GMT",
-    "last-modified": "Sat, 16 Nov 2024 18:05:18 GMT",
+    "date": "Sun, 24 Nov 2024 02:02:24 GMT",
+    "expires": "Sun, 24 Nov 2024 02:02:24 GMT",
+    "last-modified": "Sat, 23 Nov 2024 17:43:45 GMT",
     "server": "Apache",
     "vary": "Accept-Encoding"
   },
@@ -321,7 +321,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.40.42",
+      "ip": "172.253.62.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -481,7 +481,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.189.3",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -535,7 +535,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.250.72.246",
+      "ip": "142.251.167.119",
       "geoip": {
         "continent": {
           "code": "NA",
