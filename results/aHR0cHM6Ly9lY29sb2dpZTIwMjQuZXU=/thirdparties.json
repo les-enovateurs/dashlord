@@ -74,11 +74,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHpv4kjgoGqM7EPCw.ttf"
+      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHpv4kjgoGqM7E_DMs5ynghnQ.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3q-0c4A.ttf"
+      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s51ostz0rdg.woff2"
     },
     {
       "type": "unknown",
@@ -98,19 +98,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHpv4kjgoGqM7EPCw.ttf"
+      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHpv4kjgoGqM7E_DMs5ynghnQ.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3q-0c4A.ttf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://ca.ecologie2024.eu/theme/asset/ddd80fd6-72d9-4b2f-90f4-e05781bc2b6a/theme-asset/bd076c54-836b-40f0-ab83-ddb787e7686f.woff2"
+      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s51ostz0rdg.woff2"
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/b/22755d9a86c9/api.js",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/e4025c85ea63/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -118,81 +114,85 @@
     },
     {
       "type": "unknown",
-      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf"
+      "url": "https://ca.ecologie2024.eu/theme/asset/ddd80fd6-72d9-4b2f-90f4-e05781bc2b6a/theme-asset/bd076c54-836b-40f0-ab83-ddb787e7686f.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf"
+      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51ostz0rdg.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://fonts.citipo.com/fonts/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51ostz0rdg.woff2"
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube-nocookie.com/s/player/89dfc5b3/www-player.css",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube-nocookie.com/s/player/89dfc5b3/player_ias.vflset/en_US/embed.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube-nocookie.com/s/player/89dfc5b3/www-embed-player.vflset/www-embed-player.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube-nocookie.com/s/player/89dfc5b3/player_ias.vflset/en_US/base.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
     },
     {
       "type": "unknown",
       "url": "https://cdn.popupsmart.com/accounts/779418/loader.json"
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/0ccfa671/www-player.css",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/0ccfa671/player_ias.vflset/en_US/embed.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/0ccfa671/www-embed-player.vflset/www-embed-player.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/0ccfa671/player_ias.vflset/en_US/base.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "google",
       "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
       "details": {
@@ -210,7 +210,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/s/player/0ccfa671/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube-nocookie.com/s/player/89dfc5b3/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -218,7 +218,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/H727kPBewJABYFaHhGp5qPAutiJrsftypuAoAM3hcGY.js",
+      "url": "https://www.google.com/js/th/FaW0q-y8JjmoU9T0UDvbGph-S7KEa5MvRd-6bYW3ujg.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -242,6 +242,14 @@
     },
     {
       "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
       "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
       "details": {
         "id": "google",
@@ -266,7 +274,7 @@
     },
     {
       "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -278,6 +286,22 @@
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube-nocookie.com/generate_204?NxEyBg",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
@@ -290,31 +314,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://sa.ecologie2024.eu/simple.gif?version=custom_latest_11&hostname=ecologie2024.eu&bot=true&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F103.0.5058.0%20Safari%2F537.36&https=true&timezone=UTC&page_id=d734ccae-6f0d-41a1-8292-fd73b7d99cec&session_id=1c0226eb-2a8f-4c35-870d-3dbf340079f4&sri=false&mobile=false&brands=%5B%5D&os_name=&os_version=&path=%2F&viewport_width=800&viewport_height=600&language=en-US&screen_width=800&screen_height=600&unique=true&id=d734ccae-6f0d-41a1-8292-fd73b7d99cec&type=pageview&time=1731805789708"
-    },
-    {
-      "type": "google",
-      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube-nocookie.com/generate_204?Xa3Ifw",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
+      "url": "https://sa.ecologie2024.eu/simple.gif?version=custom_latest_11&hostname=ecologie2024.eu&bot=true&ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F103.0.5058.0%20Safari%2F537.36&https=true&timezone=UTC&page_id=47ee243d-fd49-4a2c-9324-53b0deed18fe&session_id=09ebd410-8d89-4deb-be45-999145097cee&sri=false&mobile=false&brands=%5B%5D&os_name=&os_version=&path=%2F&viewport_width=800&viewport_height=600&language=en-US&screen_width=800&screen_height=600&unique=true&id=47ee243d-fd49-4a2c-9324-53b0deed18fe&type=pageview&time=1732410624845"
     },
     {
       "type": "youtube",
@@ -327,18 +327,19 @@
   ],
   "cookies": [],
   "headers": {
+    "age": "3827",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "private, max-age=14400",
-    "cf-cache-status": "EXPIRED",
-    "cf-ray": "8e3bd6615c3ed6cf-IAD",
+    "cf-cache-status": "HIT",
+    "cf-ray": "8e7584d94bd69651-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 17 Nov 2024 01:09:48 GMT",
-    "last-modified": "Sun, 17 Nov 2024 01:09:48 GMT",
+    "date": "Sun, 24 Nov 2024 01:10:22 GMT",
+    "last-modified": "Sun, 24 Nov 2024 00:06:35 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=XkG1pn%2Fyst1w%2Bnz2BcnCPlYLX6leH8gaRmhIGu2Zt4WxXJIjrG6ehx%2F7ebGPhoCnoClDAlXKaUX%2BeDWpyPwW8YzvOYFfNottBhkuEjQ3mmS1NpI6b1PV%2BbiLH9VWSKW7VVU%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=cAoYRwntrqRpjwwXENycmpwQS6QxMKAeZHi5NXVoLGv98uVpxPRQMKl2WbAC1T1O%2FYqB7I1Qy8DJDAA4mmHKBzb9izFC5jgsVZvzIIXLmTiMoODS6DqKyXwOfMaYjX4x%2Fec%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
-    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=5896&sent=6&recv=9&lost=0&retrans=0&sent_bytes=2821&recv_bytes=1058&delivery_rate=2543187&cwnd=253&unsent_bytes=0&cid=9d1bb578e38444ae&ts=405&x=0\"",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=1804&sent=6&recv=10&lost=0&retrans=0&sent_bytes=2834&recv_bytes=1058&delivery_rate=1738283&cwnd=253&unsent_bytes=0&cid=f842a0d67092fe7f&ts=141&x=0\"",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-xss-protection": "1; mode=block"
@@ -346,7 +347,7 @@
   "endpoints": [
     {
       "hostname": "ecologie2024.eu",
-      "ip": "104.21.52.158",
+      "ip": "172.67.201.37",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -426,7 +427,7 @@
     },
     {
       "hostname": "challenges.cloudflare.com",
-      "ip": "104.18.94.41",
+      "ip": "104.18.95.41",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -466,7 +467,7 @@
     },
     {
       "hostname": "content.citipo.com",
-      "ip": "172.67.201.22",
+      "ip": "104.21.60.200",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -486,7 +487,7 @@
     },
     {
       "hostname": "cdn.popupsmart.com",
-      "ip": "104.26.6.46",
+      "ip": "104.26.7.46",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -562,7 +563,7 @@
     },
     {
       "hostname": "www.youtube-nocookie.com",
-      "ip": "142.251.179.93",
+      "ip": "142.250.72.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -616,7 +617,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.63.94",
+      "ip": "142.250.189.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -670,7 +671,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "172.253.63.95",
+      "ip": "142.251.214.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -724,7 +725,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.253.115.104",
+      "ip": "142.250.191.68",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -778,7 +779,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.251.167.119",
+      "ip": "142.250.191.86",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -832,7 +833,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.251.179.132",
+      "ip": "142.251.46.193",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -886,7 +887,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "142.251.163.101",
+      "ip": "142.251.46.174",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -940,7 +941,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.179.94",
+      "ip": "142.250.189.195",
       "geoip": {
         "continent": {
           "code": "NA",
