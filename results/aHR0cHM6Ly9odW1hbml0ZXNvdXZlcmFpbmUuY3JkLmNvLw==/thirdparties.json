@@ -61,11 +61,11 @@
   "headers": {
     "cache-control": "max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8e757c63be4d6446-SJC",
+    "cf-ray": "8eaf34f43ecd636e-ORD",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 24 Nov 2024 01:04:36 GMT",
-    "expires": "Sun, 24 Nov 2024 01:04:36 GMT",
+    "date": "Sun, 01 Dec 2024 01:12:04 GMT",
+    "expires": "Sun, 01 Dec 2024 01:12:04 GMT",
     "last-modified": "Sun, 26 May 2024 16:31:33 GMT",
     "server": "cloudflare",
     "vary": "Accept-Encoding"
@@ -93,7 +93,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.234",
+      "ip": "142.250.190.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -147,7 +147,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.46.195",
+      "ip": "172.217.4.67",
       "geoip": {
         "continent": {
           "code": "NA",
