@@ -66,7 +66,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/istokweb/v24/3qTvojGmgSyUukBzKslpBmt_.woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -74,7 +74,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "url": "https://fonts.gstatic.com/s/istokweb/v24/3qTvojGmgSyUukBzKslpBmt_.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -118,7 +118,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&cb=tllli4kozcqx",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-pacZAAAAADTozgJ1l5DMNkxt0AGDKDRTT_DG&co=aHR0cHM6Ly9wYXJ0aS1hbmltYWxpc3RlLmZyOjQ0Mw..&hl=en&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&cb=1jaq7y95eu8f",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -202,7 +202,7 @@
     },
     {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/cm?uuid=1cd04888-a1e2-4901-a07a-44fa152c6986&key=80eu5gkacj34r0zg08xytfw5&cuid=53c66006-65b3-4fe9-a637-f1e199c794bc",
+      "url": "https://in-automate.brevo.com/cm?uuid=9b5101a8-968b-437e-9bfe-ac4cf075ceee&key=80eu5gkacj34r0zg08xytfw5&cuid=4ce9bb30-da51-4b41-bcdb-74a5182685d1",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -210,7 +210,7 @@
     },
     {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=80eu5gkacj34r0zg08xytfw5&cuid=53c66006-65b3-4fe9-a637-f1e199c794bc&ma_url=https%3A%2F%2Fparti-animaliste.fr%2F&sib_type=page&ma_title=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&sib_name=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&ma_referrer=&ma_path=%2F",
+      "url": "https://in-automate.brevo.com/p?key=80eu5gkacj34r0zg08xytfw5&cuid=4ce9bb30-da51-4b41-bcdb-74a5182685d1&ma_url=https%3A%2F%2Fparti-animaliste.fr%2F&sib_type=page&ma_title=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&sib_name=Parti%20animaliste%20-%20Les%20animaux%20comptent%2C%20votre%20voix%20aussi&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -239,7 +239,7 @@
       "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1732412582,
+      "expires": 1733017678,
       "size": 70,
       "httpOnly": false,
       "secure": false,
@@ -250,7 +250,7 @@
     },
     {
       "name": "sbjs_current_add",
-      "value": "fd%3D2024-11-24%2001%3A13%3A02%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-12-01%2001%3A17%3A58%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -292,7 +292,7 @@
     },
     {
       "name": "sbjs_first_add",
-      "value": "fd%3D2024-11-24%2001%3A13%3A02%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-12-01%2001%3A17%3A58%7C%7C%7Cep%3Dhttps%3A%2F%2Fparti-animaliste.fr%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".parti-animaliste.fr",
       "path": "/",
       "expires": -1,
@@ -320,10 +320,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "53c66006-65b3-4fe9-a637-f1e199c794bc",
+      "value": "4ce9bb30-da51-4b41-bcdb-74a5182685d1",
       "domain": ".parti-animaliste.fr",
       "path": "/",
-      "expires": 1748131983,
+      "expires": 1748737079,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -349,21 +349,22 @@
   ],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "cache-control": "max-age=1861, public",
+    "cache-control": "max-age=3600, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8e7588b12972c948-IAD",
+    "cf-ray": "8eaf3d80ba45cef7-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 24 Nov 2024 01:13:00 GMT",
-    "expires": "Sun, 24 Nov 2024 01:44:01 GMT",
-    "last-modified": "Sun, 24 Nov 2024 00:44:01 GMT",
+    "date": "Sun, 01 Dec 2024 01:17:56 GMT",
+    "expires": "Sun, 01 Dec 2024 02:17:56 GMT",
+    "last-modified": "Sun, 01 Dec 2024 01:17:56 GMT",
+    "link": "<https://parti-animaliste.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://parti-animaliste.fr/wp-json/wp/v2/pages/2587>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://parti-animaliste.fr/>; rel=shortlink",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "pragma": "public",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=SXpNywljmUWSjlLTBWJarI7mMH3y3knJWznovj50ClEx1gU5K1fPT6rBSEOciP3lvlZAVVQBhg%2BmcVsMdoQWaEvrtjSXkMCSftZnNj%2FlDypgMz2fe6Tka8uHDZ45RNo6Wod1HqZP\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Stz40270WaOhiUHw5SbZoh6S5%2FUZhjk3RFYxr3DGO%2FPCp2HC%2FQtDKzv6CE%2BoC85p1buuNaf3dQVUCzjhmS%2Bz%2BcCvedq%2FGLEHyzcSkYd5tbvGsfuzxHL9V%2BmgzoxlGeKPIC4akgIE\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
-    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=5185&sent=6&recv=9&lost=0&retrans=0&sent_bytes=2862&recv_bytes=1061&delivery_rate=539886&cwnd=246&unsent_bytes=0&cid=0b2f10e63b7c829d&ts=372&x=0\"",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=2571&min_rtt=2441&rtt_var=635&sent=6&recv=10&lost=0&retrans=0&sent_bytes=2864&recv_bytes=1061&delivery_rate=1151612&cwnd=253&unsent_bytes=0&cid=d7fd6fe89de8e4af&ts=1719&x=0\"",
     "vary": "Accept-Encoding",
-    "x-powered-by": "PHP/8.1.30"
+    "x-powered-by": "PHP/8.1.31"
   },
   "endpoints": [
     {
@@ -388,7 +389,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.179.95",
+      "ip": "142.250.191.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -442,7 +443,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.16.147",
+      "ip": "142.250.190.36",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -496,7 +497,7 @@
     },
     {
       "hostname": "cdn.brevo.com",
-      "ip": "104.18.37.40",
+      "ip": "172.64.150.216",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -516,7 +517,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.167.94",
+      "ip": "142.250.191.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -570,7 +571,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.179.94",
+      "ip": "142.250.190.35",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -624,7 +625,7 @@
     },
     {
       "hostname": "sibautomation.com",
-      "ip": "172.64.148.115",
+      "ip": "104.18.39.141",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
