@@ -10,7 +10,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://stats.wp.com/e-202447.js",
+      "url": "https://stats.wp.com/e-202448.js",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -30,7 +30,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202447",
+      "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202448",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -42,7 +42,39 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/11/Capture-decran-2024-11-18-a-09.27.20.png?resize=918%2C478&ssl=1",
+      "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/11/ALERTE-6.png?resize=918%2C132&ssl=1",
+      "details": {
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "Wordpress",
+      "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/11/ALERTE.png?resize=918%2C132&ssl=1",
+      "details": {
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "Wordpress",
+      "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/11/ALERTE-1.png?resize=918%2C132&ssl=1",
+      "details": {
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "Wordpress",
+      "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/11/ALERTE-5.png?resize=918%2C132&ssl=1",
+      "details": {
+        "id": "Wordpress",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "Wordpress",
+      "url": "https://i0.wp.com/parti-des-travailleurs.fr/wp-content/uploads/2024/11/VM.png?resize=918%2C516&ssl=1",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -58,7 +90,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?v=ext&blog=153095301&post=44&tz=1&srv=parti-des-travailleurs.fr&hp=atomic&ac=2&amp=0&j=1%3A14.1-a.3&host=parti-des-travailleurs.fr&ref=&fcp=982&rand=0.43981223730984675",
+      "url": "https://pixel.wp.com/g.gif?v=ext&blog=153095301&post=44&tz=1&srv=parti-des-travailleurs.fr&hp=atomic&ac=2&amp=0&j=1%3A14.1-a.7&host=parti-des-travailleurs.fr&ref=&fcp=925&rand=0.43705872913419497",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -130,7 +162,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://widgets.wp.com/likes/master.html?ver=20241123",
+      "url": "https://widgets.wp.com/likes/master.html?ver=20241201",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -142,7 +174,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?v=wpcom-no-pv&x_sharing-count-request=pinterest&r=0.2562956378496499",
+      "url": "https://pixel.wp.com/g.gif?v=wpcom-no-pv&x_sharing-count-request=pinterest&r=0.09185495636695906",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -178,7 +210,31 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i8010&2i5435&2e1&3u6&4m2&1u580&2u400&5m6&1e0&5sfr&6sus&10b1&12b1&14i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=26361",
+      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i3851&2i2679&2e1&3u5&4m2&1u580&2u400&5m6&1e0&5sfr&6sus&10b1&12b1&14i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=89791",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/intl/fr_ALL/onion.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -197,8 +253,96 @@
       "url": "https://public-api.wordpress.com/rest/v1/batch?http_envelope=1&urls[]=/me&urls[]=/sites/153095301/posts/46854/likes?chronological=true&urls[]=/sites/153095301/posts/46854/reblogs/mine"
     },
     {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i16!3i11!4i256!2m3!1e0!2sm!3i714466851!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=119298",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i15!3i11!4i256!2m3!1e0!2sm!3i714466851!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=66931",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i15!3i10!4i256!2m3!1e0!2sm!3i714466851!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=69412",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i16!3i10!4i256!2m3!1e0!2sm!3i714466851!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=121779",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i17!3i10!4i256!2m3!1e0!2sm!3i714466887!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=105031",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i17!3i11!4i256!2m3!1e0!2sm!3i714466851!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=40594",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i17!3i12!4i256!2m3!1e0!2sm!3i714466851!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=38113",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i16!3i12!4i256!2m3!1e0!2sm!3i714466851!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=116817",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i5!2i15!3i12!4i256!2m3!1e0!2sm!3i714466803!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=13807",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i5!2i15!3i10!1m4!1m3!1i5!2i15!3i11!1m4!1m3!1i5!2i15!3i12!1m4!1m3!1i5!2i16!3i10!1m4!1m3!1i5!2i16!3i11!1m4!1m3!1i5!2i17!3i10!1m4!1m3!1i5!2i17!3i11!1m4!1m3!1i5!2i16!3i12!1m4!1m3!1i5!2i17!3i12!2m3!1e0!2sm!3i714467007!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1&callback=_xdc_._9relj&key=AIzaSyBysFk9ke8BPnK_3Q3-ZsOkQmf0alg1RhA&token=1300",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
       "type": "Wordpress",
-      "url": "https://widgets.wp.com/likes/?ver=14.1-a.3",
+      "url": "https://widgets.wp.com/likes/?ver=14.1-a.7",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -214,15 +358,111 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://widgets.wp.com/languages/fr-v1.1.json?ver=20241123",
+      "url": "https://widgets.wp.com/languages/fr-v1.1.json?ver=20241201",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
       }
     },
     {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/11a/intl/fr_ALL/controls.js",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text_old:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=fr",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans_old:400,500,700|Google+Sans+Text_old:400,500,700&lang=fr",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.gstatic.com/mapfiles/api-3/images/drag-cross.png",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "Wordpress",
-      "url": "https://pixel.wp.com/boom.gif?bilmur=1&cumulative_layout_shift=0.018&largest_contentful_paint=1729&batcache_hit=1&provider=wordpress.com&service=atomic&custom_properties=%7B%22woo_active%22%3A%220%22%7D&effective_connection_type=4g&rtt=0&downlink=10000&host_name=parti-des-travailleurs.fr&url_path=%2F&nt_fetchStart=0&nt_domainLookupStart=9&nt_domainLookupEnd=35&nt_connectStart=35&nt_connectEnd=263&nt_secureConnectionStart=40&nt_requestStart=264&nt_responseStart=270&nt_responseEnd=276&nt_domLoading=274&nt_domInteractive=1715&nt_domContentLoadedEventStart=1716&nt_domContentLoadedEventEnd=1719&nt_domComplete=1927&nt_loadEventStart=1927&nt_loadEventEnd=1928&nt_redirectCount=0&nt_nextHopProtocol=h2&nt_api_level=2&start_render=982&first_contentful_paint=982&resource_size=3707184&resource_transferred=1683636&resource_cache_percent=0&js_size=2186138&js_transferred=615046&js_cache_percent=0&blocking_size=0&blocking_transferred=0&last_resource_end=2383",
+      "url": "https://pixel.wp.com/boom.gif?bilmur=1&cumulative_layout_shift=0.114&largest_contentful_paint=1068&batcache_hit=0&provider=wordpress.com&service=atomic&custom_properties=%7B%22woo_active%22%3A%220%22%7D&effective_connection_type=4g&rtt=0&downlink=9600&host_name=parti-des-travailleurs.fr&url_path=%2F&nt_fetchStart=0&nt_domainLookupStart=13&nt_domainLookupEnd=35&nt_connectStart=35&nt_connectEnd=139&nt_secureConnectionStart=40&nt_requestStart=139&nt_responseStart=662&nt_responseEnd=667&nt_domLoading=666&nt_domInteractive=1310&nt_domContentLoadedEventStart=1310&nt_domContentLoadedEventEnd=1314&nt_domComplete=1536&nt_loadEventStart=1536&nt_loadEventEnd=1536&nt_redirectCount=0&nt_nextHopProtocol=h2&nt_api_level=2&start_render=925&first_contentful_paint=925&resource_size=3395213&resource_transferred=1373625&resource_cache_percent=0&js_size=2186138&js_transferred=615044&js_cache_percent=0&blocking_size=0&blocking_transferred=0&last_resource_end=2368",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -232,19 +472,19 @@
   "cookies": [],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "cache-control": "max-age=229, must-revalidate",
+    "cache-control": "max-age=300, must-revalidate",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 24 Nov 2024 01:46:11 GMT",
+    "date": "Sun, 01 Dec 2024 01:45:09 GMT",
     "host-header": "WordPress.com",
-    "last-modified": "Sat, 23 Nov 2024 03:12:35 GMT",
+    "last-modified": "Sun, 01 Dec 2024 01:45:09 GMT",
     "link": "<https://parti-des-travailleurs.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://parti-des-travailleurs.fr/wp-json/wp/v2/pages/44>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://wp.me/Pamn53-I>; rel=shortlink",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\naccept, content-type, cookie",
-    "x-ac": "4.dca _atomic_dca STALE",
+    "x-ac": "4.dca _atomic_dca MISS",
     "x-hacker": "Want root?  Visit join.a8c.com and mention this header.",
-    "x-nananana": "Batcache-Hit"
+    "x-nananana": "Batcache-Set"
   },
   "endpoints": [
     {
@@ -510,7 +750,7 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "142.251.111.95",
+      "ip": "172.253.63.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -564,7 +804,7 @@
     },
     {
       "hostname": "latribunedestravailleurs.files.wordpress.com",
-      "ip": "192.0.72.28",
+      "ip": "192.0.72.29",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -1086,18 +1326,19 @@
     },
     {
       "hostname": "api.pinterest.com",
-      "ip": "151.101.44.84",
+      "ip": "146.75.28.84",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 4744870,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -1130,13 +1371,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "10004"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1154,17 +1395,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -1172,7 +1413,7 @@
     },
     {
       "hostname": "public-api.wordpress.com",
-      "ip": "192.0.78.22",
+      "ip": "192.0.78.23",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -1255,6 +1496,168 @@
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "maps.gstatic.com",
+      "ip": "142.251.163.120",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "ip": "142.251.179.95",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "142.251.167.94",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     }
   ]
