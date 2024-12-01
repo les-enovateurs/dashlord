@@ -82,7 +82,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "url": "https://fonts.gstatic.com/s/archivo/v19/k3kPo8UDI-1M0wlSV9XAw6lQkqWY8Q82sLydOxI.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -90,7 +90,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/archivo/v19/k3kPo8UDI-1M0wlSV9XAw6lQkqWY8Q82sLydOxI.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecg.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -146,7 +146,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-77XF3MTEWR&gtm=45Pe4bk0v9181974141za200&_p=1732412402762&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067555~102067808~102077855~102081485&gdid=dZTNiMT&cid=1102794665.1732412403&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_s=1&sid=1732412403&sct=1&seg=0&dl=https%3A%2F%2Fchangerleurope.com%2F&dt=Accueil%20-%20Changer%20l%27Europe&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3662",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-77XF3MTEWR&gtm=45Pe4bk0v9181974141za200&_p=1733017279123&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067555~102067808~102077855~102081485&gdid=dZTNiMT&cid=1625031091.1733017279&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_s=1&sid=1733017279&sct=1&seg=0&dl=https%3A%2F%2Fchangerleurope.com%2F&dt=Accueil%20-%20Changer%20l%27Europe&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2846",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -162,7 +162,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=c9fe2f381a4168b9083b1d40e296791003053430",
+      "url": "https://syndication.twitter.com/settings?session_id=debfe94a5432c7b699ea0406e99f4176ce85e570",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -177,344 +177,8 @@
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1782409580078600417&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=c9fe2f381a4168b9083b1d40e296791003053430&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1794040426271220050&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=c9fe2f381a4168b9083b1d40e296791003053430&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-2&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1788606368233996770&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=c9fe2f381a4168b9083b1d40e296791003053430&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-3&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1791041762393198672&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=c9fe2f381a4168b9083b1d40e296791003053430&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-4&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1793642467247751389&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=c9fe2f381a4168b9083b1d40e296791003053430&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-5&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1792660350812160078&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=c9fe2f381a4168b9083b1d40e296791003053430&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdXD2gpAAAAAN0eX-cMVaao7hw7y_ObS_2FkwE8&co=aHR0cHM6Ly9jaGFuZ2VybGV1cm9wZS5jb206NDQz&hl=en&type=v3&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&badge=inline&sa=Form&cb=xwe3fxuxi7xp",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdXD2gpAAAAAN0eX-cMVaao7hw7y_ObS_2FkwE8&co=aHR0cHM6Ly9jaGFuZ2VybGV1cm9wZS5jb206NDQz&hl=en&type=v3&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&badge=inline&sa=Form&cb=uzjyeii79lu9",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -522,7 +186,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdXD2gpAAAAAN0eX-cMVaao7hw7y_ObS_2FkwE8&co=aHR0cHM6Ly9jaGFuZ2VybGV1cm9wZS5jb206NDQz&hl=en&type=v3&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&badge=inline&sa=Form&cb=fjpflm2cd1z3",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdXD2gpAAAAAN0eX-cMVaao7hw7y_ObS_2FkwE8&co=aHR0cHM6Ly9jaGFuZ2VybGV1cm9wZS5jb206NDQz&hl=en&type=v3&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&badge=inline&sa=Form&cb=kpw3p92okc05",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -538,7 +202,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1782409580078600417&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=debfe94a5432c7b699ea0406e99f4176ce85e570&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -546,7 +210,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1794040426271220050&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=debfe94a5432c7b699ea0406e99f4176ce85e570&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -554,7 +218,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-2&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1788606368233996770&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=debfe94a5432c7b699ea0406e99f4176ce85e570&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -562,7 +226,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-3&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1791041762393198672&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=debfe94a5432c7b699ea0406e99f4176ce85e570&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -570,7 +234,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-4&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1793642467247751389&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=debfe94a5432c7b699ea0406e99f4176ce85e570&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -578,58 +242,18 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-5&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1792660350812160078&lang=fr&origin=https%3A%2F%2Fchangerleurope.com%2F&sessionId=debfe94a5432c7b699ea0406e99f4176ce85e570&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/pPK749sccDmVW_9DSeTMVvh2/styles__ltr.css",
       "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -649,8 +273,544 @@
       }
     },
     {
+      "type": "google",
+      "url": "https://www.gstatic.com/recaptcha/releases/pPK749sccDmVW_9DSeTMVvh2/recaptcha__en.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/b46bb280/www-widgetapi.vflset/www-widgetapi.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.runtime.5c0ebab2383f6bc0454f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9449.78398904051446294e3d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.Tweet.a2329252a62e74ea6e7d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/js/bg/iAiRdCDiy8cN-zKQKtPuhk-yqRT1QyYi8vy1DA-caJo.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/js/bg/iAiRdCDiy8cN-zKQKtPuhk-yqRT1QyYi8vy1DA-caJo.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.749.467388cca0b3fe9c3291.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.i18n.fr-js.a70d58f3dba6538c8108.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.horizon-web.i18n.fr-js.9d35cf0ad9d16371806d.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=pPK749sccDmVW_9DSeTMVvh2",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/WYUDMrDbSGE?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fchangerleurope.com&widgetid=1",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=pPK749sccDmVW_9DSeTMVvh2",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9203.1b3edf1dee6d205547e0.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Tweet.2675382e57204df182a3.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/b46bb280/www-player.css",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/b46bb280/player_ias.vflset/en_US/embed.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/b46bb280/www-embed-player.vflset/www-embed-player.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/b46bb280/player_ias.vflset/en_US/base.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://cdn.syndication.twimg.com/tweet-result?667191=1308aibn1l0a&features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1782409580078600417&lang=fr&token=4bjlrvj2tio&fzpscz=19qp28g3g0wq&wm5zn6=136jb82djuwoo&l4rcqm=rh11285t5b3&f6uvzg=96n8hsyed6j5&fdjvwz=1nr8zoal7wik&j018su=gqhg8v2bilw&epe3nh=1hf6wg82k4z&9ij5is=3qijl78sph64&2ukdnx=1g98taxyl1qhk",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1794040426271220050&lang=fr&token=4ck56wvyi1w&u3g1xg=3crhd28uthfs&ky841e=1fx88wxdfsrof&seyf0l=4s8scq2r6afc&40owfy=1afdv8kghnf6&5xpvnr=zz8a8xf0u92&bf33f6=5yhr8tqfnozh&zqe3cn=ggee68gi26f",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1788606368233996770&lang=fr&token=4c32m4gt92v&591j0l=i7gxj876rfks&6u6czl=exg3jx8sggui&ajovll=nz8xrmdrvg4j&u9r7md=i5v8yc2bdtiv&1ee5ml=4g87yphlxbmo&eo8tjj=7mp8qeu9r0n9&nm7mm0=4fj68hug7yy3&l7nbm9=42e23hx80blq",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
       "type": "twitter",
       "url": "https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1793642467247751389&lang=fr&token=4ciw6mdsvcr&2z18fw=1kj8r2n5mckpf&smp842=1cl8v7rsjxl5&8juh5l=aiyc48rid9c5&n3l55w=8r2re8vuaxrp&xuyqij=3q3x8gzo3nvv&3k11jk=268jflo5t1gs",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1792660350812160078&lang=fr&token=4cft3xi651z&ddz1nx=4fjp8cfh3otj&u824p4=19iai8jmsws4&0ivm8d=1vw85q68uxzk&sxosnx=hahmx8ytv75v&t8pupu=gso83frhtp8r",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -666,42 +826,178 @@
     },
     {
       "type": "twitter",
-      "url": "https://cdn.syndication.twimg.com/tweet-result?667191=1308aibn1l0a&features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1782409580078600417&lang=fr&token=4bjlrvj2tio&fzpscz=19qp28g3g0wq&wm5zn6=136jb82djuwoo&l4rcqm=rh11285t5b3&f6uvzg=96n8hsyed6j5&fdjvwz=1nr8zoal7wik&j018su=gqhg8v2bilw&epe3nh=1hf6wg82k4z&9ij5is=3qijl78sph64&2ukdnx=1g98taxyl1qhk",
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/270d.svg",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/pPK749sccDmVW_9DSeTMVvh2/recaptcha__en.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/www-widgetapi.vflset/www-widgetapi.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
       "type": "twitter",
-      "url": "https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1794040426271220050&lang=fr&token=4ck56wvyi1w&u3g1xg=3crhd28uthfs&ky841e=1fx88wxdfsrof&seyf0l=4s8scq2r6afc&40owfy=1afdv8kghnf6&5xpvnr=zz8a8xf0u92&bf33f6=5yhr8tqfnozh&zqe3cn=ggee68gi26f",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017280720%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-0%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221782409580078600417%22%5D%2C%22item_details%22%3A%7B%221782409580078600417%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
-      "type": "google",
-      "url": "https://www.google.com/js/bg/W8CPGdzYmlcjn--3_xeFmudIk8Wv0vupGU9Bdr5QE-g.js",
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.781.9426aa327bd715a3403f.js",
       "details": {
-        "id": "google",
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.8941.eb3528bd7a35a517bc8e.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.934.d08504f76b09b765fd18.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Card.2dd05ecf2636d77112cf.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f1ea-1f1fa.svg",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f333.svg",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017280760%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-1%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221794040426271220050%22%5D%2C%22item_details%22%3A%7B%221794040426271220050%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.781.9426aa327bd715a3403f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.9935.0a06559f8ea08705e4ac.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.5234.de598ecb99dd0f2cbdd5.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.8941.eb3528bd7a35a517bc8e.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.5332.340f0930f4dd862af95f.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.TweetVideo.771ed6b44ceaee1a46a6.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017280813%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "details": {
+        "id": "google analytics",
         "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4cd.svg",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017280888%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-4%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221793642467247751389%22%5D%2C%22item_details%22%3A%7B%221793642467247751389%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f525.svg",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017280929%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-5%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221792660350812160078%22%5D%2C%22item_details%22%3A%7B%221792660350812160078%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
@@ -762,130 +1058,10 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412404155%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017280972%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs-0.twimg.com/emoji/v2/svg/270d.svg",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412404199%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-0%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221782409580078600417%22%5D%2C%22item_details%22%3A%7B%221782409580078600417%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4cd.svg",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412404250%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-4%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221793642467247751389%22%5D%2C%22item_details%22%3A%7B%221793642467247751389%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=pPK749sccDmVW_9DSeTMVvh2",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1788606368233996770&lang=fr&token=4c32m4gt92v&591j0l=i7gxj876rfks&6u6czl=exg3jx8sggui&ajovll=nz8xrmdrvg4j&u9r7md=i5v8yc2bdtiv&1ee5ml=4g87yphlxbmo&eo8tjj=7mp8qeu9r0n9&nm7mm0=4fj68hug7yy3&l7nbm9=42e23hx80blq",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_fosnr_soft_interventions_enabled%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_show_birdwatch_pivots_enabled%3Aon%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_use_profile_image_shape_enabled%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_tweet_edit_frontend%3Aon&id=1792660350812160078&lang=fr&token=4cft3xi651z&ddz1nx=4fjp8cfh3otj&u824p4=19iai8jmsws4&0ivm8d=1vw85q68uxzk&sxosnx=hahmx8ytv75v&t8pupu=gso83frhtp8r",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.781.9426aa327bd715a3403f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.8941.eb3528bd7a35a517bc8e.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.934.d08504f76b09b765fd18.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Card.2dd05ecf2636d77112cf.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f1ea-1f1fa.svg",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f333.svg",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412404313%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-1%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221794040426271220050%22%5D%2C%22item_details%22%3A%7B%221794040426271220050%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/js/bg/W8CPGdzYmlcjn--3_xeFmudIk8Wv0vupGU9Bdr5QE-g.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -898,74 +1074,42 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=pPK749sccDmVW_9DSeTMVvh2",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.781.9426aa327bd715a3403f.js",
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
       "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.9935.0a06559f8ea08705e4ac.js",
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/b46bb280/player_ias.vflset/en_US/remote.js",
       "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.5234.de598ecb99dd0f2cbdd5.js",
+      "type": "google",
+      "url": "https://www.google.com/js/th/B7USFwsz_nMovXHWu4UwQRY0Qlt3iq-mQpCYnZ8jj34.js",
       "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.8941.eb3528bd7a35a517bc8e.js",
+      "type": "youtube",
+      "url": "https://i.ytimg.com/vi_webp/WYUDMrDbSGE/maxresdefault.webp",
       "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.5332.340f0930f4dd862af95f.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.TweetVideo.771ed6b44ceaee1a46a6.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412404435%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/profile_images/1775136514143342592/8NVyMWYo_normal.jpg",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
@@ -978,15 +1122,31 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs-0.twimg.com/emoji/v2/svg/1f525.svg",
+      "url": "https://pbs.twimg.com/profile_images/1780605787422797824/euGRJMVH_normal.jpg",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
+      "type": "youtube",
+      "url": "https://yt3.ggpht.com/NcSAqMQRw5mNwXWnzpdxvHhM0eQPLlLW6r-S2yplEL50CvZYOsKRb6w0Nt1OQ6wu3Y1L2eleAqY=s68-c-k-c0x00ffffff-no-rj",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412404538%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22results%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-5%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221792660350812160078%22%5D%2C%22item_details%22%3A%7B%221792660350812160078%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "url": "https://pbs.twimg.com/profile_images/1775136514143342592/8NVyMWYo_normal.jpg",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -1009,6 +1169,102 @@
       }
     },
     {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.ondemand.Dropdown.48c0959cdebdceefbdc6.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/embed/embed.loaders.video.VideoPlayerDefaultUI.a9c250b7e18e52734ae4.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/1788605834198446080/pu/img/YTRKK41IoJu70CJi.jpg",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281564%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22FCP%22%2C%22component%22%3A%22performance%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-0%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221782409580078600417%22%5D%2C%22item_details%22%3A%7B%221782409580078600417%22%3A%7B%22item_type%22%3A0%7D%7D%2C%22duration_ms%22%3A1587.3999999999942%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://video.twimg.com/ext_tw_video/1788605834198446080/pu/vid/avc1/1280x720/xBOoRr2QyjnpsGAy.mp4?tag=12",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281602%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22FCP%22%2C%22component%22%3A%22performance%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%2C%22duration_ms%22%3A1701.7000000000116%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
       "type": "twitter",
       "url": "https://platform.twitter.com/embed/embed.loaders.video.VideoPlayerDefaultUI.a9c250b7e18e52734ae4.js",
       "details": {
@@ -1025,294 +1281,6 @@
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/embed/WYUDMrDbSGE?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fchangerleurope.com&widgetid=1",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/embed/embed.ondemand.Dropdown.48c0959cdebdceefbdc6.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://video.twimg.com/ext_tw_video/1791041656650661888/pu/vid/avc1/720x1280/s7750mUQor_ffaJl.mp4?tag=12",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/ext_tw_video_thumb/1788605834198446080/pu/img/YTRKK41IoJu70CJi.jpg",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412404966%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22FCP%22%2C%22component%22%3A%22performance%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-0%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221782409580078600417%22%5D%2C%22item_details%22%3A%7B%221782409580078600417%22%3A%7B%22item_type%22%3A0%7D%7D%2C%22duration_ms%22%3A1513.4000000000233%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://video.twimg.com/ext_tw_video/1788605834198446080/pu/vid/avc1/1280x720/xBOoRr2QyjnpsGAy.mp4?tag=12",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/www-player.css",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/player_ias.vflset/en_US/embed.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/www-embed-player.vflset/www-embed-player.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/player_ias.vflset/en_US/base.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412405078%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22FCP%22%2C%22component%22%3A%22performance%22%2C%22section%22%3A%22main%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%2C%22duration_ms%22%3A1688.600000000035%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412405133%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22playback_startup_error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412405134%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412405160%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22playback_startup_error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412405160%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://video.twimg.com/ext_tw_video/1788605834198446080/pu/vid/avc1/1280x720/xBOoRr2QyjnpsGAy.mp4?tag=12",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://static.doubleclick.net/instream/ad_status.js",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://video.twimg.com/ext_tw_video/1791041656650661888/pu/vid/avc1/720x1280/s7750mUQor_ffaJl.mp4?tag=12",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/player_ias.vflset/en_US/remote.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.google.com/js/th/qYKp54bxMdgPywYfc-yhqguRPCT31YTVhLYxMebccTE.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://i.ytimg.com/vi_webp/WYUDMrDbSGE/maxresdefault.webp",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://yt3.ggpht.com/NcSAqMQRw5mNwXWnzpdxvHhM0eQPLlLW6r-S2yplEL50CvZYOsKRb6w0Nt1OQ6wu3Y1L2eleAqY=s68-c-k-c0x00ffffff-no-rj",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412405377%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412405397%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "google",
       "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
       "details": {
@@ -1321,24 +1289,16 @@
       }
     },
     {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "type": "twitter",
+      "url": "https://video.twimg.com/ext_tw_video/1791041656650661888/pu/vid/avc1/720x1280/s7750mUQor_ffaJl.mp4?tag=12",
       "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?w4Jr4A",
+      "url": "https://www.youtube.com/generate_204?u-x1Wg",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -1354,6 +1314,22 @@
     },
     {
       "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281774%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22playback_startup_error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281774%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
       "url": "https://video.twimg.com/ext_tw_video/1788605834198446080/pu/vid/avc1/1280x720/xBOoRr2QyjnpsGAy.mp4?tag=12",
       "details": {
         "id": "twitter",
@@ -1362,7 +1338,23 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412406394%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281831%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22playback_startup_error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281831%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281859%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -1378,7 +1370,39 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412406416%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017281876%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://video.twimg.com/ext_tw_video/1788605834198446080/pu/vid/avc1/1280x720/xBOoRr2QyjnpsGAy.mp4?tag=12",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017282875%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://video.twimg.com/ext_tw_video/1791041656650661888/pu/vid/avc1/720x1280/s7750mUQor_ffaJl.mp4?tag=12",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017282899%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -1402,7 +1426,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://video.twimg.com/ext_tw_video/1788605834198446080/pu/vid/avc1/1280x720/xBOoRr2QyjnpsGAy.mp4?tag=12",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017284891%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -1418,15 +1442,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412408432%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-2%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221788606368233996770%22%5D%2C%22item_details%22%3A%7B%221788606368233996770%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1732412408439%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
+      "url": "https://syndication.twitter.com/i/jot/embeds?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22triggered_on%22%3A1733017284917%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22tweet%22%2C%22action%22%3A%22error%22%2C%22section%22%3A%22main%22%2C%22component%22%3A%22video%22%2C%22element%22%3A%22video_player%22%7D%2C%22context%22%3A%22horizon%22%2C%22client_version%22%3A%222615f7e52b7e0%3A1702314776716%22%2C%22dnt%22%3Afalse%2C%22widget_id%22%3A%22twitter-widget-3%22%2C%22widget_origin%22%3A%22https%3A%2F%2Fchangerleurope.com%2F%22%2C%22widget_frame%22%3A%22false%22%2C%22widget_partner%22%3A%22%22%2C%22widget_site_screen_name%22%3A%22%22%2C%22widget_site_user_id%22%3A%22%22%2C%22widget_creator_screen_name%22%3A%22%22%2C%22widget_creator_user_id%22%3A%22%22%2C%22widget_iframe_version%22%3A%22e68601828f0ff%3A1725388913933%22%2C%22item_ids%22%3A%5B%221791041762393198672%22%5D%2C%22item_details%22%3A%7B%221791041762393198672%22%3A%7B%22item_type%22%3A0%7D%7D%7D",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -1436,10 +1452,10 @@
   "cookies": [
     {
       "name": "_ga",
-      "value": "GA1.1.1102794665.1732412403",
+      "value": "GA1.1.1625031091.1733017279",
       "domain": ".changerleurope.com",
       "path": "/",
-      "expires": 1795484403,
+      "expires": 1796089279,
       "size": 30,
       "httpOnly": false,
       "secure": false,
@@ -1450,10 +1466,10 @@
     },
     {
       "name": "_ga_77XF3MTEWR",
-      "value": "GS1.1.1732412403.1.0.1732412403.0.0.0",
+      "value": "GS1.1.1733017279.1.0.1733017279.0.0.0",
       "domain": ".changerleurope.com",
       "path": "/",
-      "expires": 1795484403,
+      "expires": 1796089279,
       "size": 51,
       "httpOnly": false,
       "secure": false,
@@ -1469,7 +1485,7 @@
     "content-encoding": "gzip",
     "content-length": "16837",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 24 Nov 2024 01:40:00 GMT",
+    "date": "Sun, 01 Dec 2024 01:41:16 GMT",
     "link": "<https://changerleurope.com/wp-json/>; rel=\"https://api.w.org/\", <https://changerleurope.com/wp-json/wp/v2/pages/9>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://changerleurope.com/>; rel=shortlink",
     "server": "Apache",
     "vary": "Accept-Encoding",
@@ -1538,7 +1554,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.202",
+      "ip": "142.251.111.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1592,7 +1608,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.251.46.170",
+      "ip": "142.251.163.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1646,7 +1662,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.46.196",
+      "ip": "64.233.180.103",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1700,7 +1716,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.46.200",
+      "ip": "142.251.16.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1754,18 +1770,19 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "151.101.40.157",
+      "ip": "146.75.28.157",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4744870,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -1798,13 +1815,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1822,17 +1839,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -1840,7 +1857,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.46.227",
+      "ip": "142.251.111.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1894,7 +1911,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.46.195",
+      "ip": "172.253.122.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1948,7 +1965,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.251.46.238",
+      "ip": "172.253.63.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2002,7 +2019,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.72",
+      "ip": "104.244.42.200",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2056,7 +2073,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "142.250.189.206",
+      "ip": "64.233.180.190",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2110,18 +2127,19 @@
     },
     {
       "hostname": "cdn.syndication.twimg.com",
-      "ip": "151.101.200.159",
+      "ip": "146.75.28.159",
       "geoip": {
         "city": {
-          "geoname_id": 5380748,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Palo Alto",
-            "en": "Palo Alto",
-            "es": "Palo Alto",
-            "fr": "Palo Alto",
-            "ja": "パロアルト",
-            "pt-BR": "Palo Alto",
-            "ru": "Пало Альто"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -2154,13 +2172,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.4433,
-          "longitude": -122.141,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "94302"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -2178,17 +2196,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -2249,180 +2267,8 @@
       }
     },
     {
-      "hostname": "pbs.twimg.com",
-      "ip": "151.101.200.159",
-      "geoip": {
-        "city": {
-          "geoname_id": 5380748,
-          "names": {
-            "de": "Palo Alto",
-            "en": "Palo Alto",
-            "es": "Palo Alto",
-            "fr": "Palo Alto",
-            "ja": "パロアルト",
-            "pt-BR": "Palo Alto",
-            "ru": "Пало Альто"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.4433,
-          "longitude": -122.141,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94302"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "video.twimg.com",
-      "ip": "151.101.200.158",
-      "geoip": {
-        "city": {
-          "geoname_id": 5380748,
-          "names": {
-            "de": "Palo Alto",
-            "en": "Palo Alto",
-            "es": "Palo Alto",
-            "fr": "Palo Alto",
-            "ja": "パロアルト",
-            "pt-BR": "Palo Alto",
-            "ru": "Пало Альто"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.4433,
-          "longitude": -122.141,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94302"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.250.191.34",
+      "ip": "142.251.16.156",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2476,7 +2322,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "142.251.214.134",
+      "ip": "142.251.167.148",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2529,8 +2375,94 @@
       }
     },
     {
+      "hostname": "pbs.twimg.com",
+      "ip": "151.101.44.159",
+      "geoip": {
+        "city": {
+          "geoname_id": 5128581,
+          "names": {
+            "de": "New York City",
+            "en": "New York",
+            "es": "Nueva York",
+            "fr": "New York",
+            "ja": "ニューヨーク",
+            "pt-BR": "Nova Iorque",
+            "ru": "Нью-Йорк"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 40.7123,
+          "longitude": -74.0068,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "10004"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
+      }
+    },
+    {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "142.250.189.170",
+      "ip": "142.251.111.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2584,7 +2516,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.251.46.246",
+      "ip": "142.251.163.119",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2638,7 +2570,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.250.189.161",
+      "ip": "142.251.16.132",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2692,7 +2624,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "142.251.46.174",
+      "ip": "172.253.63.102",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -2742,6 +2674,93 @@
             "zh-CN": "美国"
           }
         }
+      }
+    },
+    {
+      "hostname": "video.twimg.com",
+      "ip": "146.75.28.158",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
       }
     }
   ]
