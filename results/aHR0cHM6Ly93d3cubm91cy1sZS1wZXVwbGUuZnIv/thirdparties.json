@@ -41,6 +41,14 @@
       }
     },
     {
+      "type": "unpkg",
+      "url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
+      "details": {
+        "id": "unpkg",
+        "message": "Host files locally"
+      }
+    },
+    {
       "type": "google fonts",
       "url": "https://fonts.googleapis.com/css?family=Lato%3A100%2C200%2C300%2C400%2C500%2C600%2C800%2C700%2C900%2C200italic%2C400italic%2C600italic%2C800italic%7CWork+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CWork+Sans%3A200%2C400%2C600%2C700%2C800%2C900%7CWork+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C800%2C700%2C900%2C200italic%2C400italic%2C600italic%2C800italic%7CWork+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C800%2C700%2C900%2C200italic%2C400italic%2C600italic%2C800italic&subset=latin%2Clatin-ext&ver=1.0.0",
       "details": {
@@ -70,14 +78,6 @@
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unpkg",
-      "url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
-      "details": {
-        "id": "unpkg",
-        "message": "Host files locally"
       }
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://stats.wp.com/e-202447.js",
+      "url": "https://stats.wp.com/e-202448.js",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -201,19 +201,19 @@
       }
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/worksans/v19/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "unpkg",
       "url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
       "details": {
         "id": "unpkg",
         "message": "Host files locally"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/worksans/v19/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
@@ -281,6 +281,10 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://sibautomation.com/cm.html?key=quav8elr2o5vt8ys5577wl5k"
+    },
+    {
       "type": "google",
       "url": "https://www.gstatic.com/recaptcha/releases/pPK749sccDmVW_9DSeTMVvh2/recaptcha__en.js",
       "details": {
@@ -290,7 +294,7 @@
     },
     {
       "type": "Wordpress",
-      "url": "https://pixel.wp.com/g.gif?v=ext&blog=230671269&post=84&tz=1&srv=www.nous-le-peuple.fr&j=1%3A13.4.4&host=www.nous-le-peuple.fr&ref=&fcp=1851&rand=0.4600067338000571",
+      "url": "https://pixel.wp.com/g.gif?v=ext&blog=230671269&post=84&tz=1&srv=www.nous-le-peuple.fr&j=1%3A13.4.4&host=www.nous-le-peuple.fr&ref=&fcp=2457&rand=0.7807231534450965",
       "details": {
         "id": "Wordpress",
         "message": "Use hosted Matomo instance"
@@ -321,15 +325,19 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://sibautomation.com/cm.html?key=quav8elr2o5vt8ys5577wl5k"
-    },
-    {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeNG5MpAAAAAE_5k9M5EJH3Yy0JIFNpC7Q-u3LD&co=aHR0cHM6Ly93d3cubm91cy1sZS1wZXVwbGUuZnI6NDQz&hl=en&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&cb=hnt6c8utzkg0",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeNG5MpAAAAAE_5k9M5EJH3Yy0JIFNpC7Q-u3LD&co=aHR0cHM6Ly93d3cubm91cy1sZS1wZXVwbGUuZnI6NDQz&hl=en&v=pPK749sccDmVW_9DSeTMVvh2&size=invisible&cb=iibhixa01xvx",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/b46bb280/www-widgetapi.vflset/www-widgetapi.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
@@ -342,18 +350,10 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/www-widgetapi.vflset/www-widgetapi.js",
+      "url": "https://www.youtube.com/embed/OwlECKnIAP0?controls=0&rel=0&disablekb=1&showinfo=0&modestbranding=0&html5=1&iv_load_policy=3&autoplay=0&end=0&loop=1&playsinline=0&start=0&nocookie=false&playlist=OwlECKnIAP0&enablejsapi=1&origin=https%3A%2F%2Fwww.nous-le-peuple.fr&widgetid=1",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "brevo",
-      "url": "https://in-automate.brevo.com/cm?uuid=fb3570eb-106a-42ff-82a2-3c9a1a583b93&key=quav8elr2o5vt8ys5577wl5k&cuid=4b670c03-190c-41d0-8efa-5577c2d34ca5",
-      "details": {
-        "id": "brevo",
-        "message": "Ensure your TOS notify the Brevo usage"
       }
     },
     {
@@ -373,16 +373,8 @@
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/embed/OwlECKnIAP0?controls=0&rel=0&disablekb=1&showinfo=0&modestbranding=0&html5=1&iv_load_policy=3&autoplay=0&end=0&loop=1&playsinline=0&start=0&nocookie=false&playlist=OwlECKnIAP0&enablejsapi=1&origin=https%3A%2F%2Fwww.nous-le-peuple.fr&widgetid=1",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
       "type": "google",
-      "url": "https://www.google.com/js/bg/-KISGY_lf2wQpbAKlyp3i_JZZZ7bGpBPdfJtWWpM4-4.js",
+      "url": "https://www.google.com/js/bg/iAiRdCDiy8cN-zKQKtPuhk-yqRT1QyYi8vy1DA-caJo.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -438,7 +430,7 @@
     },
     {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=quav8elr2o5vt8ys5577wl5k&cuid=4b670c03-190c-41d0-8efa-5577c2d34ca5&ma_url=https%3A%2F%2Fwww.nous-le-peuple.fr%2F&sib_type=page&ma_title=Accueil%20-%20NLP%20-%20Nous%20le%20Peuple%20-%20Liste%20citoyenne%20aux%20europ%C3%A9ennes&sib_name=Accueil%20-%20NLP%20-%20Nous%20le%20Peuple%20-%20Liste%20citoyenne%20aux%20europ%C3%A9ennes&ma_referrer=&ma_path=%2F",
+      "url": "https://in-automate.brevo.com/cm?uuid=8375c451-32a2-49a1-ac5f-28c4a0ecb540&key=quav8elr2o5vt8ys5577wl5k&cuid=b3a8bd84-4a68-4fc5-9f74-09db26e6cb6e",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -446,7 +438,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/www-player.css",
+      "url": "https://www.youtube.com/s/player/b46bb280/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -454,7 +446,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/b46bb280/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -462,7 +454,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/b46bb280/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -470,7 +462,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/89dfc5b3/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/b46bb280/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -526,7 +518,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/FaW0q-y8JjmoU9T0UDvbGph-S7KEa5MvRd-6bYW3ujg.js",
+      "url": "https://www.google.com/js/th/B7USFwsz_nMovXHWu4UwQRY0Qlt3iq-mQpCYnZ8jj34.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -557,8 +549,16 @@
       }
     },
     {
+      "type": "brevo",
+      "url": "https://in-automate.brevo.com/p?key=quav8elr2o5vt8ys5577wl5k&cuid=b3a8bd84-4a68-4fc5-9f74-09db26e6cb6e&ma_url=https%3A%2F%2Fwww.nous-le-peuple.fr%2F&sib_type=page&ma_title=Accueil%20-%20NLP%20-%20Nous%20le%20Peuple%20-%20Liste%20citoyenne%20aux%20europ%C3%A9ennes&sib_name=Accueil%20-%20NLP%20-%20Nous%20le%20Peuple%20-%20Liste%20citoyenne%20aux%20europ%C3%A9ennes&ma_referrer=&ma_path=%2F",
+      "details": {
+        "id": "brevo",
+        "message": "Ensure your TOS notify the Brevo usage"
+      }
+    },
+    {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?hATGMg",
+      "url": "https://www.youtube.com/generate_204?glBdzw",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -574,31 +574,31 @@
     },
     {
       "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
       "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -638,11 +638,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://api-js.mixpanel.com/track/?verbose=1&ip=1&_=1732412378223"
+      "url": "https://api-js.mixpanel.com/track/?verbose=1&ip=1&_=1733017344273"
     },
     {
       "type": "unknown",
-      "url": "https://api-js.mixpanel.com/engage/?verbose=1&ip=1&_=1732412378224"
+      "url": "https://api-js.mixpanel.com/engage/?verbose=1&ip=1&_=1733017344275"
     },
     {
       "type": "google",
@@ -664,10 +664,10 @@
   "cookies": [
     {
       "name": "sib_cuid",
-      "value": "4b670c03-190c-41d0-8efa-5577c2d34ca5",
+      "value": "b3a8bd84-4a68-4fc5-9f74-09db26e6cb6e",
       "domain": ".www.nous-le-peuple.fr",
       "path": "/",
-      "expires": 1748133573,
+      "expires": 1748738539,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -678,10 +678,10 @@
     },
     {
       "name": "mp_null_mixpanel",
-      "value": "%7B%22distinct_id%22%3A%200%2C%22%24device_id%22%3A%20%221935bd2f8f177e-0c907e5140be41-12221e24-75300-1935bd2f8f177e%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22mp_name_tag%22%3A%20%22%20%22%7D",
+      "value": "%7B%22distinct_id%22%3A%200%2C%22%24device_id%22%3A%20%221937fe205969d6-0f295e14fb0124-12221e24-75300-1937fe205979d6%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22mp_name_tag%22%3A%20%22%20%22%7D",
       "domain": ".nous-le-peuple.fr",
       "path": "/",
-      "expires": 1763948373,
+      "expires": 1764553339,
       "size": 464,
       "httpOnly": false,
       "secure": false,
@@ -696,7 +696,7 @@
     "content-encoding": "gzip",
     "content-length": "37706",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 24 Nov 2024 01:39:31 GMT",
+    "date": "Sun, 01 Dec 2024 01:42:17 GMT",
     "keep-alive": "timeout=5, max=100",
     "link": "<https://www.nous-le-peuple.fr/wp-json/>; rel=\"https://api.w.org/\", <https://www.nous-le-peuple.fr/wp-json/wp/v2/pages/84>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.nous-le-peuple.fr/>; rel=shortlink",
     "server": "Apache",
@@ -848,7 +848,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.249.203",
+      "ip": "104.17.247.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -868,7 +868,7 @@
     },
     {
       "hostname": "maxcdn.bootstrapcdn.com",
-      "ip": "104.18.10.207",
+      "ip": "104.18.11.207",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -888,7 +888,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "142.251.32.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1029,7 +1029,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.16.103",
+      "ip": "142.251.46.164",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1170,7 +1170,7 @@
     },
     {
       "hostname": "cdn.mxpnl.com",
-      "ip": "130.211.5.208",
+      "ip": "35.186.235.23",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1224,7 +1224,7 @@
     },
     {
       "hostname": "sibautomation.com",
-      "ip": "172.64.148.115",
+      "ip": "104.18.39.141",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -1244,7 +1244,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.111.94",
+      "ip": "142.250.189.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1298,7 +1298,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "172.253.122.94",
+      "ip": "142.251.214.131",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1439,7 +1439,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "142.251.167.91",
+      "ip": "142.250.191.78",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1493,7 +1493,7 @@
     },
     {
       "hostname": "youtu.be",
-      "ip": "172.253.122.93",
+      "ip": "142.250.188.14",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1567,7 +1567,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.250.31.156",
+      "ip": "142.250.188.2",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1621,7 +1621,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "142.251.163.148",
+      "ip": "142.250.189.198",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1675,7 +1675,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "172.253.115.95",
+      "ip": "142.250.72.202",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1729,7 +1729,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "64.233.180.119",
+      "ip": "142.251.214.150",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1783,7 +1783,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "172.253.122.132",
+      "ip": "172.217.12.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1837,7 +1837,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "172.253.115.139",
+      "ip": "142.251.46.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1891,7 +1891,7 @@
     },
     {
       "hostname": "api-js.mixpanel.com",
-      "ip": "35.186.241.51",
+      "ip": "35.190.25.25",
       "geoip": {
         "continent": {
           "code": "NA",
