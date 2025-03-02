@@ -1,0 +1,150 @@
+{
+  "scan": {
+    "algorithmVersion": 4,
+    "grade": "F",
+    "error": null,
+    "score": 0,
+    "statusCode": 200,
+    "testsFailed": 6,
+    "testsPassed": 4,
+    "testsQuantity": 10,
+    "responseHeaders": {
+      "server": "nginx",
+      "date": "Sun, 02 Mar 2025 01:08:54 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "close",
+      "x-powered-by": "PHP/8.2.27, PleskLin",
+      "cache-control": "max-age=0, must-revalidate, no-cache, no-store, private",
+      "pragma": "no-cache",
+      "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+      "set-cookie": [
+        "XSRF-TOKEN=eyJpdiI6ImxBMHloY2diOXU5NW9UNytPRkw3aXc9PSIsInZhbHVlIjoiVzczSmpFbEhRV2ZBSEhNVEVRS2xJWHd0b3I4RitKSHcrckFZVXpTUHRHRitWUGZlRWRKRlJ6M1BBZFduaVVnS2pJeHhMNHNkN3orQVYwZUY1R3FCR3ViTjFtdkV2aE5EMEZ3RHZzd3Bab0ZvS1pIM212bUJzSVRSaVlKM29qb3QiLCJtYWMiOiIyYTEzYjUxNTIwMDM1ZDk2NWM1ZDg1ZjYyNGRhYTRkYTE0OWM2NGM2ZTZkYzRiY2I4MWYxNWFmOTlmNjNhNGM2IiwidGFnIjoiIn0%3D; expires=Sun, 02 Mar 2025 03:08:54 GMT; Max-Age=7200; path=/; secure; samesite=lax",
+        "v9j_session=eyJpdiI6Illxak5ZUjNUMDFSUFdQYkhCNW1RTkE9PSIsInZhbHVlIjoiQXRIdWxJNUh3WU5ucDVldlROczhMaFdSbVhxcW0zQ0tiU2VIU3g4OG5oSkp0N1FnWkN2ZElSdFNmcE92MTg1S0pyRkRZdEFkWWl6dlptaVpOYjUvTkNSTWdVVWhnQkNwZ0NFelZlQ081L3VkbkZzeGYxemdIbDA3bENuRXFpV0ciLCJtYWMiOiJhYmI4ZDE3MjcxMjU3NTNhY2M3NTFiMTUxMjQ0ZmE0YTVkNDdmNTE4N2RhOWFkMGVlNjk1M2UwYWRiYWMxNGI3IiwidGFnIjoiIn0%3D; expires=Sun, 02 Mar 2025 03:08:54 GMT; Max-Age=7200; path=/; httponly; samesite=lax"
+      ]
+    }
+  },
+  "tests": {
+    "content-security-policy": {
+      "expectation": "csp-implemented-with-no-unsafe",
+      "pass": false,
+      "result": "csp-not-implemented",
+      "scoreModifier": -25,
+      "data": null,
+      "http": false,
+      "meta": false,
+      "policy": null,
+      "numPolicies": 0
+    },
+    "cookies": {
+      "expectation": "cookies-secure-with-httponly-sessions",
+      "pass": false,
+      "result": "cookies-session-without-secure-flag",
+      "scoreModifier": -40,
+      "data": {
+        "XSRF-TOKEN": {
+          "domain": "vivementle9juin.fr",
+          "expires": "2025-03-02T03:08:54.000Z",
+          "max-age": 7200,
+          "path": "/",
+          "port": null,
+          "samesite": "lax",
+          "secure": true
+        },
+        "v9j_session": {
+          "domain": "vivementle9juin.fr",
+          "expires": "2025-03-02T03:08:54.000Z",
+          "httponly": true,
+          "max-age": 7200,
+          "path": "/",
+          "port": null,
+          "samesite": "lax"
+        }
+      },
+      "sameSite": false
+    },
+    "cross-origin-resource-sharing": {
+      "expectation": "cross-origin-resource-sharing-not-implemented",
+      "pass": true,
+      "result": "cross-origin-resource-sharing-not-implemented",
+      "scoreModifier": 0,
+      "data": null
+    },
+    "redirection": {
+      "expectation": "redirection-to-https",
+      "pass": true,
+      "result": "redirection-to-https",
+      "scoreModifier": 0,
+      "destination": "https://vivementle9juin.fr/",
+      "redirects": true,
+      "route": [
+        "http://vivementle9juin.fr/",
+        "https://vivementle9juin.fr/"
+      ],
+      "statusCode": 200
+    },
+    "referrer-policy": {
+      "expectation": "referrer-policy-private",
+      "pass": true,
+      "result": "referrer-policy-not-implemented",
+      "scoreModifier": 0,
+      "data": null,
+      "http": false,
+      "meta": false
+    },
+    "strict-transport-security": {
+      "expectation": "hsts-implemented-max-age-at-least-six-months",
+      "pass": false,
+      "result": "hsts-not-implemented",
+      "scoreModifier": -20,
+      "data": null,
+      "includeSubDomains": false,
+      "maxAge": null,
+      "preload": false,
+      "preloaded": false
+    },
+    "subresource-integrity": {
+      "expectation": "sri-implemented-and-external-scripts-loaded-securely",
+      "pass": false,
+      "result": "sri-not-implemented-and-external-scripts-not-loaded-securely",
+      "scoreModifier": -50,
+      "data": {
+        "https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "//widget.manychat.com/1598764970362891.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://mccdn.me/assets/js/widget.js": {
+          "crossorigin": null,
+          "integrity": null
+        }
+      }
+    },
+    "x-content-type-options": {
+      "expectation": "x-content-type-options-nosniff",
+      "pass": false,
+      "result": "x-content-type-options-not-implemented",
+      "scoreModifier": -5,
+      "data": null
+    },
+    "x-frame-options": {
+      "expectation": "x-frame-options-sameorigin-or-deny",
+      "pass": false,
+      "result": "x-frame-options-not-implemented",
+      "scoreModifier": -20,
+      "data": null
+    },
+    "cross-origin-resource-policy": {
+      "expectation": "corp-implemented-with-same-site",
+      "pass": true,
+      "result": "corp-not-implemented",
+      "scoreModifier": 0,
+      "data": null,
+      "http": false,
+      "meta": false
+    }
+  }
+}
