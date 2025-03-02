@@ -1,0 +1,151 @@
+{
+  "scan": {
+    "algorithmVersion": 4,
+    "grade": "D",
+    "error": null,
+    "score": 30,
+    "statusCode": 200,
+    "testsFailed": 6,
+    "testsPassed": 4,
+    "testsQuantity": 10,
+    "responseHeaders": {
+      "date": "Sun, 02 Mar 2025 01:07:33 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "close",
+      "vary": "Accept-Encoding",
+      "link": "<https://lafranceinsoumise.fr/wp-json/>; rel=\"https://api.w.org/\", <https://lafranceinsoumise.fr/wp-json/wp/v2/pages/89584>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lafranceinsoumise.fr/?p=89584>; rel=shortlink",
+      "expires": "Sun, 02 Mar 2025 01:07:31 GMT",
+      "cache-control": "no-cache",
+      "strict-transport-security": "max-age=86400;",
+      "fastcgi-cache": "HIT",
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfL4;desc=\"?proto=TCP&rtt=5533&min_rtt=5455&rtt_var=2102&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2851&recv_bytes=807&delivery_rate=523556&cwnd=251&unsent_bytes=0&cid=e11a6a24f049d506&ts=152&x=0\"",
+      "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=0KWJSeRrtzDhNIuLp%2B8iovq3giSKNy1Nztd0%2BfCDz9wunbeIq%2F8HwyiyHMXvRywGW4Tmr1VF0Y0eIPSgdSn8nxHf%2FGfcH4prXlUvZqjZJuv6eBcVmi6%2B8S6iaVhO6Z5jATwOpzx5fA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "server": "cloudflare",
+      "cf-ray": "919cff729d89d8b4-IAD",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    }
+  },
+  "tests": {
+    "content-security-policy": {
+      "expectation": "csp-implemented-with-no-unsafe",
+      "pass": false,
+      "result": "csp-not-implemented",
+      "scoreModifier": -25,
+      "data": null,
+      "http": false,
+      "meta": false,
+      "policy": null,
+      "numPolicies": 0
+    },
+    "cookies": {
+      "expectation": "cookies-secure-with-httponly-sessions",
+      "pass": true,
+      "result": "cookies-not-found",
+      "scoreModifier": 0,
+      "data": null,
+      "sameSite": false
+    },
+    "cross-origin-resource-sharing": {
+      "expectation": "cross-origin-resource-sharing-not-implemented",
+      "pass": true,
+      "result": "cross-origin-resource-sharing-not-implemented",
+      "scoreModifier": 0,
+      "data": null
+    },
+    "redirection": {
+      "expectation": "redirection-to-https",
+      "pass": false,
+      "result": "redirection-off-host-from-http",
+      "scoreModifier": -5,
+      "destination": "https://lafranceinsoumise.fr/europeennes-2024/",
+      "redirects": true,
+      "route": [
+        "http://lunionpopulaire.fr/",
+        "https://lafranceinsoumise.fr/europeennes-2024/"
+      ],
+      "statusCode": 200
+    },
+    "referrer-policy": {
+      "expectation": "referrer-policy-private",
+      "pass": true,
+      "result": "referrer-policy-not-implemented",
+      "scoreModifier": 0,
+      "data": null,
+      "http": false,
+      "meta": false
+    },
+    "strict-transport-security": {
+      "expectation": "hsts-implemented-max-age-at-least-six-months",
+      "pass": false,
+      "result": "hsts-implemented-max-age-less-than-six-months",
+      "scoreModifier": -10,
+      "data": "max-age=86400;",
+      "includeSubDomains": false,
+      "maxAge": 86400,
+      "preload": false,
+      "preloaded": false
+    },
+    "subresource-integrity": {
+      "expectation": "sri-implemented-and-external-scripts-loaded-securely",
+      "pass": false,
+      "result": "sri-not-implemented-but-external-scripts-loaded-securely",
+      "scoreModifier": -5,
+      "data": {
+        "https://lafranceinsoumise.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://lafranceinsoumise.fr/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.1.13": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://lafranceinsoumise.fr/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://lafranceinsoumise.fr/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://kit.fontawesome.com/9c2cc757ba.js?ver=3.27.4": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://lafranceinsoumise.fr/wp-content/cache/autoptimize/js/autoptimize_48a0d26bc4cfecf8ebce66e798c2dca1.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015": {
+          "crossorigin": "anonymous",
+          "integrity": "sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
+        }
+      }
+    },
+    "x-content-type-options": {
+      "expectation": "x-content-type-options-nosniff",
+      "pass": false,
+      "result": "x-content-type-options-not-implemented",
+      "scoreModifier": -5,
+      "data": null
+    },
+    "x-frame-options": {
+      "expectation": "x-frame-options-sameorigin-or-deny",
+      "pass": false,
+      "result": "x-frame-options-not-implemented",
+      "scoreModifier": -20,
+      "data": null
+    },
+    "cross-origin-resource-policy": {
+      "expectation": "corp-implemented-with-same-site",
+      "pass": true,
+      "result": "corp-not-implemented",
+      "scoreModifier": 0,
+      "data": null,
+      "http": false,
+      "meta": false
+    }
+  }
+}
